@@ -1,0 +1,3884 @@
+{
+    "vocabulary": [
+        {
+            "english_word": "a black jack",
+            "uzbek_word": "1) катта пива кружкаси;               2)  қора рангли енги йўқ солдат курткаси; 3) амер. йўғон тайёқ",
+            "russian_word": "1) высокая пивная кружка;                 2) черная солдатская кожаная куртка без рукавов;   3) амер. дубинка"
+        },
+        {
+            "english_word": "a bosom friend",
+            "uzbek_word": "қадрли дўст",
+            "russian_word": "закадычный друг"
+        },
+        {
+            "english_word": "a  bright spot",
+            "uzbek_word": "қувончли дамлар",
+            "russian_word": "приятный, яркий момент"
+        },
+        {
+            "english_word": "a cat in the meal",
+            "uzbek_word": "амер.кам. сир, махфий нарса",
+            "russian_word": "амер.редк.тайна, секрет"
+        },
+        {
+            "english_word": "a day off",
+            "uzbek_word": "дам олиш куни",
+            "russian_word": "выходной день"
+        },
+        {
+            "english_word": "a drop in the ocean",
+            "uzbek_word": "денгиздан бир томчи",
+            "russian_word": "капля в море"
+        },
+        {
+            "english_word": "a flea in one’s ear",
+            "uzbek_word": "эътироз билдириш",
+            "russian_word": "резкое замечание"
+        },
+        {
+            "english_word": "a fly in amber",
+            "uzbek_word": "кўч.м. камёб, ноёб, кам учрайдиган нарса; анқони уруғи",
+            "russian_word": "перен. музейная редкость"
+        },
+        {
+            "english_word": "a fresh (green) hand",
+            "uzbek_word": "кўч.м. тажрибасиз одам, ишчи, янги (эндигина) келган одам; ғўр",
+            "russian_word": "перен. неопытный человек, работник; зеленый"
+        },
+        {
+            "english_word": "a rose between two thorns",
+            "uzbek_word": "икки эркак ўртасида ўтирган гўзал аёл (икки тикан ўртасидаги гул)",
+            "russian_word": "красивая женщина сидящая между двумя мужчинами"
+        },
+        {
+            "english_word": "a hen with one chicken",
+            "uzbek_word": "жонсарак одам",
+            "russian_word": "хлопотунья"
+        },
+        {
+            "english_word": "a sore spot",
+            "uzbek_word": "заиф жой; қалтис, нозик масала; бошни қотирадиган чигал (мужмал) нарса",
+            "russian_word": "больное место, уязвимое место"
+        },
+        {
+            "english_word": "a stone’s throw from",
+            "uzbek_word": "1) тош отса бўладиган масофа; 2) жуда яқин; бир қадам",
+            "russian_word": "1) расстояние, на которое можно бросить камень; 2) рукой подать"
+        },
+        {
+            "english_word": "a wet blanket",
+            "uzbek_word": "райини қайтармоқ, ҳафсаласини пир қилмоқ",
+            "russian_word": "человек (обстоятельство) действующий на расхолаживающий на других, отбивающий охоту к чему-л"
+        },
+        {
+            "english_word": "a wooden Indian; as dumb as a wooden",
+            "uzbek_word": "амер. ҳиссиз одам",
+            "russian_word": "амер. человек безжизненным лицом, невыразительным"
+        },
+        {
+            "english_word": "act the ass  /  play the ass",
+            "uzbek_word": "ўзини анқовликка солмоқ",
+            "russian_word": "валять дурака, глупо себя держать"
+        },
+        {
+            "english_word": "adams Apple",
+            "uzbek_word": "анат. иб. кекирдакнинг туртиб чиққан жойи, қўштомоқ; кекирдак",
+            "russian_word": "анат. адамово яблоко, кадык"
+        },
+        {
+            "english_word": "against the grain",
+            "uzbek_word": "кўч.м. ўлган кунимдан",
+            "russian_word": "перен. против желания"
+        },
+        {
+            "english_word": "all at once",
+            "uzbek_word": "кутилмаганда, қўққисдан, тўсатдан",
+            "russian_word": "неожиданно, вдруг"
+        },
+        {
+            "english_word": "all day long",
+            "uzbek_word": "кун бўйи, эртадан кечгача",
+            "russian_word": "целый день; с утра до вечера"
+        },
+        {
+            "english_word": "all in all",
+            "uzbek_word": "умуман, батамом, тамоман",
+            "russian_word": "в целом, в общем"
+        },
+        {
+            "english_word": "all one’s geese are swans",
+            "uzbek_word": "у ҳаммасини бўрттириб юборяпти",
+            "russian_word": "она всё приукрашивает, преувеличивает"
+        },
+        {
+            "english_word": "all over",
+            "uzbek_word": "1) ҳамма ерда, ҳамма жойда, ҳар ёқда; 2)ҳаммаси тугади",
+            "russian_word": "1) повсюду;2) всё кончено"
+        },
+        {
+            "english_word": "all the better/so much the better",
+            "uzbek_word": "яхши бўлди",
+            "russian_word": "тем лучше"
+        },
+        {
+            "english_word": "an apple of another tree",
+            "uzbek_word": "бу бошқа гап эди",
+            "russian_word": "совсем другое дело"
+        },
+        {
+            "english_word": "an ass between two bundles of hey",
+            "uzbek_word": "икки нарсадан бирини танлай олмаётган одам ҳақида, икки ўт орасида",
+            "russian_word": "Буриданов осёл (о человеке не решающийся сделать выбор)"
+        },
+        {
+            "english_word": "an ass in a lion’s skin",
+            "uzbek_word": "шер терисидаги эшак [Эзопнинг масаллари-дан бирининг номи]",
+            "russian_word": "осёл в львиной шкуре [по названию одной из басен Эзопа]."
+        },
+        {
+            "english_word": "an ass with two panniers",
+            "uzbek_word": "ҳаз. икки аёлнинг қўлидан тутиб кетаётган эркак",
+            "russian_word": "шутл. мужчина, идущий под руку с двумя женщинами"
+        },
+        {
+            "english_word": "an easy target or easy prey",
+            "uzbek_word": "лақиллатса бўладиган одам, бировнинг қўйган тузоғига осон илинадиган одамлар, лаққа тушмоқ; лақма",
+            "russian_word": "человек, которого легко обмануть, одурачить"
+        },
+        {
+            "english_word": "and I’m a Dutchman",
+            "uzbek_word": "тил тортмай ўлмоқ, агар бу ёлғон бўлса",
+            "russian_word": "будь я проклят, провалиться мне на этом самом месте"
+        },
+        {
+            "english_word": "arab of the gutter (street Arab)",
+            "uzbek_word": "кўча боласи",
+            "russian_word": "уличный мальчишка, беспризорный"
+        },
+        {
+            "english_word": "are you there with your bears?",
+            "uzbek_word": "сўз. сиз бу ерда ҳам ўша иш билан шуғулланяпсизми? Эски ҳаммом эски тос?",
+            "russian_word": "разг. вы и здесь тем же занимаетесь? Опять то же самое. Опять принялись за старое?"
+        },
+        {
+            "english_word": "as light as a feather",
+            "uzbek_word": "қушдек енгил",
+            "russian_word": "легкий как пёрышка"
+        },
+        {
+            "english_word": "as black as an ink",
+            "uzbek_word": "хафа, қайғули, маюс, ғамгин; ғам босди, кучли ўй-ташвиш остида қолди, ғамга ботмоқ",
+            "russian_word": "мрачный, в темном свете"
+        },
+        {
+            "english_word": "as bold as a lion",
+            "uzbek_word": "шердек жасур, шерюрак (қўрқмас, довюрак)",
+            "russian_word": "храбрый, как лев"
+        },
+        {
+            "english_word": "as brown as a berry",
+            "uzbek_word": "қопқора, қуёшда жуда тобланган",
+            "russian_word": "совершенно тёмный загар;очень загорелый, шоколадного цвета"
+        },
+        {
+            "english_word": "as clear as day",
+            "uzbek_word": "кундай равшан, аниқ, оппа ойдин",
+            "russian_word": "ясно, как день, совершенно ясно"
+        },
+        {
+            "english_word": "as gentle as a lamb",
+            "uzbek_word": "ювош, беозор, мулойим, қўйдек ювош, чумолига ҳам озор бермайдиган одам",
+            "russian_word": "кроткий, как ягненок"
+        },
+        {
+            "english_word": "as good luck as had the cow that struck herself with her own horn",
+            "uzbek_word": "омади йўқ одам, омадсиз",
+            "russian_word": "везет, как утопленнику"
+        },
+        {
+            "english_word": "as green as grass, as green as gooseberry",
+            "uzbek_word": "ҳаз. ҳаётий тажрибага эга бўлмаган одам, ғўр, хом одам",
+            "russian_word": "шутл. зеленый как трава, очень неопытный, незнающий жизнь"
+        },
+        {
+            "english_word": "as like as two peas",
+            "uzbek_word": "икки томчи сувдек ўхшайди",
+            "russian_word": "похожи, как две капли воды"
+        },
+        {
+            "english_word": "as merry as a cricket",
+            "uzbek_word": "хурсандчилиги ичига сиғмайдиган",
+            "russian_word": "веселый, словно сверчок (т.е. жизнерадостный)"
+        },
+        {
+            "english_word": "as obstinate as a mule",
+            "uzbek_word": "эшакдек қайсар",
+            "russian_word": "упрямый, как осёл"
+        },
+        {
+            "english_word": "as proud as a peacock",
+            "uzbek_word": "ўзига бино қўйган, товусдек гердайган, димоғи шишди, бурни кўтарилди, димоғида ош пишади, димоғидан эшак қурти ёғилади",
+            "russian_word": "тщеславный, важный как павлин, гордый гусь"
+        },
+        {
+            "english_word": "as quiet as a mouse",
+            "uzbek_word": "қўйдек ювош",
+            "russian_word": "тихий, как мышь"
+        },
+        {
+            "english_word": "as quick as lightning",
+            "uzbek_word": "яшиндай тез",
+            "russian_word": "быстрый, как молния"
+        },
+        {
+            "english_word": "as red as a blood",
+            "uzbek_word": "қизил, қип–қизил",
+            "russian_word": "кроваво-красный, красный, как кровь"
+        },
+        {
+            "english_word": "as red as a cherry",
+            "uzbek_word": "қип–қизил мағиздек; ширмой кулчадек; оқи–оқ, қизили–қизил (қизил юзли соғлом одам ҳақида) қип-қизил олмадек",
+            "russian_word": "кровь с молоком, румяный, с румянцем во всю щеку"
+        },
+        {
+            "english_word": "as red as a lobster",
+            "uzbek_word": "олмадек қизил",
+            "russian_word": "красный, как рак"
+        },
+        {
+            "english_word": "as red as a turkey-cock",
+            "uzbek_word": "олмадек қизил, хўрознинг тожисидек қизил",
+            "russian_word": "красный, как индюк"
+        },
+        {
+            "english_word": "as silly as a goose",
+            "uzbek_word": "ғирт аҳмоқ",
+            "russian_word": "глуп, как пробка"
+        },
+        {
+            "english_word": "as strong as a horse",
+            "uzbek_word": "филдай бақувват",
+            "russian_word": "сильный, как бык"
+        },
+        {
+            "english_word": "as sweet as a nut, (honey, sugar)",
+            "uzbek_word": "асалдек ширин",
+            "russian_word": "сладкий, как мёд"
+        },
+        {
+            "english_word": "as swift as an arrow",
+            "uzbek_word": "яшин тезлигида, яшин тезлиги билан",
+            "russian_word": "быстротой молнии, мгновенно"
+        },
+        {
+            "english_word": "as the crow flies",
+            "uzbek_word": "яқин йўл билан, тўғридан–тўғри",
+            "russian_word": "по прямой линии, на прямик, кратчайшим путем"
+        },
+        {
+            "english_word": "ass in grain",
+            "uzbek_word": "аҳмоқ, ғирт аҳмоқ, ўтакетган аҳмоқ",
+            "russian_word": "круглый, набитый дурак"
+        },
+        {
+            "english_word": "at a good bat",
+            "uzbek_word": "жуда тез, тезликда",
+            "russian_word": "очень быстро, в быстром темпе"
+        },
+        {
+            "english_word": "at hand",
+            "uzbek_word": "1) олдида; олдигинасида; яқин жойда; 2) унча узоқ эмас; кўп ҳам олисда эмас; яқин орада; кўп ҳам қолгани йўқ",
+            "russian_word": "1) близко, рядом, под рукой, рукой подать,  перед носом; 2) не за горами, на носу"
+        },
+        {
+            "english_word": "at your own risk",
+            "uzbek_word": "таваккал қилиб, бутун масъулиятни ўз бўйнига олиб",
+            "russian_word": "на собственный страх и риск"
+        },
+        {
+            "english_word": "australian ballot",
+            "uzbek_word": "яширин овоз бериш (Австралиянинг ғарбида)",
+            "russian_word": "тайное голосование (на юге Австралии)"
+        },
+        {
+            "english_word": "back street",
+            "uzbek_word": "жин кўча",
+            "russian_word": "глухая, отдалённая улица"
+        },
+        {
+            "english_word": "back the wrong horse",
+            "uzbek_word": "ҳисоб–китобларда адашмоқ, танлашда адашмоқ, нотўғри қарор қилмоқ, нишонни нотўғри олмоқ",
+            "russian_word": "поставить не на ту лошадь, сделать плохой выбор, ошибиться в расчетах"
+        },
+        {
+            "english_word": "banana oil",
+            "uzbek_word": "амер. сл. бўлмағур гап, сафсата, беъмани гап",
+            "russian_word": "амер. сл. чепуха, вздор"
+        },
+        {
+            "english_word": "bark up the wrong tree",
+            "uzbek_word": "хато қилмоқ, янглишмоқ",
+            "russian_word": "напасть на ложный след, ошибиться, обратиться не по адресу"
+        },
+        {
+            "english_word": "be (look) blue (green, white, yellow) about gills",
+            "uzbek_word": "кўриниши ёмон",
+            "russian_word": "иметь больной вид; выглядить больным"
+        },
+        {
+            "english_word": "be a far cry from",
+            "uzbek_word": "катта фарқ",
+            "russian_word": "большая разница"
+        },
+        {
+            "english_word": "be all ears",
+            "uzbek_word": "жуда диққат билан қулоқ солмоқ",
+            "russian_word": "слушать внимательно, превратиться вслух"
+        },
+        {
+            "english_word": "be all right on the goose",
+            "uzbek_word": "ананавий ғоялар, фикрларида турмоқ",
+            "russian_word": "придерживаться традиционной точки зрении"
+        },
+        {
+            "english_word": "be at bat",
+            "uzbek_word": "асосий рольни ўйнамоқ, ҳокимият (ҳукумат) бошида бўлмоқ",
+            "russian_word": "играть главную роль, стать у власти"
+        },
+        {
+            "english_word": "be at the top of a tree",
+            "uzbek_word": "юқори мансабни эгалламоқ, бошида бўлмоқ",
+            "russian_word": "занимать ведущее положение, быть во главе"
+        },
+        {
+            "english_word": "be born within the sound of Bow Bell",
+            "uzbek_word": "Лондонда туғилмоқ (Лондоннинг марказида ўзининг қўнғироқ овози билан машҳур бўлган черков жойлашган)",
+            "russian_word": "родиться в Лондоне (в центре Лондона находиться известная своим колокольным звоном церковь)"
+        },
+        {
+            "english_word": "be dog at",
+            "uzbek_word": "сув қилиб ичмоқ; (бирор иши ёки юмушининг) пой-чоғини олволди (иш ёки ҳунарнинг) йўлини билиб, сув қилиб ичиб юборди; (ўша иш ёки ҳунарнинг) пири бўлиб кетди",
+            "russian_word": "собаку съесть на    чем-л"
+        },
+        {
+            "english_word": "be in a hurry or   do smth in a hurry",
+            "uzbek_word": "шошмоқ",
+            "russian_word": "торопиться, спешить"
+        },
+        {
+            "english_word": "be in charge of",
+            "uzbek_word": "масъулиятли, жавобгар бўлмоқ, раҳбарлик қилмоқ",
+            "russian_word": "быть ответственным, стоять во главе, руководить чем-л."
+        },
+        {
+            "english_word": "be in doubt",
+            "uzbek_word": "шубҳаланмоқ, шубҳа остида бўлмоқ",
+            "russian_word": "сомневаться, быть в сомнении что-л. сделать"
+        },
+        {
+            "english_word": "be in luck",
+            "uzbek_word": "омад кулиб боқмоқ; омади келмоқ, омади юришди",
+            "russian_word": "быть удачливым; повезти, счастье привалило"
+        },
+        {
+            "english_word": "be in red",
+            "uzbek_word": "амер. топилмайдиган нарса, дефицит",
+            "russian_word": "амер. быть дефицитом"
+        },
+        {
+            "english_word": "be in the same boat",
+            "uzbek_word": "бир хил аҳволда бўлмоқ",
+            "russian_word": "быт в одинаковом положении"
+        },
+        {
+            "english_word": "be in two minds (about smth)",
+            "uzbek_word": "бирор нарса ҳақида икки хил фикрга эга бўлмоқ, иккиланмоқ, у нима қилишини ўзи билмайди",
+            "russian_word": "находиться в нерешительности, колебаться, не знать, на что решится"
+        },
+        {
+            "english_word": "be made of money",
+            "uzbek_word": "унинг пули жуда кўп, кўп пул қўлга киритмоқ",
+            "russian_word": "загребать деньги лопатой; денег куры не клюют"
+        },
+        {
+            "english_word": "be off one’s onion",
+            "uzbek_word": "сл. жинни бўлиб қолмоқ, ақлдан озмоқ, телба бўлмоқ, эсдан оғмоқ",
+            "russian_word": "сл. рехнуться, спятить"
+        },
+        {
+            "english_word": "be out of luck",
+            "uzbek_word": "омадсиз, омади кетмоқ, омади қочмоқ",
+            "russian_word": "быть неудачливым, не иметь удачи"
+        },
+        {
+            "english_word": "be up a gum-tree",
+            "uzbek_word": "амер. қийин аҳволда қолмоқ, хонавайрон бўлиш арафасида турмоқ",
+            "russian_word": "амер. быть в затруднительном положении, на границе разорения, истощения"
+        },
+        {
+            "english_word": "be/go green with envy",
+            "uzbek_word": "қони қайнади, аччиғи келди, жаҳлдан кўкариб кетмоқ",
+            "russian_word": "озеленить от ярости"
+        },
+        {
+            "english_word": "be/hang in the balance",
+            "uzbek_word": "қил устида турмоқ, иккиланмоқ",
+            "russian_word": "висеть на волоске, колебаться"
+        },
+        {
+            "english_word": "bear hard",
+            "uzbek_word": "ким биландир душманларча муносабатда бўлмоқ",
+            "russian_word": "недружелюбно относится к кому-либо"
+        },
+        {
+            "english_word": "bear somebody malice",
+            "uzbek_word": "кек сақловчи одам, ўчини қўймайдиган одам",
+            "russian_word": "иметь злые намерения, быть злопамятен"
+        },
+        {
+            "english_word": "beard the lion in his den",
+            "uzbek_word": "қўрқмасдан хавфли душманни майдонга чақирмоқ",
+            "russian_word": "смело бросить вызов опасному противнику"
+        },
+        {
+            "english_word": "beat around/about the bush",
+            "uzbek_word": "гапни айлантирмоқ, такаллуфланмоқ",
+            "russian_word": "ходить вокруг до около, церемонится"
+        },
+        {
+            "english_word": "beauty is in the lover's eyes",
+            "uzbek_word": "ошиқнинг кўзи кўр",
+            "russian_word": "любовь зла – полюбишь и козла"
+        },
+        {
+            "english_word": "bee in one’s bonnet",
+            "uzbek_word": "мияга ўрнашиб қолган фикр",
+            "russian_word": "навязчивая идея"
+        },
+        {
+            "english_word": "bell the cat",
+            "uzbek_word": "ботинмоқ, журъат этмоқ, хавфли ишда ташаббусни ўз қўлига олмоқ",
+            "russian_word": "отважиться, взять на себя риск, инициативу"
+        },
+        {
+            "english_word": "between hawk and buzzard",
+            "uzbek_word": "оила аъзолари ва хизматкорлар ўртасидаги ўринни эгаллаган инсон",
+            "russian_word": "занимающей промежуточное положение между членом семьи и слугой"
+        },
+        {
+            "english_word": "beyond (any) doubt",
+            "uzbek_word": "шак-шубҳасиз",
+            "russian_word": "несомненно, не вызывает сомнения"
+        },
+        {
+            "english_word": "big bug",
+            "uzbek_word": "даст. амер. сл. обрў-эътиборли одам, бир гуруҳнинг бошлиғи",
+            "russian_word": "первон. амер.сл. важная персона, шишка, главарь"
+        },
+        {
+            "english_word": "big dog",
+            "uzbek_word": "кўч.м. цербер(юнон мифологиясида жаҳаннам дарвозасини қўриқловчи қопағон ит)",
+            "russian_word": "перен. цербер"
+        },
+        {
+            "english_word": "bird of a feather flock together",
+            "uzbek_word": "кўр кўрни қоронғида топади",
+            "russian_word": "рыбак рыбака видит издалека"
+        },
+        {
+            "english_word": "black (blue, red) in the face",
+            "uzbek_word": "ғазаблангандан қизариб кетмоқ",
+            "russian_word": "от гнева багровый цвет"
+        },
+        {
+            "english_word": "black and blue",
+            "uzbek_word": "ҳамма ёғи кўкариб кетган",
+            "russian_word": "в синяках"
+        },
+        {
+            "english_word": "black and tan",
+            "uzbek_word": "1) қора сариқ ранглари билан;                        2) терьер (кучук зоти)",
+            "russian_word": "1)   чёрный с рыжими подпалинами; 2)   терьер"
+        },
+        {
+            "english_word": "black art, black magic",
+            "uzbek_word": "иссиқ-совуқ, амал, сиҳр, афсунгарлик",
+            "russian_word": "чёрная магия, чернокнижие"
+        },
+        {
+            "english_word": "black ball",
+            "uzbek_word": "қора шар; сайламай қолдирмоқ",
+            "russian_word": "чёрный шар; забаллотировать"
+        },
+        {
+            "english_word": "black bottle",
+            "uzbek_word": "амер. заҳар",
+            "russian_word": "амер. яд"
+        },
+        {
+            "english_word": "black cap",
+            "uzbek_word": "1) судъянинг ўлим жазоси ҳақидаги ҳукмни ўқиётганда киядиган шапкаси;       2) қора малина",
+            "russian_word": "1) судейская шапочка при чтении смертного приговора;                2) чёрная малина"
+        },
+        {
+            "english_word": "black coat",
+            "uzbek_word": "руҳоний",
+            "russian_word": "священник"
+        },
+        {
+            "english_word": "black diamonds",
+            "uzbek_word": "«қора олтин», тошкўмир",
+            "russian_word": "«чёрное золото», каменный уголь"
+        },
+        {
+            "english_word": "black eye",
+            "uzbek_word": "уриб кўкартирилган кўз",
+            "russian_word": "подбитый глаз, синяк, фингал"
+        },
+        {
+            "english_word": "black flag, black jack",
+            "uzbek_word": "1) қатл вақтида қамоқхона тепасида кўтариладиган  қора байроқ;  2) қароқчиларнинг қора байроғи",
+            "russian_word": "1) чёрный флаг поднятий над тюрьмой в знак совершения казни;                       2) пиратский чёрный флаг"
+        },
+        {
+            "english_word": "black flesh (stock)",
+            "uzbek_word": "амер.эск. қора танли қуллар",
+            "russian_word": "амер. уст. чёрные рабы"
+        },
+        {
+            "english_word": "black foot",
+            "uzbek_word": "совчи хотин, совчи",
+            "russian_word": "сваха, сват"
+        },
+        {
+            "english_word": "black Friday",
+            "uzbek_word": "«қора жума» кун (жума куни, қандайдир қайғули воқеа содир бўлган кун)",
+            "russian_word": "«чёрная пятница» (пятница, в которую произошло какое либо бедствие)"
+        },
+        {
+            "english_word": "black frost",
+            "uzbek_word": "қорсиз совуқ (кун)",
+            "russian_word": "мороз без инея"
+        },
+        {
+            "english_word": "black gang",
+            "uzbek_word": "ўт қаловчи",
+            "russian_word": "кочегары, кочегар"
+        },
+        {
+            "english_word": "black gold",
+            "uzbek_word": "қора олтин, нефть",
+            "russian_word": "чёрное золото, нефть"
+        },
+        {
+            "english_word": "black hat",
+            "uzbek_word": "австрал.сл. яқинда шаҳарга келган муҳожирлар",
+            "russian_word": "австрал.сл. недавно прибывший иммигрант"
+        },
+        {
+            "english_word": "black hole",
+            "uzbek_word": "карцер, ҳеч ким бормайдиган ташландиқ жой",
+            "russian_word": "карцер, убогое место"
+        },
+        {
+            "english_word": "black in the face",
+            "uzbek_word": "юзи қипқизил бўлиб кетган",
+            "russian_word": "багровый (от гнева, напряжения)"
+        },
+        {
+            "english_word": "black ingratitude",
+            "uzbek_word": "бировнинг яхшилигини қадрига етмаслик, нонкўрлик",
+            "russian_word": "чёрная неблагодарность"
+        },
+        {
+            "english_word": "black letter (literature)",
+            "uzbek_word": "эски инглиз готик шрифти (бурчакли, қиррали харф)",
+            "russian_word": "старинный английский готический шрифт"
+        },
+        {
+            "english_word": "black letter",
+            "uzbek_word": "катта (бош) босма ҳарф",
+            "russian_word": "прописная печатная буква"
+        },
+        {
+            "english_word": "black letter day",
+            "uzbek_word": "оддий иш куни",
+            "russian_word": "будний день"
+        },
+        {
+            "english_word": "black list",
+            "uzbek_word": "1) темир дафтар;    2) сурункали пиёнисталар рўйхати",
+            "russian_word": "1) чёрный список;  2) список хронически алкоголиков"
+        },
+        {
+            "english_word": "black looks",
+            "uzbek_word": "ёмон қараш, қовоғи солинган, ҳўмрайган қараш, қовоғи солиқ",
+            "russian_word": "хмурые, неодобрительные взгляды"
+        },
+        {
+            "english_word": "black mark",
+            "uzbek_word": "темир дафтарга киритиб қўймоқ",
+            "russian_word": "занесение в чёрный список"
+        },
+        {
+            "english_word": "black market",
+            "uzbek_word": "ўғирланган моллар сотиладиган бозор",
+            "russian_word": "чёрный рынок"
+        },
+        {
+            "english_word": "black monday",
+            "uzbek_word": "мак. жар. таътилдан кейинги биринчи ўқиш куни",
+            "russian_word": "школ.жарг. первый день занятий после каникул"
+        },
+        {
+            "english_word": "black pudding",
+            "uzbek_word": "хом колбаса, қонли колбаса",
+            "russian_word": "кровяная колбаса"
+        },
+        {
+            "english_word": "black ship",
+            "uzbek_word": "порт ишчилари молларни олиб чиқишдан бош тортаётган кема",
+            "russian_word": "судно, которое портовые рабочие отказываются разгружать"
+        },
+        {
+            "english_word": "black shirt",
+            "uzbek_word": "қора кўйлак (Италиялик фашистлар формаси)",
+            "russian_word": "чёрная рубашка  (форма Итальянских фашистов)"
+        },
+        {
+            "english_word": "black snake",
+            "uzbek_word": "амер. узун қамчи",
+            "russian_word": "амер. длинный кнут"
+        },
+        {
+            "english_word": "black strap",
+            "uzbek_word": "арзон портвейн, ичимлик",
+            "russian_word": "дешевый портвейн"
+        },
+        {
+            "english_word": "black swan",
+            "uzbek_word": "анқонинг уруғи",
+            "russian_word": "большая редкость"
+        },
+        {
+            "english_word": "black wax",
+            "uzbek_word": "ёмғирдан сўнг юмшоқ бўлиб қоладиган ер",
+            "russian_word": "земля, которая после дождя становятся мягким"
+        },
+        {
+            "english_word": "black-coat brigade",
+            "uzbek_word": "қора пальтоли ишчилар (канцелярия ишларини бажарувчи одамлар)",
+            "russian_word": "канцелярские работники"
+        },
+        {
+            "english_word": "blanket Indian",
+            "uzbek_word": "амер. эск. шўрлик, бечора Индеец",
+            "russian_word": "амер. уст. бедный индеец"
+        },
+        {
+            "english_word": "blind tiger",
+            "uzbek_word": "амер. эск. спиртли ичимликларни ноқонуний сотиладиган жойи",
+            "russian_word": "амер. уст. место незаконной продажи спиртных напитков"
+        },
+        {
+            "english_word": "blow off one’s dogs",
+            "uzbek_word": "амер. фикридан қайтмоқ, ўзининг аҳдидан воз кечмоқ",
+            "russian_word": "амер. отказаться от осуществления задуманного"
+        },
+        {
+            "english_word": "blue beans",
+            "uzbek_word": "ўқлар; кўкиш рангли қўрғошин",
+            "russian_word": "пули; свинец голубоватого цвета"
+        },
+        {
+            "english_word": "blue blood",
+            "uzbek_word": "оқсуяк одам, аристократ, келиб чиқиши аристократлардан",
+            "russian_word": "аристократическое происхождение"
+        },
+        {
+            "english_word": "blue bonnet",
+            "uzbek_word": "«кўк шапка» Шотландиялик",
+            "russian_word": "«синяя шапка» Шотландец"
+        },
+        {
+            "english_word": "blue bore",
+            "uzbek_word": "умид  учқуни",
+            "russian_word": "луч надежды"
+        },
+        {
+            "english_word": "blue devils, be in blues, get (have) the blues",
+            "uzbek_word": "умидсизланиш, ғамгин кўринмоқ, хафа бўлмоқ",
+            "russian_word": "находиться в уныние, депрессивное состояние, хандрить"
+        },
+        {
+            "english_word": "blue fear (funk)",
+            "uzbek_word": "саросимага тушмоқ, ваҳимага тушмоқ, ваҳима босди, қўрқмоқ",
+            "russian_word": "паническое состояние, испуг, вмешательство"
+        },
+        {
+            "english_word": "blue hen’s chicken",
+            "uzbek_word": "амер. сўз. Делавер штати аҳолиси",
+            "russian_word": "амер. разг. житель штата Делавэр"
+        },
+        {
+            "english_word": "blue noses",
+            "uzbek_word": "амер. «кўкариб кетган бурунлар»Канадаликларнинг иқлими совуқ бўлгани учун уларга шундай лақаб қўйишган",
+            "russian_word": "амер.«посиневшие носы» прозвище Канадцев из-за холодного климата"
+        },
+        {
+            "english_word": "blue print",
+            "uzbek_word": "олдиндан тузилган режа",
+            "russian_word": "предварительный план"
+        },
+        {
+            "english_word": "blue rain",
+            "uzbek_word": "1) ёмон сифатли джин;                     2) тўлиқ инқирозга учраш",
+            "russian_word": "1) джин скверного качества;                   2) полная гибель"
+        },
+        {
+            "english_word": "blue ribbon arm; blue ribbon; take the blue ribbon",
+            "uzbek_word": "1) хушёр, спиртли ичимликлар ичмайдиган одамлар, хушёр одам;           2) орден лентаси;        3) энг катта мукофот",
+            "russian_word": "1) трезвенники          2) лента ордена, подвязки;                  3) высшая награда, первый приз"
+        },
+        {
+            "english_word": "blue rose",
+            "uzbek_word": "амалга ошмайдиган нарса, орзу",
+            "russian_word": "что-л. не достижимое"
+        },
+        {
+            "english_word": "blue water",
+            "uzbek_word": "очиқ денгиз",
+            "russian_word": "открытое море"
+        },
+        {
+            "english_word": "blue-eyed boy",
+            "uzbek_word": "арзанда, эркатой, севикли, азиз, севгилим",
+            "russian_word": "любимец, любимчик"
+        },
+        {
+            "english_word": "body and soul",
+            "uzbek_word": "жону дил билан, таним (жоним) билан; батамом",
+            "russian_word": "душой и телом, полностью"
+        },
+        {
+            "english_word": "born under the roses",
+            "uzbek_word": "никоҳсиз туғилган бола",
+            "russian_word": "незаконнорож-денный"
+        },
+        {
+            "english_word": "brazen bull",
+            "uzbek_word": "тарх. тарихда қатл вақтида ишлатиладиган қурол номи, мисдан қилинган буқа",
+            "russian_word": "ист. медный бык (старинное орудие казни)"
+        },
+        {
+            "english_word": "break a record",
+            "uzbek_word": "рекорд ўрнатмоқ",
+            "russian_word": "побить рекорд"
+        },
+        {
+            "english_word": "break smb’s heart",
+            "uzbek_word": "1) кимнидирхафа қилмоқ;  2) кимнингдир қалбини парчаламоқ",
+            "russian_word": "1) сильно огорчать, расстраивать кого-л. 2) разбить чьё-л. сердце"
+        },
+        {
+            "english_word": "break the ice",
+            "uzbek_word": "1) музни ёрмоқ, жимликни (сукунатни) бузмоқ;                       2) кимгадир йўл очиб бермоқ",
+            "russian_word": "1) пробить лёд, нарушить молчание;  2) пробить кому-л. дорогу"
+        },
+        {
+            "english_word": "british lion",
+            "uzbek_word": "Британия шери, Англия [Англиянинг миллий эмблемаси шер]",
+            "russian_word": "Британский лев, Англия [лев национальная эмблема Англии]"
+        },
+        {
+            "english_word": "brown Bess",
+            "uzbek_word": "тарх. чақмоқ милтиқ",
+            "russian_word": "ист. кремнёвое ружьё"
+        },
+        {
+            "english_word": "brown bread",
+            "uzbek_word": "Англияда эланмаган ундан қилинган нон, тўқ рангли буғдойдан қилинган нон, қора нон",
+            "russian_word": "хлеб из не просеянной муки (в Англии), хлеб из пшеницы темного цвета, чёрный хлеб"
+        },
+        {
+            "english_word": "bubble water or bubbles",
+            "uzbek_word": "«газли ичимлик» (шампан виноси)",
+            "russian_word": "«шипучка» (шампанское)"
+        },
+        {
+            "english_word": "buck (fight) the tiger",
+            "uzbek_word": "таваккал қилмоқ; карт.ўйин. даркам, ол қўлим",
+            "russian_word": "идти вабанк, карточная игра"
+        },
+        {
+            "english_word": "build castle in Spain",
+            "uzbek_word": "сувга суянмоқ; хомтама бўлмоқ; сояга қараб бўй ўлчамоқ; чучварани хом санамоқ; кўкнори хаёлларга берилмоқ; хом хаёл бўлмоқ",
+            "russian_word": "строит воздушные замки"
+        },
+        {
+            "english_word": "bull in a china-shop",
+            "uzbek_word": "қўпол, бесўнақай одам",
+            "russian_word": "слон в посудной лавке; неуклюжий, неловкий человек"
+        },
+        {
+            "english_word": "bull of Bashan",
+            "uzbek_word": "«Васанлик буқа», йўғон овозли бақувват одам",
+            "russian_word": "«Васанский бык», человек с громовым голосом"
+        },
+        {
+            "english_word": "burn a hole in one’s pocket",
+            "uzbek_word": "қўлида пул  узоқ турмайдиган одам",
+            "russian_word": "долго не держаться (деньги)"
+        },
+        {
+            "english_word": "burn one’s fingers/get your fingers burned",
+            "uzbek_word": "куймоқ, панд емоқ",
+            "russian_word": "обжечься на чём-либо"
+        },
+        {
+            "english_word": "burn the candle at both ends",
+            "uzbek_word": "кучини бекорга сарфламоқ, куч бериб ишламоқ",
+            "russian_word": "безрассудно растрачивать свои силы, работать слишком много с усердием"
+        },
+        {
+            "english_word": "burn the midnight oil",
+            "uzbek_word": "кечаси билан ухламасдан ишламоқ",
+            "russian_word": "работать по ночам, засаживаться за работой по ночам"
+        },
+        {
+            "english_word": "buy a white horse",
+            "uzbek_word": "сўз. пулни беҳуда сарф қилмоқ",
+            "russian_word": "разг. транжирить деньги"
+        },
+        {
+            "english_word": "by all that’s blue",
+            "uzbek_word": "сўз. оббо! жин урсин!",
+            "russian_word": "разг. чёрт возьми!"
+        },
+        {
+            "english_word": "by any chance",
+            "uzbek_word": "тасодифан, кутмаганда",
+            "russian_word": "случайно"
+        },
+        {
+            "english_word": "by cock",
+            "uzbek_word": "қасам ичаман",
+            "russian_word": "клянусь богом"
+        },
+        {
+            "english_word": "by far or far and away",
+            "uzbek_word": "анчагина, бирталай",
+            "russian_word": "намного, значительно"
+        },
+        {
+            "english_word": "by the way",
+            "uzbek_word": "1) йўл-йўлакай, йўлимиз бир томонга; кетатуриб; 2) биратўла, айтмоқчи",
+            "russian_word": "1) по дороге, по пути;                    2) кстати, между прочих, к слову сказать"
+        },
+        {
+            "english_word": "California blankets",
+            "uzbek_word": "амер.сл. Калифорния адёллари (ишсизлар паркда устиларига ёпиб ётадиган газеталар)",
+            "russian_word": "амер.сл. Калифорнийское одеяло (газеты, которыми укрываются ночующие в парке безработные)"
+        },
+        {
+            "english_word": "call (make) white black",
+            "uzbek_word": "оқни қора демоқ",
+            "russian_word": "называть белое чёрным"
+        },
+        {
+            "english_word": "call attention to smb/smth",
+            "uzbek_word": "диққатини кимгадир (нимагадир) жалб этмоқ",
+            "russian_word": "обращать чьёл-л. внимание на"
+        },
+        {
+            "english_word": "call off the dogs",
+            "uzbek_word": "ёқтирмайдиган мавзуни ўзгартирмоқ",
+            "russian_word": "переменить неприятную тему разговора"
+        },
+        {
+            "english_word": "carry one’s bat",
+            "uzbek_word": "ғолиб чиқмоқ, кўзлаган мақсадига эришмоқ",
+            "russian_word": "одержать победу, добиться своего"
+        },
+        {
+            "english_word": "cast (send or throw) to the dogs",
+            "uzbek_word": "1)керакмаслиги (яроқсизлиги) учун ташлаб юбормоқ;         2) чиппакка чиқармоқ бир пул бўлди, уч пул бўлди, бир пақир бўлди",
+            "russian_word": "1) выбросить за негодностью;            2) пустить по ветру"
+        },
+        {
+            "english_word": "cat and dog life",
+            "uzbek_word": "ит мушукдек яшамоқ, доимо жанжаллашиб юрмоқ",
+            "russian_word": "живут как кошка с собакой"
+        },
+        {
+            "english_word": "cat has nine lives",
+            "uzbek_word": "мушукдек чидамли бўлмоқ",
+            "russian_word": "быть более живучим как кошка"
+        },
+        {
+            "english_word": "cat in the pan",
+            "uzbek_word": "хоин, сотқин, хиёнатчи",
+            "russian_word": "изменник, предатель"
+        },
+        {
+            "english_word": "cat is out of the bag",
+            "uzbek_word": "беркитилган сир очилди",
+            "russian_word": "тайное стало явным"
+        },
+        {
+            "english_word": "cat jumps",
+            "uzbek_word": "иш жиддий тус олмоқда",
+            "russian_word": "дело принимает серьезный оборот"
+        },
+        {
+            "english_word": "cat may look at a king",
+            "uzbek_word": "жасур",
+            "russian_word": "смотреть ни на кого не возбраняется"
+        },
+        {
+            "english_word": "catch fire",
+            "uzbek_word": "1) ёна бошламоқ, ўт олмоқ;                        2) кўч.м.  қизиқишдан ёниб кетмоқ;                    3) жаҳли чиқмоқ",
+            "russian_word": "1) загореться, воспламениться;        2) перен. воспылать интересом;                3) взволноваться, вспыхнуть"
+        },
+        {
+            "english_word": "catch fleas for somebody",
+            "uzbek_word": "ким биландир яқин муносабатда бўлмоқ",
+            "russian_word": "быть в близких отношениях с     кем-л."
+        },
+        {
+            "english_word": "catch smb by surprise",
+            "uzbek_word": "тўсатдан устига келиб қолмоқ, ғафлатда қолдирмоқ",
+            "russian_word": "захватить врасплох"
+        },
+        {
+            "english_word": "catch smb red-handed",
+            "uzbek_word": "кимнидир жиноят устида қўлга туширмоқ",
+            "russian_word": "застать кого-л. на месте преступления"
+        },
+        {
+            "english_word": "catch/take smb’s fancy",
+            "uzbek_word": "ёқтириб қолмоқ, хуш келмоқ",
+            "russian_word": "прийти по вкусу, по душе полюбиться, понравиться"
+        },
+        {
+            "english_word": "change for the better/worse",
+            "uzbek_word": "яхши/ёмонга томонга ўзгармоқ",
+            "russian_word": "перемена к лучшему/или худшему"
+        },
+        {
+            "english_word": "chance the duck",
+            "uzbek_word": "нима бўлса бўлар",
+            "russian_word": "будь, что будет"
+        },
+        {
+            "english_word": "change horses in a midstream",
+            "uzbek_word": "ноқулай пайтда ўзгаришлар киритмоқ",
+            "russian_word": "производить перемены в не подходящий момент"
+        },
+        {
+            "english_word": "change of scene /air",
+            "uzbek_word": "шароитни ўзгартирмоқ",
+            "russian_word": "перемена обстановки"
+        },
+        {
+            "english_word": "change one’s mind",
+            "uzbek_word": "фикрини ўзгартирмоқ, фикридан қайтмоқ",
+            "russian_word": "передумать, изменить свои намерения"
+        },
+        {
+            "english_word": "change the subject",
+            "uzbek_word": "гапни бошқа ёққа бурмоқ,  мавзуни ўзгартирмоқ",
+            "russian_word": "переменить разговор, тему разговора"
+        },
+        {
+            "english_word": "cherish a snake in one’s bosom",
+            "uzbek_word": "қўйнида илон сақламоқ",
+            "russian_word": "отогрет змею на груди, отогрет змею под крылом"
+        },
+        {
+            "english_word": "cheshire cat",
+            "uzbek_word": "оғзи қулоғида",
+            "russian_word": "бессмысленно улыбающийся во вес рот"
+        },
+        {
+            "english_word": "clever dog",
+            "uzbek_word": "ақлли одам",
+            "russian_word": "умница"
+        },
+        {
+            "english_word": "close one’s eyes to smth",
+            "uzbek_word": "кўз юммоқ, кўрмасликка солмоқ",
+            "russian_word": "закрывать глаза на что-л. в то время как вы можете что-л. сделать"
+        },
+        {
+            "english_word": "cock and bull story",
+            "uzbek_word": "ишониб бўлмайдиган воқеа",
+            "russian_word": "неправдоподобная история"
+        },
+        {
+            "english_word": "cock of different hackle",
+            "uzbek_word": "бошқача душман",
+            "russian_word": "противник другого рода"
+        },
+        {
+            "english_word": "cock of the school",
+            "uzbek_word": "мактабнинг энг уришқоқ боласи,  зўравон, жўжахўроз",
+            "russian_word": "первый драчун в школе"
+        },
+        {
+            "english_word": "cock of the wood",
+            "uzbek_word": "зоол. Карқур (қуш)",
+            "russian_word": "зоол. Глухарь (птица)"
+        },
+        {
+            "english_word": "сold war",
+            "uzbek_word": "совуқ уруш",
+            "russian_word": "холодная война"
+        },
+        {
+            "english_word": "come easy/naturally (to smb)",
+            "uzbek_word": "бу унга ўнғай, осонлик билан эришмоқ",
+            "russian_word": "легко даваться кому-л., не представляет трудностей для кого-л."
+        },
+        {
+            "english_word": "come into leaf",
+            "uzbek_word": "барг ёзмоқ (дарахтлар ҳақида)",
+            "russian_word": "распускаться (о деревьях) покрываться листвой"
+        },
+        {
+            "english_word": "come off the high horse",
+            "uzbek_word": "ўзини осмонда деб билишни бас қилмоқ; озгина пастга тушмоқ, ўзини катта тутишни бас қилмоқ",
+            "russian_word": "перестать важничать, перестать высокомерно держать"
+        },
+        {
+            "english_word": "come to bat",
+            "uzbek_word": "оғир, қийин муаммога дуч келмоқ",
+            "russian_word": "столкнуться с трудной задачей, с тяжелым испытанием"
+        },
+        {
+            "english_word": "come true",
+            "uzbek_word": "(орузлари) амалга ошмоқ",
+            "russian_word": "сбываться, осуществляться (мечты)"
+        },
+        {
+            "english_word": "cook somebody’s goose (for him)",
+            "uzbek_word": "ўлдирмоқ",
+            "russian_word": "убить"
+        },
+        {
+            "english_word": "cooked goose",
+            "uzbek_word": "тамом бўлган одам, тузалмас одам",
+            "russian_word": "конченный человек"
+        },
+        {
+            "english_word": "corn crackers",
+            "uzbek_word": "амер. камбағаллар (Американинг жанубий штатларида яшовчи)",
+            "russian_word": "амер. бедняки          (В южных штатах Америки)"
+        },
+        {
+            "english_word": "corn failure",
+            "uzbek_word": "ғалладан ҳосилсизлик, қаҳатчилик, унумсизлик",
+            "russian_word": "неурожай"
+        },
+        {
+            "english_word": "corn in Egypt",
+            "uzbek_word": "меваларнинг кўплиги, мўлчилик",
+            "russian_word": "изобилия, обилие продуктов"
+        },
+        {
+            "english_word": "counties at large",
+            "uzbek_word": "графлик (Англиядаги)",
+            "russian_word": "графства (в Англии)"
+        },
+        {
+            "english_word": "cover your tracks",
+            "uzbek_word": "1) изини йўқотмоқ;      2) айбини бекитмоқ",
+            "russian_word": "заметать следы"
+        },
+        {
+            "english_word": "cow with the iron tail",
+            "uzbek_word": "сутни фалсификация қиладиган (қалбакилаштирадиган) аппарат",
+            "russian_word": "аппарат для фальсификации молока"
+        },
+        {
+            "english_word": "crack a joke",
+            "uzbek_word": "ҳазил гап айтиб юбормоқ",
+            "russian_word": "сказать что-л. шутливое, отпустить шутку"
+        },
+        {
+            "english_word": "crocodile tears",
+            "uzbek_word": "ёлғон йиғи; шайтон йиғи",
+            "russian_word": "крокодиловы слёзы"
+        },
+        {
+            "english_word": "cry the blues",
+            "uzbek_word": "амер. сл. ўзини, аянчли (камбағал) аҳволда қилиб кўрсатмоқ",
+            "russian_word": "амер. сл. делать вид, что сидишь без денег"
+        },
+        {
+            "english_word": "cut the melon",
+            "uzbek_word": "амер. сл. фойдани бўлмоқ",
+            "russian_word": "амер. сл. делить добычу, распределять прибыл"
+        },
+        {
+            "english_word": "dark horse",
+            "uzbek_word": "спорт. пойгада ҳеч ким билмайдиган от; ҳеч ким билмайдиган шахс, танилмаган, кам танилган шахс",
+            "russian_word": "спорт. не известная лошадь на скачках; малоизвестная личность"
+        },
+        {
+            "english_word": "day after day or  day in, day out",
+            "uzbek_word": "кундан кунга, кун сайин, кундалик",
+            "russian_word": "изо дня в день, каждодневно"
+        },
+        {
+            "english_word": "day by day",
+            "uzbek_word": "кундан кунга, кун сари",
+            "russian_word": "с каждым днём"
+        },
+        {
+            "english_word": "dead dog",
+            "uzbek_word": "1) ҳеч нарсага яроқсиз, ҳеч кимга керак бўлмаган одам;                      2) ҳеч кимга керак бўлмайдиган нарса",
+            "russian_word": "1) ни на что не годный, никому не нужный человек;        2) ненужная вещь"
+        },
+        {
+            "english_word": "dead Rabbit",
+            "uzbek_word": "каллакесар",
+            "russian_word": "гангстер, головорез"
+        },
+        {
+            "english_word": "dead sea apple (fruit)",
+            "uzbek_word": "усти ялтироқ, ичи қалтироқ",
+            "russian_word": "красивый но гнилой; обманчивый успех"
+        },
+        {
+            "english_word": "decoy duck",
+            "uzbek_word": "кўч.м. қопқон, тузоқ",
+            "russian_word": "перен. ловушка, приманка"
+        },
+        {
+            "english_word": "die dog for somebody",
+            "uzbek_word": "амер. бировнинг ҳаёти учун ўз ҳаётини хавф остига қўймоқ, биров учун ўлишга тайёр бўлмоқ",
+            "russian_word": "амер. быть готовым умереть за кого-л."
+        },
+        {
+            "english_word": "dirty dog",
+            "uzbek_word": "ёмон одам",
+            "russian_word": "подлый человек, грязный тип"
+        },
+        {
+            "english_word": "dog my cats",
+            "uzbek_word": "амер. сўз. оббо! чин сўзим! ана холос!",
+            "russian_word": "амер. разг. чёрт возми! вот те на! честное слово!"
+        },
+        {
+            "english_word": "dog returns to his vomit",
+            "uzbek_word": "жиноятчи жиноят қилган жойига албатта қайтади",
+            "russian_word": "преступника тянет на место преступления, человек снова придается прежним порокам"
+        },
+        {
+            "english_word": "dog in a blanket",
+            "uzbek_word": "амер. сўз. ҳамир қориб пиширилган сосиска",
+            "russian_word": "амер. разг. сосиски, запеченные в тесте"
+        },
+        {
+            "english_word": "don’t let flies stick to your heel",
+            "uzbek_word": "сўз. шошилинч, вақтни кетказманг",
+            "russian_word": "разг. не теряйте времени"
+        },
+        {
+            "english_word": "donkey between two bundles of hay",
+            "uzbek_word": "икки ўт орасида турмоқ; икки нарсадан бирини танлай ололмаётган одам ҳақида",
+            "russian_word": "Буриданов осёл (о человеке не решающийся сделать выбор)"
+        },
+        {
+            "english_word": "downing Street",
+            "uzbek_word": "Англия ҳукумати [Лондондаги бу кўчада ташқи ишлар вазирлиги ва вазир ўринбосарини иш жойи жойлашган]",
+            "russian_word": "Английское правительство [на этой улице в Лондоне помешается официальная резиденция премьерминистра и министра иностранных дел]"
+        },
+        {
+            "english_word": "draw red herring across the path",
+            "uzbek_word": "йўлдан оздирмоқ, йўлдан чиқармоқ, чалғитмоқ, йўлдан адаштирмоқ",
+            "russian_word": "намеренно отвлекающее внимания, вводить заблуждение"
+        },
+        {
+            "english_word": "dressed (up) to the nines",
+            "uzbek_word": "чақмоқдай кийинган, кийими яп-янги",
+            "russian_word": "быть одетым с иголочки, разодеться в пух и прах, по последней моде"
+        },
+        {
+            "english_word": "dressed to kill",
+            "uzbek_word": "сўз. охирги мода бўйича кийинмоқ, энг сўнгги модага мувофиқ кийинмоқ",
+            "russian_word": "разг. шикарно, по последней моде, сногсшибательно одетый"
+        },
+        {
+            "english_word": "drink till all’s blue",
+            "uzbek_word": "ҳаммалари кўкариб кетгунча ичмоқ, бўкиб ичмоқ",
+            "russian_word": "допиться до белой горячки"
+        },
+        {
+            "english_word": "drive smb crazy/mud/nuts",
+            "uzbek_word": "кимнидир ақлдан оздирмоқ, эс-ҳушини олиб қўймоқ",
+            "russian_word": "довести до безумия, сума свести"
+        },
+        {
+            "english_word": "drop a line",
+            "uzbek_word": "уч-тўрт оғиз хат ёзиб бермоқ",
+            "russian_word": "черкнуть несколько строк"
+        },
+        {
+            "english_word": "drop like a hot potato",
+            "uzbek_word": "нимадандир тезроқ қутулмоқ",
+            "russian_word": "избавиться как можно скорее"
+        },
+        {
+            "english_word": "duck of a.....",
+            "uzbek_word": "сўз. зўр, ажойиб",
+            "russian_word": "разг. чудесный, прелестный, восхитительный"
+        },
+        {
+            "english_word": "dumb dog",
+            "uzbek_word": "камгап, индамас одам, оғзидан бир гап суғириб олиб бўлмайдиган одам",
+            "russian_word": "молчаливый, не разговорчивый человек, человек из которого слова не вытянешь"
+        },
+        {
+            "english_word": "dun’s the Mouse",
+            "uzbek_word": "аҳа, қўлга тушдингми, ажаб бўлди!",
+            "russian_word": "ага, попался!"
+        },
+        {
+            "english_word": "dutch nightingales",
+            "uzbek_word": "қурбақа",
+            "russian_word": "лягушка"
+        },
+        {
+            "english_word": "eat crow",
+            "uzbek_word": "амер.сл. таслим бўлмоқ",
+            "russian_word": "амер.сл. прийти с повинной головой"
+        },
+        {
+            "english_word": "eat like a pig",
+            "uzbek_word": "амер.сл. чўчқадай емоқ, сочиб, бетартиб овқатланмоқ",
+            "russian_word": "амер.сл. есть как свинья"
+        },
+        {
+            "english_word": "egyptian darkness",
+            "uzbek_word": "[библ.] қоронғилик",
+            "russian_word": "[этим. библ.] тьма Египетская"
+        },
+        {
+            "english_word": "empty vessels make the greatest (the most) sound",
+            "uzbek_word": "бўш тегирмон гулдирар",
+            "russian_word": "пустая бочка пуще гремит"
+        },
+        {
+            "english_word": "enough to make a cat speak",
+            "uzbek_word": "сўз. ёқасини ушламоқ, ҳайратда қолмоқ, ниҳоят даражада ажабланмоқ",
+            "russian_word": "разг. диву даешься"
+        },
+        {
+            "english_word": "enough to puzzle a Philadelphia lawyer",
+            "uzbek_word": "амер. сира тушуниб бўлмайди; мия ачиб кетади; чалкаш, жуда тушунилиши қийин",
+            "russian_word": "амер. сам чёрт ногу сломит, сложное запутанное дело"
+        },
+        {
+            "english_word": "feel like (doing) smth",
+            "uzbek_word": "мойил, мойиллик",
+            "russian_word": "быть склонным сделать что-либо"
+        },
+        {
+            "english_word": "fiddle while Rome is burning",
+            "uzbek_word": "ўлат пайтида меҳмондорчилик қилмоқ",
+            "russian_word": "пир во время чумы"
+        },
+        {
+            "english_word": "fight dog, fight bear",
+            "uzbek_word": "охиригача курашмоқ",
+            "russian_word": "биться до конца, до полной победы"
+        },
+        {
+            "english_word": "fighting cock",
+            "uzbek_word": "жанжалкаш, уришқоқ одам",
+            "russian_word": "драчливый человек, забияка"
+        },
+        {
+            "english_word": "find fault with smb/smth",
+            "uzbek_word": "кимдандир ёки нимадандир айб топмоқ",
+            "russian_word": "придираться к кому-л.; ворчать (жаловаться) на кого-либо"
+        },
+        {
+            "english_word": "flay fleas for the hide and tallow",
+            "uzbek_word": "очкўзлик қилмоқ, зиқналик қилмоқ",
+            "russian_word": "жадничать"
+        },
+        {
+            "english_word": "flear market",
+            "uzbek_word": "эски нарсалар сотиладиган бозор",
+            "russian_word": "магазин где продают поддержанные/ поношенные вещи"
+        },
+        {
+            "english_word": "fleet Street",
+            "uzbek_word": "инглиз матбуоти (Флит Стритдаги энг катта газеталар редакцияси)",
+            "russian_word": "английская пресса (редакция крупнейших газет на Флит Стрит)"
+        },
+        {
+            "english_word": "flog a dead horse",
+            "uzbek_word": "беҳуда (бефойда) иш билан овора бўлмоқ, бефойда ишга вақт сарф қилмоқ",
+            "russian_word": "зря тратить силы, говорить на ветер"
+        },
+        {
+            "english_word": "fly high",
+            "uzbek_word": "иззатталаб бўлмоқ",
+            "russian_word": "быть честолюбивым"
+        },
+        {
+            "english_word": "fly into a passion",
+            "uzbek_word": "қаттиқ жаҳли  чиқмоқ",
+            "russian_word": "сильно рассердится, прийти в ярость"
+        },
+        {
+            "english_word": "fly low",
+            "uzbek_word": "ўзини панага олиб юрмоқ, ўзини камтар тутмоқ; камтарга камол, манманга завол",
+            "russian_word": "держатся в тени, стараться не привлекать к себе внимания"
+        },
+        {
+            "english_word": "fly on a wheel",
+            "uzbek_word": "ўзига ортиқча баҳо бериб юбормоқ, ўзига бино қўймоқ, ўзингизга жуда кўп ишониб юборибсиз",
+            "russian_word": "слишком много о себе возомнили"
+        },
+        {
+            "english_word": "flying horse",
+            "uzbek_word": "миф. учқур (қанотли) от, Пегас",
+            "russian_word": "миф. крылатый конь, пегас"
+        },
+        {
+            "english_word": "follow the bee-line",
+            "uzbek_word": "тўғри, энг қисқа йўл билан бормоқ",
+            "russian_word": "пойти напрямик кратчайшим путем"
+        },
+        {
+            "english_word": "follow the hounds",
+            "uzbek_word": "итлар билан ов қилмоқ",
+            "russian_word": "охотиться (верхом) с собаками"
+        },
+        {
+            "english_word": "for a change",
+            "uzbek_word": "хилма-хиллик, рангбаранглик",
+            "russian_word": "разнообразия"
+        },
+        {
+            "english_word": "for sure",
+            "uzbek_word": "1) албатта, сўзсиз;      2) хотиржам бўлинг",
+            "russian_word": "1) обязательно, непременно; 2) наверняка, несомненно; будьте уверены"
+        },
+        {
+            "english_word": "from Dan to Beersheba",
+            "uzbek_word": "[биб.ол.] ашриқдан машриқгача, шаҳарнинг у бошидан бу бошигача",
+            "russian_word": "[этим.библ.] от Дана до Вирсавии. (т.е. от одного конца страны до другого)"
+        },
+        {
+            "english_word": "from head to toe (heel)",
+            "uzbek_word": "бошдан оёқ",
+            "russian_word": "с головы до пят"
+        },
+        {
+            "english_word": "gather roses (or) life’s rose",
+            "uzbek_word": "роҳатланиб яшамоқ",
+            "russian_word": "срывать цветы удовольствия"
+        },
+        {
+            "english_word": "gay (jolly) dog",
+            "uzbek_word": "хушчақчақ одам",
+            "russian_word": "весельчак"
+        },
+        {
+            "english_word": "gay (merry) Greek",
+            "uzbek_word": "ҳамтовоқ, ҳамшиша, хушчақчақ, маишатпараст",
+            "russian_word": "весельчак, гуляка"
+        },
+        {
+            "english_word": "get (have) the key of the street",
+            "uzbek_word": "кечаси кўчада уйсиз қолмоқ",
+            "russian_word": "остаться на ночь без крова"
+        },
+        {
+            "english_word": "get a look at the elephant",
+            "uzbek_word": "сл. ҳаётий тажриба орттирмоқ, қари билганни пари билмас",
+            "russian_word": "сл. приобретать жизненный опыт"
+        },
+        {
+            "english_word": "get down to business",
+            "uzbek_word": "ишга киришмоқ",
+            "russian_word": "взяться за дело"
+        },
+        {
+            "english_word": "get in the way of smth",
+            "uzbek_word": "халақит бермоқ, йўлини тўсмоқ",
+            "russian_word": "мешать, препятствовать, стоять на (чьём-л.) пути"
+        },
+        {
+            "english_word": "get in touch (with smb)",
+            "uzbek_word": "алоқа ўрнатмоқ",
+            "russian_word": "установить контакт, установить непосредственную связь"
+        },
+        {
+            "english_word": "get into a mess",
+            "uzbek_word": "сўз. фалокатга учрамоқ, қийин аҳволга тушиб қолмоқ",
+            "russian_word": "разг. попасть в беду, в трудное положение"
+        },
+        {
+            "english_word": "get one’s monkey up",
+            "uzbek_word": "жаҳли чиқмоқ, жаҳли чиққанда ўзини йўқотмоқ, аччиғланмоқ",
+            "russian_word": "выйти из себя, рассердиться"
+        },
+        {
+            "english_word": "get out of  bed on the wrong side",
+            "uzbek_word": "чап ёни билан турмоқ; ёмон кайфиятда бўлмоқ",
+            "russian_word": "встать с левой ноги"
+        },
+        {
+            "english_word": "get smb wrong",
+            "uzbek_word": "нотўғри тушинмоқ",
+            "russian_word": "непонимание    кого-л."
+        },
+        {
+            "english_word": "get somebody’s goat",
+            "uzbek_word": "жаҳлини чиқармоқ, аччиғини чиқармоқ",
+            "russian_word": "разозлить, рассердить"
+        },
+        {
+            "english_word": "get the wrong pig by the tail",
+            "uzbek_word": "девонадан ойбоши сўрамоқ",
+            "russian_word": "обратиться не по адресу, напасть на ложный след"
+        },
+        {
+            "english_word": "get/go/set to work (on smth)",
+            "uzbek_word": "ишга киришмоқ",
+            "russian_word": "приняться за работу, начать действовать"
+        },
+        {
+            "english_word": "gipsy hat",
+            "uzbek_word": "кенг похолли шляпа, соябони кенг шляпа",
+            "russian_word": "широкополая шляпа"
+        },
+        {
+            "english_word": "give (smb) one’s word",
+            "uzbek_word": "кимгадир сўз бермоқ",
+            "russian_word": "давать слово, обещать"
+        },
+        {
+            "english_word": "give and take",
+            "uzbek_word": "фикрлашмоқ, фикр олишмоқ, алмашмоқ",
+            "russian_word": "обмен мнениями"
+        },
+        {
+            "english_word": "give smb the blues",
+            "uzbek_word": "кўнгилга ғам, қайғу солмоқ",
+            "russian_word": "наводить тоску, уныние на кого-л"
+        },
+        {
+            "english_word": "give smth/smb the green light",
+            "uzbek_word": "йўл очиқ; ўз ихтиёрига қўймоқ, рухсат бермоқ, ижозат бермоқ",
+            "russian_word": "открыть путь, предоставить свободу действий, разрешение, зелёный цвет"
+        },
+        {
+            "english_word": "give somebody a pig of his own sow",
+            "uzbek_word": "яхшиликка яхшилик, ёмонликка ёмонлик қайтармоқ",
+            "russian_word": "оплатить кому-либо, той же монетой"
+        },
+        {
+            "english_word": "give somebody rats",
+            "uzbek_word": "амер.эск. урушмоқ, хафа қилмоқ, ҳақорат қилмоқ",
+            "russian_word": "амер. уст. ругать, причинять не приятности"
+        },
+        {
+            "english_word": "go against the grain",
+            "uzbek_word": "кўнгилга ёқмайдиган, дидига тўғри келмайдиган, таъбини хира қиладиган",
+            "russian_word": "приходиться не по вкусу, быть не по душе"
+        },
+        {
+            "english_word": "go away with a flea in one’s ear",
+            "uzbek_word": "қаттиқ эътироз, танбеҳ олиш, қаттиқ жавоб олиш",
+            "russian_word": "получить резкий ответ"
+        },
+        {
+            "english_word": "go bugs",
+            "uzbek_word": "амер.сл. жинни бўлиб қолмоқ, ўзини йўқотмоқ",
+            "russian_word": "амер.сл. сойти с ума, обезумить"
+        },
+        {
+            "english_word": "go Dutch",
+            "uzbek_word": "амер. ҳар ким ўзи учун пул тўламоқ",
+            "russian_word": "амер. угощение, оплаченное поровну всеми участниками"
+        },
+        {
+            "english_word": "go from bad to worse",
+            "uzbek_word": "борган сари ёмонлашиб бормоқ",
+            "russian_word": "становиться всё хуже и хуже"
+        },
+        {
+            "english_word": "go full bat",
+            "uzbek_word": "жуда тез юрмоқ, бор кучи билан юрмоқ",
+            "russian_word": "идти быстро полным ходом"
+        },
+        {
+            "english_word": "go into details (about/on)",
+            "uzbek_word": "батафсил баён қилмоқ (текширмоқ)",
+            "russian_word": "вдаваться в подробности"
+        },
+        {
+            "english_word": "go into red",
+            "uzbek_word": "амер. зарар келтирмоқ",
+            "russian_word": "амер. показывать дефицит (о балансе)"
+        },
+        {
+            "english_word": "go out of one’s way",
+            "uzbek_word": "бор кучи билан ҳаракат қилмоқ; зўр бериб интилмоқ; қаттиқ тиришмоқ, жонини жабборга бермоқ",
+            "russian_word": "усердствовать, приложить все усилия; из кожи вон лезть"
+        },
+        {
+            "english_word": "go to the bat with somebody",
+            "uzbek_word": "амер. ким биландир мусобақалашмоқ, ким ўзди ўйнамоқ",
+            "russian_word": "амер. соревноваться, состязаться с кем-либо"
+        },
+        {
+            "english_word": "go too far",
+            "uzbek_word": "ҳаддан ошиб кетмоқ",
+            "russian_word": "заходить слишком далеко"
+        },
+        {
+            "english_word": "go up a tree",
+            "uzbek_word": "амер. боши берк кўчага кириб қолмоқ; боши берк кўча",
+            "russian_word": "амер. быть в безвыходном положении"
+        },
+        {
+            "english_word": "go up king Street",
+            "uzbek_word": "австрал.сл.  инқирозга учрамоқ",
+            "russian_word": "австрал.сл. обанкротиться"
+        },
+        {
+            "english_word": "gold (yellow) fever",
+            "uzbek_word": "олтин васвасаси",
+            "russian_word": "золотая лихорадка"
+        },
+        {
+            "english_word": "good Heavens!",
+            "uzbek_word": "ана холос! э худо!",
+            "russian_word": "вот тебе и на, вот так!"
+        },
+        {
+            "english_word": "good luck to smb",
+            "uzbek_word": "омад тилайман, бахт тилайман",
+            "russian_word": "желаю удачи, счастья, успеха"
+        },
+        {
+            "english_word": "good onion",
+            "uzbek_word": "амер. сл. яхши бола, ёқимтой бола",
+            "russian_word": "амер. сл. славный парень"
+        },
+        {
+            "english_word": "gray hairs",
+            "uzbek_word": "қаригунча яшамоқ, ёшини яшамоқ, қариб-чуриб (юриш), соч-соқоли оқаргунча яшамоқ",
+            "russian_word": "старость; дожить до седых волос"
+        },
+        {
+            "english_word": "great snakes",
+            "uzbek_word": "бўлиши мумкин эмас",
+            "russian_word": "боже мой! не может быть"
+        },
+        {
+            "english_word": "green goods",
+            "uzbek_word": "1) янги сабзавотлар; 2) қалбаки қоғоз пуллар",
+            "russian_word": "1) свежие овощи; 2) фальшивые банкноты"
+        },
+        {
+            "english_word": "green jobs",
+            "uzbek_word": "атроф муҳитни мухофаза қилиш, қишлоқ хўжалик ишлари",
+            "russian_word": "защита окружающей среды, сельскохозяйственные работы"
+        },
+        {
+            "english_word": "green light",
+            "uzbek_word": "амер. қандайдир ишларини бажаришга рухсат бермоқ, ижозат бермоқ, яшил чироқ",
+            "russian_word": "амер. разрешение на осуществления, каких-л планов, зеленая улица"
+        },
+        {
+            "english_word": "green meat, garden green stuff",
+            "uzbek_word": "сабзавотлар, кўкатлар",
+            "russian_word": "овощи, зелень"
+        },
+        {
+            "english_word": "green room",
+            "uzbek_word": "театрда артистларнинг кийинадиган, ясанадиган хонаси",
+            "russian_word": "артистическая уборная"
+        },
+        {
+            "english_word": "green winter",
+            "uzbek_word": "юмшоқ, қорсиз қиш",
+            "russian_word": "мягкая, безснежная зима"
+        },
+        {
+            "english_word": "green with envy",
+            "uzbek_word": "ичи қоралигидан ич-этини еб қўймоқ, ичи қора, кўнгли қора",
+            "russian_word": "готовый лопнуть от зависти"
+        },
+        {
+            "english_word": "green wound",
+            "uzbek_word": "янги жароҳат",
+            "russian_word": "свежая, незаживщая рана"
+        },
+        {
+            "english_word": "gretna Green marriage",
+            "uzbek_word": "уйдан қочган севишганлар ўртасидаги турмуш",
+            "russian_word": "брак  между убежавшими возлюбленными"
+        },
+        {
+            "english_word": "had it been a bear it would have bitten you",
+            "uzbek_word": "сиз ўйлагандек қўрқинчли эмас экан",
+            "russian_word": "оказалось не так страшно как вы думали"
+        },
+        {
+            "english_word": "hardy annual",
+            "uzbek_word": "совуққа чидамли ўсимлик. кўч.м. ҳар йил кўтариладиган савол",
+            "russian_word": "морозостойкое растение. перен. ежегодно поднимаемый вопрос"
+        },
+        {
+            "english_word": "harley Street",
+            "uzbek_word": "шифокорлар, тиббиёт  дунёси [Лондондаги кўпгина машҳур докторлар яшайдиган кўча]",
+            "russian_word": "врачи, медицинский мир [улица в Лондоне, на которой живут многие известные врачи]"
+        },
+        {
+            "english_word": "has the cat got your tongue?",
+            "uzbek_word": "нима тилингизни ютиб юбордингизми?",
+            "russian_word": "вы что, язык проглотили?"
+        },
+        {
+            "english_word": "have (hold) a wolf by the ears",
+            "uzbek_word": "қийин аҳволга тушиб қолмоқ, боши берк кўчага кириб қолмоқ",
+            "russian_word": "быть в безвыходном положении, не иметь пути к отступлении"
+        },
+        {
+            "english_word": "have a crow to pluck with somebody",
+            "uzbek_word": "тиш қайраб юрмоқ, кўнглида кек сақламоқ, қасд бўлиб қолмоқ",
+            "russian_word": "иметь зубы против кого-л."
+        },
+        {
+            "english_word": "have a good time",
+            "uzbek_word": "вақти чоғлик қилмоқ, вақтни яхши ўтказмоқ, кўнгил очмоқ, кайфи чоғлик қилмоқ",
+            "russian_word": "хорошо провести время, повеселиться"
+        },
+        {
+            "english_word": "have a joke with smb",
+            "uzbek_word": "ким биландир ҳазиллашмоқ",
+            "russian_word": "подшучивать с   кем-л."
+        },
+        {
+            "english_word": "have a narrow /lucky escape",
+            "uzbek_word": "жар ёқасида турмоқ",
+            "russian_word": "быть на волоске от чего-л. едва избежать опасности"
+        },
+        {
+            "english_word": "have a whale of a good time",
+            "uzbek_word": "вақти чоғлиқ қилмоқ",
+            "russian_word": "хорошо провести время"
+        },
+        {
+            "english_word": "have a word with smb",
+            "uzbek_word": "суҳбатлашмоқ",
+            "russian_word": "сказать кому-л. несколько слов, побеседовать, поговорить с      кем-л.,"
+        },
+        {
+            "english_word": "have bats in one’s belfry",
+            "uzbek_word": "эси жойида эмас, ақли жойида эмас, миясини еб қўйган, ақлидан адашган, эси ўзида эмас",
+            "russian_word": "винтика не хватает, быть не в своем уме, не все дома"
+        },
+        {
+            "english_word": "have no idea",
+            "uzbek_word": "бирор нарса ҳақида заррача ҳам тасаввурга эга эмаслик",
+            "russian_word": "не иметь (ни малейшего) представления о    чём-л."
+        },
+        {
+            "english_word": "have one’s head full of bee",
+            "uzbek_word": "хом ҳаёл бўлмоқ, кўкнори ҳаёлларга берилмоқ, чучварани хом санамоқ",
+            "russian_word": "строить воздушные замки, быть фантазером"
+        },
+        {
+            "english_word": "have seen the lions",
+            "uzbek_word": "ҳаётий тажрибага эга бўлмоқ, кўпни кўрган одам",
+            "russian_word": "иметь жизненный опыт"
+        },
+        {
+            "english_word": "have smth in common (with smb)",
+            "uzbek_word": "бир хил дунёқарашга, қизиқишга эга бўлмоқ",
+            "russian_word": "иметь одинаковые интересы или мнения с кем-л. ещё"
+        },
+        {
+            "english_word": "he begins to die that quits his desires",
+            "uzbek_word": "чиқмаган жондан умид",
+            "russian_word": "кто уже ничего не желает, тот умирать начинает"
+        },
+        {
+            "english_word": "he is as limp as a rag",
+            "uzbek_word": "беҳидек сарғайиб, ипакдек ингичка тортиб қолибди",
+            "russian_word": "он стал желтее шафрана и тоньше шелка"
+        },
+        {
+            "english_word": "he will never set the Thames on fire",
+            "uzbek_word": "ҳеч нарсага ақли етмайди, калласи ишламайди",
+            "russian_word": "он пороха не выдумывает; он звёзд с неба не хватает"
+        },
+        {
+            "english_word": "hit the big spot",
+            "uzbek_word": "амер. сл. хурсандчилик қилмоқ",
+            "russian_word": "амер. сл. кутить"
+        },
+        {
+            "english_word": "hold your horse",
+            "uzbek_word": "ҳаяжонланманг, шошилманг",
+            "russian_word": "не волнуйтесь, потише, легче на поворотах"
+        },
+        {
+            "english_word": "home counties",
+            "uzbek_word": "Лондон атрофидаги графлик",
+            "russian_word": "графство, окружающие Лондона"
+        },
+        {
+            "english_word": "hot dog",
+            "uzbek_word": "амер. сўз. яша! баракалла, офарин, зўр; иссиқ сосискали бутерброд",
+            "russian_word": "амер. разг. молодец! вот это здорово! бутерброд с горячей сосиской"
+        },
+        {
+            "english_word": "how come?",
+            "uzbek_word": "нима учун?",
+            "russian_word": "это почему? каким это образом?"
+        },
+        {
+            "english_word": "hunt the wrong hare",
+            "uzbek_word": "йўлдан адашмоқ",
+            "russian_word": "пойти по ложному следу"
+        },
+        {
+            "english_word": "if/when in doubt",
+            "uzbek_word": "агар шубҳаланаётган бўлсангиз",
+            "russian_word": "если сомневаешься"
+        },
+        {
+            "english_word": "in (less than) no time",
+            "uzbek_word": "бир зумда, бирпасда; кўз очиб юмгунча; бир чўқишда",
+            "russian_word": "моментально, мгновенно; в мгновенно ока, в два счёта"
+        },
+        {
+            "english_word": "in advance",
+            "uzbek_word": "олдиндан, илгаридан",
+            "russian_word": "заранее"
+        },
+        {
+            "english_word": "in Black and white, put down in black and white",
+            "uzbek_word": "аниқ қилиб ёзмоқ",
+            "russian_word": "чёрным по белому (написать)"
+        },
+        {
+            "english_word": "in detail",
+            "uzbek_word": "батафсил",
+            "russian_word": "подробно, детально"
+        },
+        {
+            "english_word": "in Dutch (with smb)",
+            "uzbek_word": "амер. сл. қийин аҳволда қолмоқ",
+            "russian_word": "амер. сл. в тяжелом, затруднительном положении"
+        },
+        {
+            "english_word": "in general",
+            "uzbek_word": "умуман олганда, зотан",
+            "russian_word": "в общем, в основном, в целиком, вообще говоря"
+        },
+        {
+            "english_word": "in grain",
+            "uzbek_word": "ғирт аҳмоқ, алдоқчи",
+            "russian_word": "круглый дурак"
+        },
+        {
+            "english_word": "in less than a pigs whisper",
+            "uzbek_word": "бир зумда, бирпасда, кўз очиб юмгунча",
+            "russian_word": "мгновенно, и ахнут не успел, в два счета"
+        },
+        {
+            "english_word": "in Queer Street",
+            "uzbek_word": "cўз. қийин аҳволда бўлмоқ",
+            "russian_word": "разг. быть в затруднительном положении, быть в долгах"
+        },
+        {
+            "english_word": "in the course of time",
+            "uzbek_word": "вақт ўтиши билан, борган сари, кейин, кейинчалик",
+            "russian_word": "с течением времени, со временем"
+        },
+        {
+            "english_word": "in the dark (about smth)",
+            "uzbek_word": "бехабар қолмоқ",
+            "russian_word": "быть неведении, в неизвестности"
+        },
+        {
+            "english_word": "in the flower of life",
+            "uzbek_word": "ҳаётининг гуллаган пайтларида",
+            "russian_word": "во цвете лет"
+        },
+        {
+            "english_word": "in the green tree",
+            "uzbek_word": "[билб.ол.] гуллаб яшнаётган вақтда",
+            "russian_word": "[этим.билб.] во время процветания рассвета"
+        },
+        {
+            "english_word": "in the pink",
+            "uzbek_word": "сўз. жуда яхши аҳволда, энг кучга тўлган пайт, кучга тўлмоқ",
+            "russian_word": "разг. в превосходном состоянии, в рассвете сил"
+        },
+        {
+            "english_word": "in the same street with smb",
+            "uzbek_word": "кимбиландир бир ҳил аҳволда; бошқалардан кам эмас",
+            "russian_word": "в одинаковом положении с кем-л.; не хуже кого-л."
+        },
+        {
+            "english_word": "in/within the space of time",
+            "uzbek_word": "қисқа вақт ичида, давомида",
+            "russian_word": "в течение"
+        },
+        {
+            "english_word": "indian summer",
+            "uzbek_word": "даст.амер. олтин куз, кузда иссиқ кунлар; иккинчи ёшлигим",
+            "russian_word": "первон. амер. золотая осень, теплые жаркие дни в осени; вторая молодость"
+        },
+        {
+            "english_word": "irish mantle",
+            "uzbek_word": "адёл (камбағал Ирландияликнинг биттагина кийими)",
+            "russian_word": "одеяло (единственная одежда бедняка Ирландца)"
+        },
+        {
+            "english_word": "iron horse",
+            "uzbek_word": "сўз. темир от, велосипед, паровоз",
+            "russian_word": "разг. стальной конь, велосипед, паровоз"
+        },
+        {
+            "english_word": "is not all roses",
+            "uzbek_word": "ҳаёт фақат хурсандчиликдан иборат эмас",
+            "russian_word": "не все легко или приятно"
+        },
+        {
+            "english_word": "it is a gone goose with somebody",
+            "uzbek_word": "амер. ҳаммаси тугади, умидсиз шароит",
+            "russian_word": "амер. безнадежное положение, всё кончено"
+        },
+        {
+            "english_word": "it is easier for a camel to go through the eye of a needle than",
+            "uzbek_word": "нинанинг тешигидан ўтиш туяга осон, қараганда...",
+            "russian_word": "легче верблюду пройти в игольное ушко, чем...."
+        },
+        {
+            "english_word": "Jerusalem artichoke",
+            "uzbek_word": "ер нок",
+            "russian_word": "земленая груша"
+        },
+        {
+            "english_word": "John Bull",
+            "uzbek_word": "кин. ҳақиқий инглиз; инглизларга хос бўлган характер",
+            "russian_word": "ирон. типичный англичанин; типичные черты английского характера"
+        },
+        {
+            "english_word": "just the same",
+            "uzbek_word": "худди шундай; фарқи йўқ, бари бир",
+            "russian_word": "точно такой же; всё равно; всё-таки, тем не менее"
+        },
+        {
+            "english_word": "keep (redeem) one’s promise",
+            "uzbek_word": "ваъда бермоқ",
+            "russian_word": "дать обещание"
+        },
+        {
+            "english_word": "keep a dog and bark oneself",
+            "uzbek_word": "ўз ишчисининг ишини бажармоқ",
+            "russian_word": "выполнять работу своего подчиненного, держат собаку и лаят самому"
+        },
+        {
+            "english_word": "keep an eye on smb/smth",
+            "uzbek_word": "кимдандир/ нимадандир кўз узмаслик; қўриқламоқ",
+            "russian_word": "глаз не спускать, следить; охранять"
+        },
+        {
+            "english_word": "keep body and soul together",
+            "uzbek_word": "рўзғорни учма-уч қилиб етказмоқ, ночорликда кун кечирмоқ, рўзғорни зўрға тебратмоқ",
+            "russian_word": "с трудом поддерживать существование, еле перебиваться, еле сводить концы с концами"
+        },
+        {
+            "english_word": "keep one’s temper",
+            "uzbek_word": "ўзини тутмоқ",
+            "russian_word": "сдерживаться, владеть собой"
+        },
+        {
+            "english_word": "keep one’s word",
+            "uzbek_word": "сўзини (ваъдасини) устидан чиқмоқ",
+            "russian_word": "сдержать своё слова, обещание"
+        },
+        {
+            "english_word": "keep quiet about smth or keep smth quiet",
+            "uzbek_word": "ниманидир сир сақламоқ, сир сақлаб юрмоқ",
+            "russian_word": "утаивать, умалчивать"
+        },
+        {
+            "english_word": "keep smb company",
+            "uzbek_word": "кимбиландир бирор ерга бирга бормоқ, бирор ишни бирга бажармоқ",
+            "russian_word": "составить компанию"
+        },
+        {
+            "english_word": "keep the wolf from the door",
+            "uzbek_word": "очликни олдини олмоқ",
+            "russian_word": "бороться с нищетой, предотвратить голод"
+        },
+        {
+            "english_word": "keep your eyes open (for smth)",
+            "uzbek_word": "қулоқни динг қилмоқ; эҳтиёт бўлмоқ, кўз–қулоқ бўлмоқ, ҳушёр бўлиб қараб турмоқ",
+            "russian_word": "быть на чеку; смотреть в оба"
+        },
+        {
+            "english_word": "keep/stay in touch (with smb)",
+            "uzbek_word": "алоқа ўрнатмоқ; алоқада бўлмоқ",
+            "russian_word": "поддерживать связь, контакт"
+        },
+        {
+            "english_word": "Kilkenny cats",
+            "uzbek_word": "ўлгунича олишмоқ, бир умрлик душманлар",
+            "russian_word": "дерущийся не на живость, а на смерть"
+        },
+        {
+            "english_word": "knee-high to a duck",
+            "uzbek_word": "ҳаз. жуда кичкина",
+            "russian_word": "шутл. очень маленький, на дунёси.моқ; очень маленький"
+        },
+        {
+            "english_word": "know black from white",
+            "uzbek_word": "ҳамма нарсадан хабари бор, оқидан қорасигача билмоқ, ҳамма нарсани тушунмоқ",
+            "russian_word": "понимать что к чему, быть осведомленным"
+        },
+        {
+            "english_word": "lame duck",
+            "uzbek_word": "банкрот, омадсиз",
+            "russian_word": "неудачник, банкрот"
+        },
+        {
+            "english_word": "land shark",
+            "uzbek_word": "амер. участкалар билан савдо қилувчи олиб сотар, спекулянт",
+            "russian_word": "амер. спекулянт земельными участками"
+        },
+        {
+            "english_word": "lay up in lavender",
+            "uzbek_word": "1) олиб қўймоқ (кўчирмоқ) лавандани; 2) беркитиб қўймоқ, зарур бўлгунча, келажак учун асрамоқ; қора кунга асраб қўймоқ",
+            "russian_word": "1) перекладывать лавандой; 2)приберегать что-л. на будущее, тщательно припрятать до первой необходимости"
+        },
+        {
+            "english_word": "lazy dog",
+            "uzbek_word": "Дангаса, ишёқмас; иш иштаха очар, дангаса ишдан қочар",
+            "russian_word": "лентяй, бездельник, ленивец"
+        },
+        {
+            "english_word": "let fly at",
+            "uzbek_word": "ташланмоқ",
+            "russian_word": "нападать"
+        },
+        {
+            "english_word": "let loose the dogs of war",
+            "uzbek_word": "уруш бошламоқ",
+            "russian_word": "развязать войну"
+        },
+        {
+            "english_word": "let me see",
+            "uzbek_word": "қани бир кўрай, бир кўришга рухсат беринг",
+            "russian_word": "дайте посмотреть"
+        },
+        {
+            "english_word": "let smth. drop/rest",
+            "uzbek_word": "чек қўймоқ, чек қўйилди, хотима бермоқ",
+            "russian_word": "положить конец чему-л., прекратить что-л."
+        },
+        {
+            "english_word": "let smth/smb go or let go smth/smb",
+            "uzbek_word": "1) қўлдан бермоқ, бой бермоқ; 2) қўйиб юбормоқ; 3) ўтказиб юбормоқ; 4) миясидан чиқариб юбормоқ",
+            "russian_word": "1) выпускать из рук; 2) выпускать, освобождать;  3) пропускать, выпускать, опускать; 4) выбросить из головы"
+        },
+        {
+            "english_word": "let that flea stick in the wall",
+            "uzbek_word": "сўз. бошқа мавзу ҳақида гаплашайлик",
+            "russian_word": "разг. прекратить говорить на эту тему"
+        },
+        {
+            "english_word": "let the cat out of the bag",
+            "uzbek_word": "сирни айтиб қўймоқ; оғзидан чиқариб юбормоқ",
+            "russian_word": "выдать секрет; проболтать"
+        },
+        {
+            "english_word": "life is not a bed of roses",
+            "uzbek_word": "ҳаётда ҳамма нарасага осонлик билан етишиб бўлмайди",
+            "russian_word": "не всё легко в жизни"
+        },
+        {
+            "english_word": "like a bat out of hell",
+            "uzbek_word": "жуда тез, оёқни қўлга олиб қочмоқ, оёғини қўлига олиб",
+            "russian_word": "очень быстро, со всех ног"
+        },
+        {
+            "english_word": "like a bee in a bottle",
+            "uzbek_word": "пашшага ўхшаб ғинғилламоқ",
+            "russian_word": "как пчела в бутылке"
+        },
+        {
+            "english_word": "like a bull at a gate",
+            "uzbek_word": "жаҳлдор",
+            "russian_word": "бешено, яростно"
+        },
+        {
+            "english_word": "like a drowned mouse",
+            "uzbek_word": "аянчли, ачинарли аҳволда бўлмоқ",
+            "russian_word": "в плачевном состоянии"
+        },
+        {
+            "english_word": "like a dying duck in a thunderstorm",
+            "uzbek_word": "сувга тушган мушукдек, ўзини йўқотиб қўйган",
+            "russian_word": "с растерянным, перепуганным видом, как мокрая курица"
+        },
+        {
+            "english_word": "like a hen on a hot girdle",
+            "uzbek_word": "бехабарликдан сиқилмоқ, номаълумликдан бир жойда ўтира олмайдиган",
+            "russian_word": "не в своей тарелке, мучающийся неизвестностью"
+        },
+        {
+            "english_word": "like a rat in a hole",
+            "uzbek_word": "қийин аҳволга тушиб қолмоқ, боши берк кўчага кириб қолмоқ",
+            "russian_word": "в безвыходном положении, припертый стене"
+        },
+        {
+            "english_word": "like geese on a common",
+            "uzbek_word": "озодликда",
+            "russian_word": "свободно, на свободе"
+        },
+        {
+            "english_word": "lion in the path",
+            "uzbek_word": "қўрқинчли ёки оғир тўсиқ",
+            "russian_word": "страшное или трудное препятствие"
+        },
+        {
+            "english_word": "little by little",
+            "uzbek_word": "игна билан қудуқ қазимоқ; секин-аста",
+            "russian_word": "постепенно, мало-помалому"
+        },
+        {
+            "english_word": "live in the street",
+            "uzbek_word": "ҳамма вақтини кўчада ўтказмоқ, деярли ҳамма вақтини кўчада ўтказмоқ, кўчани одами",
+            "russian_word": "проводить почти все время вне дома"
+        },
+        {
+            "english_word": "loan shark",
+            "uzbek_word": "амер. судхўр, ижарахўр",
+            "russian_word": "амер. ростовщик"
+        },
+        {
+            "english_word": "lombard Street",
+            "uzbek_word": "молиявий марказ (Лондондаги кўпгина банклар жойлашган кўча)",
+            "russian_word": "финансовый центр (центр, улица где расположена большинство банков  Лондона)"
+        },
+        {
+            "english_word": "lombard Street to a China orange",
+            "uzbek_word": "ҳеч қандай қиёслаш йўқ",
+            "russian_word": "никакого сравнения"
+        },
+        {
+            "english_word": "London particular",
+            "uzbek_word": "ҳаз. сўз. Лондондаги қуюқ туман",
+            "russian_word": "разг.шутл. густой Лондонский туман"
+        },
+        {
+            "english_word": "look a gift horse in the mouth",
+            "uzbek_word": "совға  қилинган отнинг тишларини текширмоқ",
+            "russian_word": "смотреть зубы дарёному коню"
+        },
+        {
+            "english_word": "look like a million dollars/bucks",
+            "uzbek_word": "амер. ажойиб кўринмоқ, яхши кўринишга эга бўлмоқ, жуда гўзал, ажойиб кўринмоқ",
+            "russian_word": "амер. прекрасно, блестяще выглядеть"
+        },
+        {
+            "english_word": "lose face",
+            "uzbek_word": "одамларнинг олдида обрўсини йўқотмоқ",
+            "russian_word": "быть униженным"
+        },
+        {
+            "english_word": "lose one’s goat",
+            "uzbek_word": "жазаваси тутмоқ, қизишиб, ғазабланиб кетмоқ, аччиғи чиқмоқ",
+            "russian_word": "рассердиться, выйти из себя"
+        },
+        {
+            "english_word": "lose one’s temper (with smb)",
+            "uzbek_word": "жуда қизишиб (ғазабланиб) кетмоқ; жазаваси тутмоқ",
+            "russian_word": "разозлиться, выйти из себя, потерять самообладание"
+        },
+        {
+            "english_word": "lose one’s way",
+            "uzbek_word": "1) йўқолиб қолмоқ, йўлдан адашмоқ;         2) тўғри йўлдан чиқмоқ, тўғри йўлдан тоймоқ; адашмоқ, янглишмоқ",
+            "russian_word": "1) заблудиться, потерять дорогу, сбиться с пути;          2) перен. пойти по неправильному пути"
+        },
+        {
+            "english_word": "lost sheep",
+            "uzbek_word": "[библ.ол.] йўлдан озмоқ, йўлдан тоймоқ, ёмон йўлга кирмоқ",
+            "russian_word": "[этим.библ.] заблудшая овца, человек сбившийся с пути истинного"
+        },
+        {
+            "english_word": "lounge lizard",
+            "uzbek_word": "бекорчи маишатпараст одам",
+            "russian_word": "светский бездельник"
+        },
+        {
+            "english_word": "lucky dog",
+            "uzbek_word": "бахтиёр (бахтли) инсон",
+            "russian_word": "счастливчик"
+        },
+        {
+            "english_word": "make a date (with smb)",
+            "uzbek_word": "(кимбиландир) учрашув белгиламоқ",
+            "russian_word": "назначить встречу"
+        },
+        {
+            "english_word": "make a lion of somebody",
+            "uzbek_word": "узоқ вақтга эмас, қисқа вақтга кимнидир машҳур одам қилмоқ",
+            "russian_word": "сделать из кого-л знаменитость, непродолжительное время"
+        },
+        {
+            "english_word": "make a mess of smth",
+            "uzbek_word": "алмаштириб юбормоқ, янглишиб кетмоқ, хато қилмоқ",
+            "russian_word": "напутать, перепутать что-л."
+        },
+        {
+            "english_word": "make a monkey of oneself",
+            "uzbek_word": "бировни масхара қилмоқ, бировнинг устидан кулмоқ",
+            "russian_word": "паясничать"
+        },
+        {
+            "english_word": "make a move",
+            "uzbek_word": "1) жўнаб кетмоқ, йўлга чиқмоқ; 2) столдан туришга ҳаракат қилмоқ",
+            "russian_word": "1) отправляться; 2) вставать из-за стола"
+        },
+        {
+            "english_word": "make a note of smth",
+            "uzbek_word": "маълумотга олмоқ, хотирага олиб қўймоқ, қайд қилиб қўймоқ",
+            "russian_word": "принять что-л. к сведению"
+        },
+        {
+            "english_word": "make a pig of oneself",
+            "uzbek_word": "кўп еб бўкиб қолмоқ, еб тўймоқ",
+            "russian_word": "объедаться"
+        },
+        {
+            "english_word": "make advance (to smb)",
+            "uzbek_word": "таклиф қилмоқ",
+            "russian_word": "делать предложения"
+        },
+        {
+            "english_word": "make an appearance",
+            "uzbek_word": "кўриниш бермоқ, бир зумга йўл-йўлакай кириб ўтмоқ",
+            "russian_word": "появляться, показываться"
+        },
+        {
+            "english_word": "make an ass of oneself",
+            "uzbek_word": "лақиллатмоқ, майна қилмоқ, аҳмоқ қилмоқ, бировнинг устидан кулмоқ, масхара қилмоқ",
+            "russian_word": "одурачить, поставить кого-л. в глупое, дурацкое положение, посмеяться над кем-л"
+        },
+        {
+            "english_word": "make believe",
+            "uzbek_word": "1) одамларни ишонишга мажбурламоқ; 2) айёрлик қилмоқ",
+            "russian_word": "1) заставить людей поверить; 2) делать вид, притворятся"
+        },
+        {
+            "english_word": "make conversation",
+            "uzbek_word": "маъносиз, мазмунсиз суҳбатлашмоқ",
+            "russian_word": "вести пустой, бессодержательный разговор"
+        },
+        {
+            "english_word": "make ducks and drakes",
+            "uzbek_word": "ҳаётини хавф остига қўймоқ",
+            "russian_word": "рисковать, разбазаривать"
+        },
+        {
+            "english_word": "make fun of smb/smth",
+            "uzbek_word": "кимнингдир устидан кулмоқ, масхара қилмоқ",
+            "russian_word": "высмеивать кого-л., подшучивать над кем-л., поднять кого-л. на смех"
+        },
+        {
+            "english_word": "make progress/headway",
+            "uzbek_word": "муваффақият қозонмоқ",
+            "russian_word": "делать успехи"
+        },
+        {
+            "english_word": "make sure",
+            "uzbek_word": "хотиржам бўлмоқ, ишонч ҳосил қилмоқ",
+            "russian_word": "быть уверенным, убеждённым"
+        },
+        {
+            "english_word": "make the /all effort (to do smth)",
+            "uzbek_word": "зўр бермоқ, зўр бериб, тиришмоқ",
+            "russian_word": "приложить усилия"
+        },
+        {
+            "english_word": "make time",
+            "uzbek_word": "амер. ўз вақтида келмоқ",
+            "russian_word": "амер. прийти во время, по расписанию"
+        },
+        {
+            "english_word": "make two bites of a cherry",
+            "uzbek_word": "кичкина нарсани иккига бўлмоқ; жуда кичкина ишга катта куч сарфлаш",
+            "russian_word": "делить что-л и без того небольшое; прилагать излишние старания к очень лёгкому делу"
+        },
+        {
+            "english_word": "make up one’s mind",
+            "uzbek_word": "бир қарорга келмоқ",
+            "russian_word": "заставить кого-л. принять решение"
+        },
+        {
+            "english_word": "mandarin sleeve",
+            "uzbek_word": "кенг енг",
+            "russian_word": "широкий рукав"
+        },
+        {
+            "english_word": "mean business",
+            "uzbek_word": "жиддий ниятларга эга бўлмоқ, жиддий гапирмоқ",
+            "russian_word": "иметь серьезные намерения, говорить всерьёз"
+        },
+        {
+            "english_word": "milk cow",
+            "uzbek_word": "соғин сигир, маълум миқдорда маблағ билан мунтазам таъминлаб турадиган манба",
+            "russian_word": "дойная корова, неистощимый источник дохода"
+        },
+        {
+            "english_word": "milk the street",
+            "uzbek_word": "амер.жарг. қимматли қоғозлар билан чайқовчилик қилмоқ",
+            "russian_word": "амер.жарг. успешно спекулировать ценными бумагами"
+        },
+        {
+            "english_word": "mind your own business or none of your business",
+            "uzbek_word": "бировнинг ишига бурнингни суқма, тумшуғингни тиқма",
+            "russian_word": "не ваше дело! не вмешивайтесь в чужие дела! занимайтесь своим делом"
+        },
+        {
+            "english_word": "mistress of the Adriatic",
+            "uzbek_word": "«Адриатика подшохи» (Венеция)",
+            "russian_word": "«владычица Адриатики» (Венеция)"
+        },
+        {
+            "english_word": "mother Carrey’s chicken",
+            "uzbek_word": "Бўронқуш",
+            "russian_word": "Буревестник"
+        },
+        {
+            "english_word": "name the day",
+            "uzbek_word": "тўй кунини белгиламоқ",
+            "russian_word": "назначить (жениху) день свадьбы"
+        },
+        {
+            "english_word": "neptune’s sheep",
+            "uzbek_word": "сувнинг мавж уриши (тўлқинлар)",
+            "russian_word": "барашки на море (волны)"
+        },
+        {
+            "english_word": "never mind",
+            "uzbek_word": "сўз. 1) эътибор берманг, хавотирланманг, хавотирга ўрин йўқ!    2) бу сизни ишингиз эмас, буни сизга алоқаси йўқ",
+            "russian_word": "разг. 1) ничего, всё равно, не обращайте внимания, не беспокойтесь, стоит ли беспокоиться!            2) не ваше дело, вас это не касается, вам та какое дело?"
+        },
+        {
+            "english_word": "New York finest",
+            "uzbek_word": "амер. кин. «Нью Йоркнинг муттаҳамлари» (Нью Йорк посбонларининг лақаби)",
+            "russian_word": "амер. ирон. «бравые молодчики Нью Йорка» (проз. Нью Йоркских полицейских)"
+        },
+        {
+            "english_word": "night owl",
+            "uzbek_word": "амер. тункезар, кечётар, чўпон алдар, кечаси узоқ вақтгача юрадиган одам, кечаси узоқ ишлайдиган",
+            "russian_word": "амер. полуночник, ночной гуляка"
+        },
+        {
+            "english_word": "nightingales will not sing in a cage",
+            "uzbek_word": "булбулга тилла қафасда тутқун бўлгандан кўра, тикандан қурилган уяси минг мартта афзал",
+            "russian_word": "не нужна соловью золотая клетка, а нужна зеленая ветка; золотая клетка соловью не потеха"
+        },
+        {
+            "english_word": "no doubt",
+            "uzbek_word": "шубҳасиз",
+            "russian_word": "несомненно"
+        },
+        {
+            "english_word": "no room to swing a cat",
+            "uzbek_word": "жуда тор, хеч қаерга бурилиб ҳам бўлмайди; тор жойда ош егандан кенг жойда мушт еган яхши",
+            "russian_word": "очень тесно, повернуться негде"
+        },
+        {
+            "english_word": "not for anything in the world or not for the world",
+            "uzbek_word": "ҳеч қанақасига, ҳеч қандай йўл билан ҳам (қилиб, бажариб, олиб бўлмайди)",
+            "russian_word": "ни за что на свете, ни за какие блага в мире; ни за какие коврижки"
+        },
+        {
+            "english_word": "not so black as he is painted",
+            "uzbek_word": "у тасвирла-ганларидек ёмон эмас",
+            "russian_word": "он не так то плох, как его изображают"
+        },
+        {
+            "english_word": "not the clean potato",
+            "uzbek_word": "ёмон, ярамас, чатоқ одам",
+            "russian_word": "темная личность, непорядочный человек"
+        },
+        {
+            "english_word": "of no account",
+            "uzbek_word": "ҳисоб эмас; аҳамиятга эга бўлмаган",
+            "russian_word": "в счет не идёт; не имеющий значения"
+        },
+        {
+            "english_word": "of small/little account",
+            "uzbek_word": "унча катта аҳамиятга эга бўлмаган",
+            "russian_word": "незначительный, не имеющий большого значения"
+        },
+        {
+            "english_word": "off duty",
+            "uzbek_word": "ишдан ташқарида, ишдан бўш пайтда",
+            "russian_word": "вне службы"
+        },
+        {
+            "english_word": "off one’s own bat",
+            "uzbek_word": "мустақил равишда, “Нима бўлса бўлар” қабилида (иш тутмоқ)",
+            "russian_word": "самостоятельно на свой страх и риск"
+        },
+        {
+            "english_word": "old cat",
+            "uzbek_word": "ёмон кампир",
+            "russian_word": "сварливая или злая старуха"
+        },
+        {
+            "english_word": "old dragon",
+            "uzbek_word": "шайтон, одамзоднинг душмани",
+            "russian_word": "дьявол, сатана"
+        },
+        {
+            "english_word": "old fox",
+            "uzbek_word": "қари тулки, айёр одам",
+            "russian_word": "старая лиса, хитрец"
+        },
+        {
+            "english_word": "old Merry England",
+            "uzbek_word": "қадимий меҳрибон Англия",
+            "russian_word": "добрая старая Англия"
+        },
+        {
+            "english_word": "old whale",
+            "uzbek_word": "тажрибали денгизчи, моҳир денгизчи",
+            "russian_word": "опытный моряк, морской волк"
+        },
+        {
+            "english_word": "old wives’ tale",
+            "uzbek_word": "уйдирма (ўйлаб чиқарилган, ёлғон-яшиқ гаплар)",
+            "russian_word": "неправдоподобный рассказ, небылицы; бабьи сказки, охотничьи рассказы"
+        },
+        {
+            "english_word": "on behalf (of smb)",
+            "uzbek_word": "бировнинг номидан",
+            "russian_word": "от лица, имени(кого-л)"
+        },
+        {
+            "english_word": "on duty",
+            "uzbek_word": "навбатчи, иш вақтида навбатчилик қилмоқ",
+            "russian_word": "дежурить, при испол-нении служебных обязанностей"
+        },
+        {
+            "english_word": "on easy street",
+            "uzbek_word": "бойлик ичида, роҳат-фароғат (яхши шароит)да яшамоқ",
+            "russian_word": "в полном довольстве, богатстве"
+        },
+        {
+            "english_word": "on foots horse",
+            "uzbek_word": "ҳаз. ўз оёғи билан, пиёда, яёв",
+            "russian_word": "шутл. пешком на своих двоих"
+        },
+        {
+            "english_word": "on no account",
+            "uzbek_word": "асло, ҳеч вақтда, зинҳор",
+            "russian_word": "ни в коем случае"
+        },
+        {
+            "english_word": "on shankes mare (pony)",
+            "uzbek_word": "пиёда бормоқ, юрмоқ",
+            "russian_word": "пешком, на своих двоих"
+        },
+        {
+            "english_word": "on the fly",
+            "uzbek_word": "тез-тез, дарров, дарҳол, юзаки, йўл-йўлакай",
+            "russian_word": "на ходу"
+        },
+        {
+            "english_word": "on the streets",
+            "uzbek_word": "кўчаларда юрадиган, уйсиз, бошпанасиз",
+            "russian_word": "бездомный, бродящий по улицам"
+        },
+        {
+            "english_word": "on time",
+            "uzbek_word": "1) вақт ўтиши билан;   2) амер.бир қанча муддатда",
+            "russian_word": "1) со временем;          2) амер. в рассрочку"
+        },
+        {
+            "english_word": "once in a blue moon",
+            "uzbek_word": "аҳён-аҳёнда, ора-сирада, онда-сонда, камдан-кам",
+            "russian_word": "что-то происходит или случается очень редко, в ком-то веки, раз в год по обещании"
+        },
+        {
+            "english_word": "one wouldn’t hurt a fly",
+            "uzbek_word": "қўй оғзидан чўп олмаган, чумолига ҳам озор бермайди, мўмин-қобил, пашшага ҳам озор бермайди",
+            "russian_word": "он и мухи не обидит"
+        },
+        {
+            "english_word": "one’s ewe lamb",
+            "uzbek_word": "[библ.ол.] ягона фарзанд, битаю-битта фарзанд, бебаҳо хазина (бойлик)",
+            "russian_word": "[этим.библ.] единственная дитя"
+        },
+        {
+            "english_word": "one’s monkey is up",
+            "uzbek_word": "жаҳли  чиқди, ғазабланди",
+            "russian_word": "он разозлился, рассердился"
+        },
+        {
+            "english_word": "out of the blues",
+            "uzbek_word": "бирданига, кутилмаганда, томдан тараша тушгандай",
+            "russian_word": "совершенно неожиданно, как гром среди ясного неба"
+        },
+        {
+            "english_word": "out of work",
+            "uzbek_word": "ишсиз, бекор",
+            "russian_word": "безработный"
+        },
+        {
+            "english_word": "outside of a horse",
+            "uzbek_word": "отда, от устида, отга миниб",
+            "russian_word": "верхом"
+        },
+        {
+            "english_word": "owl car",
+            "uzbek_word": "амер. тунги такси ёки трамвай",
+            "russian_word": "амер. ночное такси или трамвай"
+        },
+        {
+            "english_word": "pay attention (to smb/smth)",
+            "uzbek_word": "эътибор бермоқ (кимгадир ёки нимагадир)",
+            "russian_word": "обращать внимание (на кого-л. или на что-л.)"
+        },
+        {
+            "english_word": "peacock in his pride",
+            "uzbek_word": "думини ёйиб турган товус (гербдаги расм)",
+            "russian_word": "павлин распушенным хвостом (изображение на гербе)"
+        },
+        {
+            "english_word": "peanut politician",
+            "uzbek_word": "амер. кичкина ишбилармон,  сиёсатбоз",
+            "russian_word": "амер. мелкий политикан"
+        },
+        {
+            "english_word": "pigeon’s milk",
+            "uzbek_word": "анқонинг уруғи",
+            "russian_word": "большая редкость"
+        },
+        {
+            "english_word": "pipe dream",
+            "uzbek_word": "амалга ошмайдиган орзулар",
+            "russian_word": "безнадежные мечты, фантазии, беспочвенные надежды"
+        },
+        {
+            "english_word": "play a joke on smb",
+            "uzbek_word": "1) кимнингдир устидан кулмоқ (ҳазиллашмоқ) 2) алдамоқ",
+            "russian_word": "1) сыграть шутку с кем-л., подшутить над кем-л.; 2) надуть, обмануть кого-л."
+        },
+        {
+            "english_word": "play for a dead horse",
+            "uzbek_word": "ўз нархини йўқотган нарсага пул тўламоқ",
+            "russian_word": "платить за что-либо, потерявши свою цену"
+        },
+        {
+            "english_word": "play horse",
+            "uzbek_word": "амер. ўзини жинниликка солмоқ, аҳмоқлик қилмоқ",
+            "russian_word": "амер. валять дурака"
+        },
+        {
+            "english_word": "play into smb’s hands",
+            "uzbek_word": "қўл келмоқ; бировниннг тегирмонига сув қуймоқ; бировнинг фойдасига иш қилмоқ; бировнинг сўзини (фикрини) маъқулламоқ",
+            "russian_word": "сыграть на руку кому-л., лить воду на чью-л. мельницу"
+        },
+        {
+            "english_word": "play the bear",
+            "uzbek_word": "ўзини қўпол тутмоқ",
+            "russian_word": "грубить"
+        },
+        {
+            "english_word": "play the bear with",
+            "uzbek_word": "ағдар-тўнтар қилиб юбормоқ",
+            "russian_word": "перевернуть вверх дном"
+        },
+        {
+            "english_word": "play the fox",
+            "uzbek_word": "айёрлик қилмоқ, муғомбирлик қилмоқ, ҳийла қилмоқ",
+            "russian_word": "хитрить, притворяться"
+        },
+        {
+            "english_word": "play the monkey",
+            "uzbek_word": "аҳмоқлик  қилмоқ, тентаклик қилмоқ",
+            "russian_word": "валять дурака"
+        },
+        {
+            "english_word": "play the peacock",
+            "uzbek_word": "ўзини катта тутмоқ, гердаймоқ, кеккаймоқ",
+            "russian_word": "высокомерно держатся"
+        },
+        {
+            "english_word": "play with fire",
+            "uzbek_word": "ўт билан ўйнашмоқ",
+            "russian_word": "играть с огнём"
+        },
+        {
+            "english_word": "pluck a pigeon",
+            "uzbek_word": "жарг. ўғирламоқ, шип-шийдон қилиб кетмоқ, алдаб ўзлаштирмоқ, таламоқ",
+            "russian_word": "жарг. обобрать"
+        },
+        {
+            "english_word": "poor snake",
+            "uzbek_word": "бечора, оғир ишни бажарадиган ишчи",
+            "russian_word": "бедный человек, работник исполняющий тяжёлую работу"
+        },
+        {
+            "english_word": "printer’s flower",
+            "uzbek_word": "виньетка, китобнинг охиридаги график чизилган расмлар",
+            "russian_word": "виньетка, графические украшение в конце книги"
+        },
+        {
+            "english_word": "prove that black is white and white is black",
+            "uzbek_word": "қорани–оқлигини ва оқни–қоралигини  исботлашга ҳаракат қилмоқ",
+            "russian_word": "доказывать, что чёрное–белое, а белое–чёрное"
+        },
+        {
+            "english_word": "publicity hound",
+            "uzbek_word": "амер. ўзини ўзи мақташни ёқтирадиган инсон, мақтанчоқ",
+            "russian_word": "амер. любитель создавать себе рекламу"
+        },
+        {
+            "english_word": "pull a good oar; pull one’s weight",
+            "uzbek_word": "ўзига ажратилган ишни бажармоқ",
+            "russian_word": "выполнят свою долю работы"
+        },
+        {
+            "english_word": "pull dog, pull cat",
+            "uzbek_word": "курашда ким-кимни ютади",
+            "russian_word": "ожесточенное соревнование, кто-кого"
+        },
+        {
+            "english_word": "put a bug in somebody’s ear",
+            "uzbek_word": "амер. жонига тегмоқ, миясига қуйиб олмоқ",
+            "russian_word": "амер. досаждать кому-л. вбивать в голову"
+        },
+        {
+            "english_word": "put on a white sheet; white sheet",
+            "uzbek_word": "расмий даражада тавба қилмоқ, айбини тан олмоқ; тавба қилиш учун кийиладиган кийим",
+            "russian_word": "публично кается; покаянная одежда"
+        },
+        {
+            "english_word": "put on dog",
+            "uzbek_word": "сўз. ўзига бино қўйган, ўзини осмонда деб билмоқ",
+            "russian_word": "разг. держатся высокомерно, важничать"
+        },
+        {
+            "english_word": "put on/gain weight",
+            "uzbek_word": "тўлишмоқ, семирмоқ",
+            "russian_word": "прибавлять в весе, полнеть, толстеть"
+        },
+        {
+            "english_word": "put smb in the picture",
+            "uzbek_word": "кимнидир хабардор қилмоқ",
+            "russian_word": "осведомлять, информировать кого-л."
+        },
+        {
+            "english_word": "put smb/smth to the test",
+            "uzbek_word": "кимнидир/ниманидир текшириб кўрмоқ",
+            "russian_word": "подвергнуть испытанию, проверить"
+        },
+        {
+            "english_word": "put smth in a nutshell",
+            "uzbek_word": "икки оғиз сўз билан (қисқача, қисқа қилиб) айтиб бермоқ;",
+            "russian_word": "вкратце, кратко, в двух словах"
+        },
+        {
+            "english_word": "put the bee on smb",
+            "uzbek_word": "амер. тиланчилик қилмоқ",
+            "russian_word": "амер. попрошайничать"
+        },
+        {
+            "english_word": "put up one’s horse together",
+            "uzbek_word": "бир бирига хабар бериб ишламоқ",
+            "russian_word": "действовать сообща"
+        },
+        {
+            "english_word": "quake like an aspen leaf",
+            "uzbek_word": "дағ-дағ титрамоқ, зирриламоқ",
+            "russian_word": "дрожать, как осиновый лист"
+        },
+        {
+            "english_word": "quite the potato",
+            "uzbek_word": "худди сен менга керакли нарса",
+            "russian_word": "как раз то, что надо; порядочный человек"
+        },
+        {
+            "english_word": "raise snake",
+            "uzbek_word": "жанжал кўтармоқ, тўполон кўтармоқ",
+            "russian_word": "поднять скандал, затеять шумную ссору, причинять неприятности"
+        },
+        {
+            "english_word": "rats desert a sinking ship",
+            "uzbek_word": "қўрқоқ одамлар",
+            "russian_word": "бегут как крысы с тонущего корабля"
+        },
+        {
+            "english_word": "reach smb’s ears",
+            "uzbek_word": "кимнидир қулоғига етиб бормоқ",
+            "russian_word": "дойти до чьих-л. ушей"
+        },
+        {
+            "english_word": "read smth from cover to cover",
+            "uzbek_word": "бошдан оёқ ўқиб чиқмоқ; биттисини ҳам қолдирмай ўқимоқ",
+            "russian_word": "от доски до доски; прочитать что-л. полностью"
+        },
+        {
+            "english_word": "red blood",
+            "uzbek_word": "бақувват, мардлик, қаҳрамонлик",
+            "russian_word": "физическая сила; мужества, смелость"
+        },
+        {
+            "english_word": "red cent",
+            "uzbek_word": "амер. бир центлик мис танга",
+            "russian_word": "амер. медный цент"
+        },
+        {
+            "english_word": "red coat",
+            "uzbek_word": "инглиз солдати",
+            "russian_word": "английский солдат"
+        },
+        {
+            "english_word": "red cock will crow in his house",
+            "uzbek_word": "унинг уйини ёқиб юборишади",
+            "russian_word": "ему пустят «красного петуха», его подожгут"
+        },
+        {
+            "english_word": "red hat",
+            "uzbek_word": "кардинал (лик) унвони, кардинал(лик) шапкаси",
+            "russian_word": "звание кардинала"
+        },
+        {
+            "english_word": "red ink",
+            "uzbek_word": "ҳаз. арзон қизил вино",
+            "russian_word": "шутл. дешевое красное вино"
+        },
+        {
+            "english_word": "red lane",
+            "uzbek_word": "сўз. томоқ, бўғиз",
+            "russian_word": "разг. горло"
+        },
+        {
+            "english_word": "red liquor",
+            "uzbek_word": "амер. сл. ўткир ичимлик",
+            "russian_word": "амер. сл. крепкий напиток"
+        },
+        {
+            "english_word": "red meat",
+            "uzbek_word": "қўй гўшти, мол гўшти",
+            "russian_word": "чёрное мясо (говядина, баранина)"
+        },
+        {
+            "english_word": "red rag to a bull",
+            "uzbek_word": "жаҳлини чиқарадиган нарса; тили аччиқ, кишининг таъбига тегиб гапирадиган",
+            "russian_word": "то что приводить в ярость; грубый язык"
+        },
+        {
+            "english_word": "red ribbon",
+            "uzbek_word": "Бани ордени лентаси",
+            "russian_word": "лента ордена Бани"
+        },
+        {
+            "english_word": "red sea (of blood, of wine)",
+            "uzbek_word": "кўч.м. жуда кўп (қон, вино)",
+            "russian_word": "перен. море (крови, вина)"
+        },
+        {
+            "english_word": "red shanks",
+            "uzbek_word": "кин. Шотландиялик тоғликлар",
+            "russian_word": "ирон. Шотландские горцы"
+        },
+        {
+            "english_word": "red tab",
+            "uzbek_word": "жарг. штаб офицери",
+            "russian_word": "жарг. штабной офицер"
+        },
+        {
+            "english_word": "red–letter day",
+            "uzbek_word": "байрам кунлари",
+            "russian_word": "праздничные дни"
+        },
+        {
+            "english_word": "redound to ones credit",
+            "uzbek_word": "мақтовга лойиқ",
+            "russian_word": "быть достойным похвалы"
+        },
+        {
+            "english_word": "ride a cockhorse",
+            "uzbek_word": "кўч.м. ўзи хоҳлаган, ёқтирган мавзуда суҳбатлашмоқ",
+            "russian_word": "перен. говорить на излюбленную тему"
+        },
+        {
+            "english_word": "ride a horse that was foaled of an acorn",
+            "uzbek_word": "ҳаётини дор остида тугатмоқ, дорга осилмоқ",
+            "russian_word": "окончить жизнь на виселице"
+        },
+        {
+            "english_word": "ride before the hound",
+            "uzbek_word": "кўч.м. воқеалардан олдинга ўтиб олмоқ",
+            "russian_word": "перен. забегать в перед, опережать события"
+        },
+        {
+            "english_word": "ride shankes’s mare",
+            "uzbek_word": "ҳаз. пиёда бормоқ, юрмоқ",
+            "russian_word": "шутл. идти пешком, на своих двоих"
+        },
+        {
+            "english_word": "ride the black donkey",
+            "uzbek_word": "ёмон кайфиятда бўлмоқ",
+            "russian_word": "быть в плохом настроении"
+        },
+        {
+            "english_word": "ring the bell",
+            "uzbek_word": "1) шундай қаттиқ ургандан звонок чалиниб кетди;                         2) кўч.м. сўз. яхши натижаларга, муввафақиятга эришмоқ",
+            "russian_word": "1) ударить по силомеру так, чтобы зазвонил звонок;        2) перен. разг. имеет успех, удачу, добиться хороших результатов"
+        },
+        {
+            "english_word": "rise to the fly",
+            "uzbek_word": "қармоққа илинмоқ, тузоққа тушмоқ",
+            "russian_word": "попасться на удочку"
+        },
+        {
+            "english_word": "rock the boat",
+            "uzbek_word": "мувозанатни бузмоқ, режаларини бузмоқ",
+            "russian_word": "нарушать равновесие, ставить под удар   чьи-л. планы"
+        },
+        {
+            "english_word": "Roman peace",
+            "uzbek_word": "Рим империяси таркибидаги икки ютказган тарафлар ўртасида дўстлик",
+            "russian_word": "мир между побежденными сторонами, вошедшее в состав Римской империи"
+        },
+        {
+            "english_word": "sacred cow",
+            "uzbek_word": "кин. дахлсиз шахс",
+            "russian_word": "ирон. неприкосновенная личность"
+        },
+        {
+            "english_word": "sad dog",
+            "uzbek_word": "хафа бўлиб юрадиган одам",
+            "russian_word": "шалопай, мрачный, угрюмый человек"
+        },
+        {
+            "english_word": "safety Island",
+            "uzbek_word": "хавфсиз орол",
+            "russian_word": "островок безопасности"
+        },
+        {
+            "english_word": "save face",
+            "uzbek_word": "шармандаликдан қочмоқ",
+            "russian_word": "избежать позора"
+        },
+        {
+            "english_word": "say a few words",
+            "uzbek_word": "бир оғиз сўз айтмоқ, тайёрланмасдан туриб гап гапирмоқ",
+            "russian_word": "сказать несколько слов, выступить кратко, без предварительной подготовки"
+        },
+        {
+            "english_word": "scotch the snake, not kill it",
+            "uzbek_word": "вақтинчаликка зарарсизлантирмоқ",
+            "russian_word": "временно обезвредить"
+        },
+        {
+            "english_word": "sea dog",
+            "uzbek_word": "моҳир денгизчи, тажрибали матрос",
+            "russian_word": "морской волк"
+        },
+        {
+            "english_word": "sell you ass",
+            "uzbek_word": "аҳмоқлик қилишни (гапиришни) тўхтатинг",
+            "russian_word": "перестаньте делать (или говорить) глупости"
+        },
+        {
+            "english_word": "send smb. away with a flea in his ear",
+            "uzbek_word": "кимгадир қаттиқ танбеҳ бермоқ",
+            "russian_word": "сделать резкое замечание кому-либо; дать резкий отпор"
+        },
+        {
+            "english_word": "separate the sheep from the goat",
+            "uzbek_word": "[библ.ол.] биринчи даражали ишдан, иккинчи даражали ишни ажратмоқ",
+            "russian_word": "[этим.библ.] отделять важное от второстепенного, отделять овец от козлиц"
+        },
+        {
+            "english_word": "set cock on hoop",
+            "uzbek_word": "хурсандчилик қилмоқ",
+            "russian_word": "пить и веселиться вовсю"
+        },
+        {
+            "english_word": "shake the pagoda tree",
+            "uzbek_word": "тез бойиб кетмоқ",
+            "russian_word": "быстро разбогатеть"
+        },
+        {
+            "english_word": "shake the plum tree",
+            "uzbek_word": "сиёсатда қилган ишлари учун давлатдаги мансабини кўтармоқ",
+            "russian_word": "предоставлять государственные должности за политические услуги"
+        },
+        {
+            "english_word": "sheep that haven’t shepherd",
+            "uzbek_word": "тартибсиз оломон",
+            "russian_word": "беспорядочная толпа"
+        },
+        {
+            "english_word": "shoe a goose",
+            "uzbek_word": "вақтини бекорга кетказмоқ (сарф қилмоқ)",
+            "russian_word": "тратить время попусту"
+        },
+        {
+            "english_word": "shoot at a pigeon and kill a crow",
+            "uzbek_word": "бир нарсани қилишга ҳаракат қила туриб, ўзини бошқа нарсага ҳаракат қилаётгандек қилиб кўрсатмоқ",
+            "russian_word": "стремится к чему-л. делая вид что добиваешься другого"
+        },
+        {
+            "english_word": "shoot the Bull",
+            "uzbek_word": "ёлғон–яшиқ гапларни гапирмоқ, лоф урмоқ",
+            "russian_word": "хвастать, болтать, трепать языком"
+        },
+        {
+            "english_word": "show (sea) the lions",
+            "uzbek_word": "тарихий жойларни кўрсатмоқ",
+            "russian_word": "показать достопри-мечательности"
+        },
+        {
+            "english_word": "show the elephant",
+            "uzbek_word": "диққатга сазовор жойлар билан таништирмоқ",
+            "russian_word": "ознакомить кого-л. с жизнью большого города"
+        },
+        {
+            "english_word": "singed cat",
+            "uzbek_word": "амер. кўринишига нисбатан анча ёмон одам",
+            "russian_word": "амер. человек, кажущийся хуже, чем он на самом деле"
+        },
+        {
+            "english_word": "sleep a dog-sleep",
+            "uzbek_word": "ҳушёр ухламоқ",
+            "russian_word": "чутко спать, спать урывками"
+        },
+        {
+            "english_word": "sling the bat",
+            "uzbek_word": "сўз. чет тилда гапирмоқ",
+            "russian_word": "разг. говорить на иностранном языке"
+        },
+        {
+            "english_word": "slush (yellow-dog) fund",
+            "uzbek_word": "амер.сл. пуллар (пора) учун ажратилган фонд",
+            "russian_word": "амер.сл. фонд, предназначенный для взяток, суммы"
+        },
+        {
+            "english_word": "sly dog",
+            "uzbek_word": "ўзининг сирларини беркитадиган одам, айёр одам",
+            "russian_word": "человек скрывающий свои грехи"
+        },
+        {
+            "english_word": "small deer",
+            "uzbek_word": "кичкина одамлар",
+            "russian_word": "пустяки, мелочи, мелкая сошка, мелкие люди"
+        },
+        {
+            "english_word": "small potato",
+            "uzbek_word": "кичкина одамлар",
+            "russian_word": "мелкие люди; мелкая сошка"
+        },
+        {
+            "english_word": "smell a rat",
+            "uzbek_word": "шубҳага тушмоқ, ёмонликни сезмоқ",
+            "russian_word": "чуять недоброе, подозревать что-л неладно"
+        },
+        {
+            "english_word": "smithfield bargain",
+            "uzbek_word": "ёлғон йўл билан тузилган шартнома; ҳисоб-китоб бўйича турмуш қуриш [Лондондаги гўшт маркази]",
+            "russian_word": "нечестная сделка; перен. брак по расчету [мясной центр в Лондоне]"
+        },
+        {
+            "english_word": "snake in the grass",
+            "uzbek_word": "илоннинг ёғини ялаган; ичингдаги душман, беркитинча душман ишини қилмоқ",
+            "russian_word": "тайное коварство, тайный враг"
+        },
+        {
+            "english_word": "so far",
+            "uzbek_word": "шу пайтгача, ҳозиргача",
+            "russian_word": "пока (ещё), до сих пор"
+        },
+        {
+            "english_word": "speak badly/ill of smb",
+            "uzbek_word": "кимнидир ёмонлаб гапирмоқ, фисқи–фасод гап тарқатмоқ (биров ҳақида)",
+            "russian_word": "плохо отзываться о ком-л.; злословить на чей-л. счёт"
+        },
+        {
+            "english_word": "speak of the devil",
+            "uzbek_word": "хизрни йўқласа ҳам бўлар экан (бирор одам ҳақида гапириб, эслаб турилганда, ўзи кириб келса шу ибора қўлланилади)",
+            "russian_word": "лёгок на помине"
+        },
+        {
+            "english_word": "speak well/highly of smb",
+            "uzbek_word": "кимдир ҳақида яхши фиқр билдирмоқ",
+            "russian_word": "хорошо отзываться о ком-л."
+        },
+        {
+            "english_word": "spoil the Egyptians",
+            "uzbek_word": "душман   ҳисобидан фойда кўрмоқ (топмоқ)",
+            "russian_word": "поживится за счет врага"
+        },
+        {
+            "english_word": "spotted dog",
+            "uzbek_word": "сўз. долматинец (итнинг тури)",
+            "russian_word": "разг. вареный пудинг с коринкой"
+        },
+        {
+            "english_word": "spring up like a mushroom; grow up like mushroom",
+            "uzbek_word": "қўзиқоринлардек тез ўсмоқ; тез ўсиш",
+            "russian_word": "растут как грибы; быстрое развитие, рост"
+        },
+        {
+            "english_word": "sprinkle the flowers",
+            "uzbek_word": "амер. оғзини мойламоқ, пора бермоқ",
+            "russian_word": "амер. раздавать взятки; подмазывать"
+        },
+        {
+            "english_word": "squeezed (sucked) orange",
+            "uzbek_word": "шарти кетиб парти қолган киши",
+            "russian_word": "выжатый лимон, ненужный больше человек"
+        },
+        {
+            "english_word": "start a hare",
+            "uzbek_word": "тўғри келмайдиган мавзуда гаплашмоқ",
+            "russian_word": "говорит не на тему"
+        },
+        {
+            "english_word": "start another hare",
+            "uzbek_word": "суҳбатнинг мавзусини ўзгартирмоқ, янги савол (муаммони) кўтармоқ",
+            "russian_word": "переменить тему разговора, поднять новый вопрос"
+        },
+        {
+            "english_word": "stay put",
+            "uzbek_word": "амер. жойидан қимирламаслик, ўзгармайдиган бўлиб қолмоқ",
+            "russian_word": "амер. не двинутся с места, оставаться в прежнем положении, на прежнем месте, оставаться неизменным"
+        },
+        {
+            "english_word": "stay until the last dog is hung",
+            "uzbek_word": "сўз. охиригача турмоқ",
+            "russian_word": "разг. остаться до конца"
+        },
+        {
+            "english_word": "step by step",
+            "uzbek_word": "қадам-бақадам, аста-секин",
+            "russian_word": "шаг за шагом, постепенно"
+        },
+        {
+            "english_word": "stick pigs",
+            "uzbek_word": "найза билан чўчқаларни ов қилмоқ",
+            "russian_word": "охотится на кабанов верхом с копьем"
+        },
+        {
+            "english_word": "stool pigeon",
+            "uzbek_word": "кўч.м. иғвогар, айғоқчи",
+            "russian_word": "перен. провокатор, осведомитель"
+        },
+        {
+            "english_word": "stormy petrel",
+            "uzbek_word": "Бўрон қуши. кўч.м. ташвиш келтирувчи, тинчликни (осойишталикни) бузувчи одам",
+            "russian_word": "Буревестник.  перен. человек, появление которого вызывает споры, беспокойства"
+        },
+        {
+            "english_word": "strawberry leaves",
+            "uzbek_word": "граф, герцог унвони",
+            "russian_word": "титул герцога, графа"
+        },
+        {
+            "english_word": "suck the monkey",
+            "uzbek_word": "денг.жарг. кокос ёнғоғининг пўчоғида ром ичмоқ, яширинча бочкадан вино олиб ичмоқ",
+            "russian_word": "мор. жарг. пить ром из скорлупы кокосового ореха, тайком, тянуть вино из бочонки"
+        },
+        {
+            "english_word": "sunday best",
+            "uzbek_word": "байрам кастюми",
+            "russian_word": "праздничный костюм, праздничное платье; лучший костюм, лучшее платье"
+        },
+        {
+            "english_word": "sure enough",
+            "uzbek_word": "1) албатта; 2) аслида, аслини олганда, ҳақиқатда, дарҳақиқат",
+            "russian_word": "1) конечно, действительно; 2) в действительности, на самом деле"
+        },
+        {
+            "english_word": "sure thing",
+            "uzbek_word": "амер. сўз. албатта, шубҳасиз",
+            "russian_word": "амер. разг. наверняка, конечно, несомненно"
+        },
+        {
+            "english_word": "surly-dog",
+            "uzbek_word": "қўпол одам, жахлдор одам",
+            "russian_word": "грубый, сердитый человек"
+        },
+        {
+            "english_word": "swear black is white",
+            "uzbek_word": "қорани оқ деб ишонтирмоқ",
+            "russian_word": "уверять что чёрное–белое"
+        },
+        {
+            "english_word": "take a fancy to smb",
+            "uzbek_word": "мафтун бўлмоқ, кўнгил қўймоқ, тасодифан эсига келмоқ",
+            "russian_word": "полюбить, увлекаться, взбрести в голову"
+        },
+        {
+            "english_word": "take a picture",
+            "uzbek_word": "расмга олмоқ",
+            "russian_word": "снимать, фотографировать"
+        },
+        {
+            "english_word": "take it in turns or take turns",
+            "uzbek_word": "ишни навбатма-навбат қилмоқ",
+            "russian_word": "делать что-л. поочерёдно, чередоваться, сменяться"
+        },
+        {
+            "english_word": "take note of smth",
+            "uzbek_word": "диққатни жалб этмоқ",
+            "russian_word": "обратить внимания"
+        },
+        {
+            "english_word": "take one’s mind off smth",
+            "uzbek_word": "кимнингдир диққатини чалғитмоқ",
+            "russian_word": "отвлекать чьё-л. внимание от чего-л."
+        },
+        {
+            "english_word": "take place",
+            "uzbek_word": "содир бўлмоқ, юз бермоқ",
+            "russian_word": "иметь место, происходить, случаться"
+        },
+        {
+            "english_word": "take smth into account",
+            "uzbek_word": "ниманидир ҳисобга олмоқ",
+            "russian_word": "принимать во внимания"
+        },
+        {
+            "english_word": "take the bear by the tooth",
+            "uzbek_word": "ўзини хавф-хатарга қўйиш ақлсизликдир",
+            "russian_word": "неразумно подвергать себя в опасности"
+        },
+        {
+            "english_word": "take the chance",
+            "uzbek_word": "имкониятни қўлдан бой бермаслик",
+            "russian_word": "использовать представившуюся возможность"
+        },
+        {
+            "english_word": "take the weight off one’s mind",
+            "uzbek_word": "елкамдан тоғ ағдарилди, ташвишдан қутилдим; кўнгилдан чиқди, кўнгил бўшади, кўнгил таскин топди",
+            "russian_word": "снять камень с чей-л. души; от сердца отлегло, гора с плеч"
+        },
+        {
+            "english_word": "talk (say) turkey",
+            "uzbek_word": "суҳбатлашмоқ, яхши нарсалар ҳақида гаплашмоқ; очиқдан-очиқ гапирмоқ",
+            "russian_word": "вести деловую беседу; говорить приятные вещи; говорить прямо, начистую"
+        },
+        {
+            "english_word": "talk a dog’s (donkey’s, horse’s) hind leg off",
+            "uzbek_word": "бировни кўп гапириб чарчатиб юбормоқ, гапиравериб қулоқ миясини еб юбормоқ; миясини қоқиб қўлига бермоқ",
+            "russian_word": "замучить кого-л. разговорами"
+        },
+        {
+            "english_word": "talk horse",
+            "uzbek_word": "мақтанмоқ",
+            "russian_word": "хвастаться"
+        },
+        {
+            "english_word": "talk the bark off a tree",
+            "uzbek_word": "гап бермоқ; гап сотмоқ; гапиравериб қулоқ миясини еб юбормоқ; миясини қоқиб қўлига бермоқ",
+            "russian_word": "замучить кого-л разговорами"
+        },
+        {
+            "english_word": "talk to smb like a Dutch Uncle",
+            "uzbek_word": "йўл-йўриқ кўрсатмоқ; йўл кўрсатмоқ",
+            "russian_word": "отеческий настаивать кого-л. учить уму-разуму"
+        },
+        {
+            "english_word": "teach a pig to play on a flute",
+            "uzbek_word": "аҳмоқона ишларни қилмоқ",
+            "russian_word": "учить свинью играть на флейте, т.е. делать явно абсурдные вещи"
+        },
+        {
+            "english_word": "tell the world",
+            "uzbek_word": "бутун дунёга жар солмоқ, очиқ эълон қилмоқ",
+            "russian_word": "рассказывать всему свету, открыто объявлять"
+        },
+        {
+            "english_word": "that does it",
+            "uzbek_word": "сабр косаси тўлди, ишини охирига етказмоқ",
+            "russian_word": "это переполнило чашу, довершило дело"
+        },
+        {
+            "english_word": "that’s my pigeon",
+            "uzbek_word": "бу энди менинг ишим",
+            "russian_word": "это уж мое дело"
+        },
+        {
+            "english_word": "the answers lemon",
+            "uzbek_word": "бу қилиғингиз, ҳаракатингиз ўтмайди",
+            "russian_word": "этот номер не пойдет"
+        },
+        {
+            "english_word": "the apple of disorder",
+            "uzbek_word": "миф. кимлардир орасида (жанжалнинг хамиртуруши) жанжалга сабабчи бўлган нарса; уруш баҳонаси",
+            "russian_word": "миф. яблоко раздора"
+        },
+        {
+            "english_word": "the apple of one’s eye",
+            "uzbek_word": "[библ.ол.] кўз қорачиғи, кўзининг оқу қораси",
+            "russian_word": "[этим.библ.] зеница ока"
+        },
+        {
+            "english_word": "the apple of Sodom",
+            "uzbek_word": "[библ.ол.] усти ялтироқ ичи қалтироқ",
+            "russian_word": "[этим.библ.] красивый  но гнилой плод; обманчивый успех"
+        },
+        {
+            "english_word": "the Red Book",
+            "uzbek_word": "қизил китоб",
+            "russian_word": "красная книга"
+        },
+        {
+            "english_word": "the biggest frog in the pond",
+            "uzbek_word": "амер. шу ерлик каттакон, саркор",
+            "russian_word": "амер. местный заправила"
+        },
+        {
+            "english_word": "the Black book",
+            "uzbek_word": "«қора китоб»",
+            "russian_word": "«чёрная книга»"
+        },
+        {
+            "english_word": "the Black Book of the Admiralty",
+            "uzbek_word": "ҳарбий денгиз министрлигининг «қора китоби»",
+            "russian_word": "«чёрная книга» военно-морского министерства"
+        },
+        {
+            "english_word": "the Black Book of the Exchequer",
+            "uzbek_word": "молия министрлигининг «қора китоби»",
+            "russian_word": "«чёрная книга» министерства финансов"
+        },
+        {
+            "english_word": "the Black Code",
+            "uzbek_word": "тарх. «қора кодекс»",
+            "russian_word": "ист. «чёрный кодекс»"
+        },
+        {
+            "english_word": "the black Country",
+            "uzbek_word": "Англиянинг тошкўмир ва металлургия конлари жойлашган тумани",
+            "russian_word": "каменноугольный и металлургический районы Англии"
+        },
+        {
+            "english_word": "the Black Death",
+            "uzbek_word": "қора ўлим (Европадаги ўлат эпидемияси)",
+            "russian_word": "чёрная смерть (эпидемия чумы в Европе)"
+        },
+        {
+            "english_word": "the black dog is on his back",
+            "uzbek_word": "кайфи бузуқ, таъби хира, таъби тирриқ; ёмон кайфиятда бўлмоқ",
+            "russian_word": "плохое настроение, находиться в состоянии уныния"
+        },
+        {
+            "english_word": "the black man",
+            "uzbek_word": "шайтон, қўриқчи",
+            "russian_word": "злой дух, сатана; пугало"
+        },
+        {
+            "english_word": "the Black Maria",
+            "uzbek_word": "жарг. қамоқхона машинаси; немисларнинг ўқотар қуроли",
+            "russian_word": "жарг. тюремный автомобиль; немецкий дымовой снаряд"
+        },
+        {
+            "english_word": "the black ox has trod on smb’s foot",
+            "uzbek_word": "у қариди, бошига кулфат ёғилди, бошига тушмоқ",
+            "russian_word": "его достигло несчастье, он состарился"
+        },
+        {
+            "english_word": "the Black Prince",
+            "uzbek_word": "қора шахзода",
+            "russian_word": "чёрный принц"
+        },
+        {
+            "english_word": "the Blue and Gray",
+            "uzbek_word": "тарх. кўк ва кулранг кийимлилар (тарихда, 1861-65 йиллари АҚШ даги гражданлар уруши пайтида шимолий ва жанубий штатлардаги армия)",
+            "russian_word": "ист. синие и серые (в истории, 1861-65 гг. во время гражданской войны  армии северных и южных штатах США)"
+        },
+        {
+            "english_word": "the blue blanket",
+            "uzbek_word": "сўз. мовий осмон",
+            "russian_word": "разг. небо"
+        },
+        {
+            "english_word": "the blue devil",
+            "uzbek_word": "дев, иблис, жин, ажина, йўлдан оздирувчи, ғам-ғусса",
+            "russian_word": "злой дух-искуситель"
+        },
+        {
+            "english_word": "the Blue Grass State",
+            "uzbek_word": "Кентукки штатининг лақаби",
+            "russian_word": "прозвище штата Кентукки"
+        },
+        {
+            "english_word": "the Blue Law State",
+            "uzbek_word": "Коннектикут штати лақаби",
+            "russian_word": "прозвище штата Коннектикут"
+        },
+        {
+            "english_word": "the blue of the plum",
+            "uzbek_word": "одамнинг ёшлик пайтлари",
+            "russian_word": "свежеть, очарование молодости"
+        },
+        {
+            "english_word": "the Blue Peter",
+            "uzbek_word": "байроқ кўтарилиши, кеманинг жўнаб кетаётганлигини билдирадиган белги",
+            "russian_word": "флаг отплытия"
+        },
+        {
+            "english_word": "the blue sky law",
+            "uzbek_word": "амер. қимматли қоғозларни ва акцияларни сотилишини назорат қилиб турувчи қонун",
+            "russian_word": "амер. закон, регулирующий выпуск и продажи акций и ценных бумаг"
+        },
+        {
+            "english_word": "the boys (men) in blue",
+            "uzbek_word": "тарх. Американинг федерал қўшинлари, миршаблар, денгизчилар",
+            "russian_word": "ист. Американские федеральные войска, полицейские, моряки"
+        },
+        {
+            "english_word": "the cat did it",
+            "uzbek_word": "оғз.ҳаз. тўғриси, мен буни қилмадим",
+            "russian_word": "разг.шутл. честное слово, не я это сделал"
+        },
+        {
+            "english_word": "the cat’s pajams (whiskers)",
+            "uzbek_word": "амер. биринчи сортли нарса, зўр нарса",
+            "russian_word": "амер. вещ что надо, первый сорт"
+        },
+        {
+            "english_word": "the curse of Scotland",
+            "uzbek_word": "карт. Шотландияга теккан қарғиш. 9-бубен",
+            "russian_word": "карт. проклятия Шотландии. 9-бубен"
+        },
+        {
+            "english_word": "the dаck blues",
+            "uzbek_word": "«кўклар» оксфорд талабалари (спорт мусобақаларида кийилган кийимлар)",
+            "russian_word": "«синие», оксфордские студенты (на спорти-вных состязаниях)"
+        },
+        {
+            "english_word": "the flower of the flock",
+            "uzbek_word": "оиланинг фаҳри, ифтиҳори",
+            "russian_word": "гордость семьи"
+        },
+        {
+            "english_word": "the flowers of speech",
+            "uzbek_word": "кин. чиройли нутқ, гаплар; гапга уста, нотиқ, бежама сўзлар",
+            "russian_word": "ирон. красивые обороты речи; цветистые фразы; цветы красноречия"
+        },
+        {
+            "english_word": "the garden of England",
+            "uzbek_word": "«Англия боғи» (Англиянинг жанубий районларини лақаби)",
+            "russian_word": "«сад Англии» (проз. южных районов Англии)"
+        },
+        {
+            "english_word": "the garden of the west",
+            "uzbek_word": "ғарб боғи (Иллинойс ва Канзас штатларининг лақаби)",
+            "russian_word": "сад запада (проз. Штата Иллинойс и Канзас)"
+        },
+        {
+            "english_word": "the grain of mustard seed",
+            "uzbek_word": "ғалаба гарови",
+            "russian_word": "залог успеха"
+        },
+        {
+            "english_word": "the grapes are sour",
+            "uzbek_word": "амалга ошмайдиган нарса",
+            "russian_word": "«зелен виноград» (что-л. недостижимое и потому порицаемое)"
+        },
+        {
+            "english_word": "the gray mare is the better horse",
+            "uzbek_word": "гаҳ деса қўлга қўнадиган қилмоқ",
+            "russian_word": "женщина, держащая своего мужа под башмаком, жена верховодить в доме"
+        },
+        {
+            "english_word": "the Great White Way",
+            "uzbek_word": "амер. Бродвей (Нью- Йоркдаги кўча), Бродвей (Тошкетдаги кўча)",
+            "russian_word": "амер. бродвей (улица в Нью-Йорке)"
+        },
+        {
+            "english_word": "the green cloth",
+            "uzbek_word": "бильярд столи",
+            "russian_word": "зёленое поле, билярдный стол"
+        },
+        {
+            "english_word": "the green man",
+            "uzbek_word": "ўрмоннинг афсонавий яшовчилари",
+            "russian_word": "легендарные обитатели лесов"
+        },
+        {
+            "english_word": "the Green Mountain State",
+            "uzbek_word": "Вермонт штатининг лақаби",
+            "russian_word": "прозвище штата Вермонт"
+        },
+        {
+            "english_word": "the heart of Mid-Lothian",
+            "uzbek_word": "тар. эдинбург зиндони",
+            "russian_word": "ист. эдинбургская темница"
+        },
+        {
+            "english_word": "the hound of hell",
+            "uzbek_word": "миф. цербер",
+            "russian_word": "миф. цербер"
+        },
+        {
+            "english_word": "the Island of the Blessed",
+            "uzbek_word": "роҳатбахш орол",
+            "russian_word": "островок блаженный"
+        },
+        {
+            "english_word": "the light (Cambridge) blues",
+            "uzbek_word": "кўк кийимлилар, Кембридж талабалар",
+            "russian_word": "голубые, Кембриджские студенты"
+        },
+        {
+            "english_word": "the Lower Empire",
+            "uzbek_word": "тар. Шарқий Рим Империяси",
+            "russian_word": "ист. Восточная Римаская Империя, Византия"
+        },
+        {
+            "english_word": "the man in the street",
+            "uzbek_word": "амер.cўз. оддий одам",
+            "russian_word": "амер.разг. человек с улицы заурядный, рядовой  человек"
+        },
+        {
+            "english_word": "the New England of the West",
+            "uzbek_word": "амер. ғарбнинг янги Англияси (Минисота штатининг лақаби)",
+            "russian_word": "амер. новая Англия Запада (проз. Штата Минисота)"
+        },
+        {
+            "english_word": "the Old Dominion",
+            "uzbek_word": "амер. қадимий Доминион (Виржиния штатининг лақаби)",
+            "russian_word": "амер. старый Доминион (прозвище штата Виржиния)"
+        },
+        {
+            "english_word": "the Orange Book",
+            "uzbek_word": "Англиянинг қишлоқ-хўжалиги вазирлигининг ҳисоботи",
+            "russian_word": "«оранжевая книга» отчет министерства земледелия Англии"
+        },
+        {
+            "english_word": "the other day",
+            "uzbek_word": "яқинда, шу кунларда, бугун-эрта",
+            "russian_word": "недавно, на днях (о прошлом)"
+        },
+        {
+            "english_word": "the pink of health",
+            "uzbek_word": "жуда соғлом ва бақувват",
+            "russian_word": "воплощение здоровья"
+        },
+        {
+            "english_word": "the pink of perfection",
+            "uzbek_word": "камолот чўққиси",
+            "russian_word": "верх совершенства"
+        },
+        {
+            "english_word": "the real McCoy",
+            "uzbek_word": "олмосдек қадрли нарса",
+            "russian_word": "отличная вещь, нечто весьма ценное"
+        },
+        {
+            "english_word": "the Red Book of the Exchequer",
+            "uzbek_word": "молия вазирлигининг қизил китоби",
+            "russian_word": "красная книга министертва финансов"
+        },
+        {
+            "english_word": "the Roman bird",
+            "uzbek_word": "бургут Рим легионларининг эмблемаси бўлган",
+            "russian_word": "орёл был эмблемой Римских легионов"
+        },
+        {
+            "english_word": "the sere and yellow leaf",
+            "uzbek_word": "ёши улғайган, қари киши",
+            "russian_word": "пожилой возраст"
+        },
+        {
+            "english_word": "the swan of Avon",
+            "uzbek_word": "Эйвон бард (Шекспир лақаби)",
+            "russian_word": "бард Эйвона (прозвище Шекспира)"
+        },
+        {
+            "english_word": "the three tailors if Tooley Street",
+            "uzbek_word": "ўзини бутун халқнинг вакиллари деб ҳисоблайдиган кичик гуруҳдаги одамлар",
+            "russian_word": "небольшая группа людей считающих себя представителями всего народа"
+        },
+        {
+            "english_word": "the Trojan horse",
+            "uzbek_word": "яширинган хавф",
+            "russian_word": "троянский конь, скрытая опасность"
+        },
+        {
+            "english_word": "the wars of the Roses",
+            "uzbek_word": "қизил ва оқ атиргуллар уруши (XV асрда Англияда Ланкастер ва Йорк династиялари ўртасида узоқ вақт бўлган уруш) [Ланкастерлар гербида қизил атиргул, Йорклар гербидқ оқ атиргул расмлари бўлган]",
+            "russian_word": "война Алой и Белой розы (длительная междоусобная война в Англии в XV в между династиями Ланкастеров и Йорков) [в гербе Ланкастеров была алая роза, в гербе Йорков - белая]"
+        },
+        {
+            "english_word": "the wooden walls of England",
+            "uzbek_word": "инглиз флоти ҳарбий кемалари",
+            "russian_word": "английский флот, военные корабли"
+        },
+        {
+            "english_word": "there’s no use (in) doing smth",
+            "uzbek_word": "бу ишни қилишга арзимайди",
+            "russian_word": "не стоит, не имеет смысла"
+        },
+        {
+            "english_word": "think highly/a lot/a world of smb",
+            "uzbek_word": "биров ҳақида жуда яхши фикрда бўлмоқ",
+            "russian_word": "быть высокого мнения о ком-л.; высоко ценить"
+        },
+        {
+            "english_word": "Throgmorton Street",
+            "uzbek_word": "Лондон фонд биржаси ва ундаги операциялар",
+            "russian_word": "Лондонская фондовая биржа; операция на Лондонской фондовой бирже"
+        },
+        {
+            "english_word": "throw one’s weight",
+            "uzbek_word": "қўллаб-қувватламоқ, ҳамма нарсани тарозига солмоқ",
+            "russian_word": "пускать в ход всё свое влияние; бросить всё на чашу весов"
+        },
+        {
+            "english_word": "time is money",
+            "uzbek_word": "вақт бу олтин; вақтинг  кетди, нақдинг кетди",
+            "russian_word": "время деньги"
+        },
+        {
+            "english_word": "to crack a joke",
+            "uzbek_word": "ҳазиллашмоқ",
+            "russian_word": "отпустить шутку"
+        },
+        {
+            "english_word": "to fit like a glove",
+            "uzbek_word": "узукка кўз қўйгандай",
+            "russian_word": "как по сеньке шапка"
+        },
+        {
+            "english_word": "to give smb a black eye",
+            "uzbek_word": "кимнидир уриб кўзини кўкартирмоқ",
+            "russian_word": "подбитый глаз;  нанести сильный удар"
+        },
+        {
+            "english_word": "to have a skeleton in the cupboard",
+            "uzbek_word": "ҳеч кимга айта олмайдиган ўзининг ёки оиласининг сири",
+            "russian_word": "семейная тайна; неприятность, скрываемая от посторонних"
+        },
+        {
+            "english_word": "to kick the bucket",
+            "uzbek_word": "жон бермоқ",
+            "russian_word": "протянуть ног, сыграть в ящик"
+        },
+        {
+            "english_word": "to swim like a fish",
+            "uzbek_word": "балиқдек сузмоқ",
+            "russian_word": "плавать как рыба"
+        },
+        {
+            "english_word": "to tell the truth",
+            "uzbek_word": "тўғрисии айтганда, ростини (тўғрисини) айтганда",
+            "russian_word": "по правде сказать, по правде говоря"
+        },
+        {
+            "english_word": "to the point",
+            "uzbek_word": "ишга тегишли бўлган, муҳим; вақтида",
+            "russian_word": "относящийся к делу, существенный; кстати"
+        },
+        {
+            "english_word": "to throw mud at smb",
+            "uzbek_word": "бировни ифлос гаплар билан лойга булғамоқ",
+            "russian_word": "забросать, закидать, облить грязью; смещать с грязью"
+        },
+        {
+            "english_word": "to throw up one’s cap",
+            "uzbek_word": "хурсандчиликдан дўпписини осмонга отмоқ",
+            "russian_word": "прыгать от радости"
+        },
+        {
+            "english_word": "too far north",
+            "uzbek_word": "сўз. жуда айёр; илонни ёғини ялаган",
+            "russian_word": "разг. слишком уж хитёр"
+        },
+        {
+            "english_word": "too good to be true",
+            "uzbek_word": "бундай бўлиши мумкин эмас, йўғ-э; наҳотки шундай бўлса; қўйинг-э",
+            "russian_word": "невероятно, не может быть; слишком хорошо, чтобы быть правдой"
+        },
+        {
+            "english_word": "top dog",
+            "uzbek_word": "ютган тараф, вазият эгаси",
+            "russian_word": "хозяин положения, победившая сторона"
+        },
+        {
+            "english_word": "toy dog",
+            "uzbek_word": "кичкина  уй кучуги",
+            "russian_word": "маленькая комнатная собачка, болонка"
+        },
+        {
+            "english_word": "tread on a worm and it will turn",
+            "uzbek_word": "бақани боссанг ҳам«вақ» этади",
+            "russian_word": "всякому терпению приходить конец"
+        },
+        {
+            "english_word": "try it on the dog",
+            "uzbek_word": "театр. жарг. бир театр кўринишини олдин оддий халққа кўрсатмоқ",
+            "russian_word": "театр. жарг. показать новую постановку сначала провинциальной публике"
+        },
+        {
+            "english_word": "turkish delight",
+            "uzbek_word": "рахат–лукум, ҳолва",
+            "russian_word": "рахат–лукум"
+        },
+        {
+            "english_word": "turn down a leaf",
+            "uzbek_word": "ишни тўхтатиб турмоқ",
+            "russian_word": "приостановить работу"
+        },
+        {
+            "english_word": "turn over a new leaf",
+            "uzbek_word": "янги ҳаёт бошламоқ; яхши томонга ўзгармоқ",
+            "russian_word": "начать новую жизнь; измениться к лучшему"
+        },
+        {
+            "english_word": "turn turtle",
+            "uzbek_word": "тўнтарилмоқ",
+            "russian_word": "опрокинутся, перевернутся вверх дном"
+        },
+        {
+            "english_word": "tyburn tree",
+            "uzbek_word": "сл. дор",
+            "russian_word": "сл. виселица"
+        },
+        {
+            "english_word": "ugly duckling",
+            "uzbek_word": "иркит ўрдакча",
+            "russian_word": "гадкий утёнок"
+        },
+        {
+            "english_word": "under control",
+            "uzbek_word": "тартиб ўрнатмоқ",
+            "russian_word": "в порядке; навести, установить порядок"
+        },
+        {
+            "english_word": "under dog",
+            "uzbek_word": "кўч.м. ютказган тараф",
+            "russian_word": "перен. побеждённая сторона"
+        },
+        {
+            "english_word": "under smb’s nose",
+            "uzbek_word": "кўзининг олдида; олдигинасида турмоқ; тумшуғининг тагида",
+            "russian_word": "под самым носом у кого-л."
+        },
+        {
+            "english_word": "under the rose",
+            "uzbek_word": "яширинча, билдирмасдан",
+            "russian_word": "по секрету, тайком"
+        },
+        {
+            "english_word": "under the weather",
+            "uzbek_word": "амер.  1) ўзини ёмон ҳис қилаётган;            2) қийин аҳволга тушиб қолмоқ",
+            "russian_word": "амер.  1) нездоровый, больной, плохо себя чувствующий;           2) в беде, затруднительном положении"
+        },
+        {
+            "english_word": "under/in the guise of",
+            "uzbek_word": "ниқоб остида",
+            "russian_word": "под видом, выдавая себя за кого-л.; под маской"
+        },
+        {
+            "english_word": "upset smb’s apple-cart",
+            "uzbek_word": "ҳамма режаларини бузмоқ",
+            "russian_word": "испортить всю музыку; спутать все карты; нарушить планы"
+        },
+        {
+            "english_word": "very like a whale",
+            "uzbek_word": "кин. жа ишондима! бўлмаган гап",
+            "russian_word": "ирон. так и я поверил! ну конечно"
+        },
+        {
+            "english_word": "wait and see",
+            "uzbek_word": "сабр қилмоқ, тоқат қилмоқ; ҳаёт кўрсатади, тирик бўлсак кўрармиз",
+            "russian_word": "запастись терпением; поживём–увидим"
+        },
+        {
+            "english_word": "walk Spanish",
+            "uzbek_word": "оёқ учида юрмоқ; эҳтиёткорлик билан иш қилмоқ; ишдан бўшатилмоқ; мажбур бўлгандан ишламоқ",
+            "russian_word": "ходить на цыпочках; действовать осторожно; быть уволенным; действовать по принуждению"
+        },
+        {
+            "english_word": "wall Street",
+            "uzbek_word": "Уол Стрит американинг молия олигархияси (биржа фонди ва энг катта банклар жойлашган кўча)",
+            "russian_word": "Уол Стрит американская финансовая олигархия (улица в Нью-Йорке на котрой расположены крупнейшие банки, фондовая биржа)"
+        },
+        {
+            "english_word": "war dog",
+            "uzbek_word": "амер. эск. уруш фахрийси",
+            "russian_word": "амер. уст. ветеран войны"
+        },
+        {
+            "english_word": "war horse",
+            "uzbek_word": "амер. жанговор от, ветеран",
+            "russian_word": "амер. боевой конь, ветеран"
+        },
+        {
+            "english_word": "wash a blackamoor Ethiopian white",
+            "uzbek_word": "бўлиши мумкин бўлмаган ишни бажаришга ҳаракат қилмоқ; ҳовончада сув янчмоқ, беҳуда (бефойда) иш билан овора бўлмоқ; бефойда ишга вақт сарф қилмоқ",
+            "russian_word": "пытаться сделать невозможное, заниматься безнадежным делом"
+        },
+        {
+            "english_word": "wash one’s dirty linen in public",
+            "uzbek_word": "уйдаги сирни, гапни кўчага (ташқарига) олиб чиқмоқ; ошкор қилмоқ; гап ташимоқ",
+            "russian_word": "выносить сор из избы; перемывать грязное бельё"
+        },
+        {
+            "english_word": "wash one’s hands of smb/smth",
+            "uzbek_word": "жавобгарликни ўзидан соқит қилмоқ",
+            "russian_word": "умывать руки, снять с себя ответственности за что-л."
+        },
+        {
+            "english_word": "watch one as a cat watches a mouse",
+            "uzbek_word": "мушук сичқонни пойлагандек пойламоқ",
+            "russian_word": "подстерегать, как кошка мышку"
+        },
+        {
+            "english_word": "watch/mind your step",
+            "uzbek_word": "1) эҳтиёт бўлиб юрмоқ, оёқ остига қараб юрмоқ;  2) к.м. қулоқни динг қилмоқ; кўз-қулоқ бўлиб турмоқ; ҳушёр, эҳтиёткор бўлмоқ; бўри қулоғи овда",
+            "russian_word": "1) стараться не оступиться, идти осторожно, смотреть под ноги;                  2) перен. держать ухо востро, соблюдать осторожность"
+        },
+        {
+            "english_word": "what do you expect from a pig but a grunt",
+            "uzbek_word": "сўз. тарбиясиз, қўпол одамдан ҳеч нарса кутиб бўлмайди",
+            "russian_word": "разг. от свиньи ничего не дождешься, кроме хрюканья [говориться о грубом невоспитанном человеке]"
+        },
+        {
+            "english_word": "what dog is a hanging?",
+            "uzbek_word": "нима бўлди? нима бўляпти?",
+            "russian_word": "что случилось? что происходить?"
+        },
+        {
+            "english_word": "white caps",
+            "uzbek_word": "сувнинг мавж уриши",
+            "russian_word": "барашки (на море)"
+        },
+        {
+            "english_word": "white collar worker; white-collar job",
+            "uzbek_word": "амер. хизматчи, офисда ўтириб ишлайдиган ишчи",
+            "russian_word": "амер. служащий, работа в учреждении"
+        },
+        {
+            "english_word": "white crow",
+            "uzbek_word": "ёпишмаган ямоқ; қўнқайган (атрофдаги кишилардан ажралиб, обдон фарқ қилиб турган киши); ёт товуқдай",
+            "russian_word": "белая ворона, редкое явление"
+        },
+        {
+            "english_word": "white elephant",
+            "uzbek_word": "шундай катта совғаки ундан  қандай қилиб қутулишни билмайсан, бундай совғани подшо хоҳлаган оиласини йўқ қилиш учун берилган совға, чунки камбағал одам бундай қимматбаҳо совғани ҳеч қачон қайтара олмас эди",
+            "russian_word": "разорительное имущество, подарок от которого не знаешь как избавиться"
+        },
+        {
+            "english_word": "white frost",
+            "uzbek_word": "қиров",
+            "russian_word": "иней"
+        },
+        {
+            "english_word": "white fuel",
+            "uzbek_word": "«оқ ёқилғи» гидроэнергия",
+            "russian_word": "«белое топливо» гидроэнергия"
+        },
+        {
+            "english_word": "white letter",
+            "uzbek_word": "лотин ҳарфи (шрифти)",
+            "russian_word": "латинский шрифт"
+        },
+        {
+            "english_word": "white lie",
+            "uzbek_word": "зарарсиз ёлғон, бировни қутқариш учун айтилагн ёлғон",
+            "russian_word": "невинная «святая ложь»; ложь во спасения"
+        },
+        {
+            "english_word": "white light",
+            "uzbek_word": "ёруғлик, холис фикр, одил мулоҳаза",
+            "russian_word": "дневной цвет, беспристрастное суждение"
+        },
+        {
+            "english_word": "white liver",
+            "uzbek_word": "қўрқоқлик, номардлик; қўрққан олдин мушт кўтарар; қўрққанга қўш кўринар",
+            "russian_word": "трусость, малодушие"
+        },
+        {
+            "english_word": "white magic",
+            "uzbek_word": "яхшилик келтирувчи афсун",
+            "russian_word": "белая магия"
+        },
+        {
+            "english_word": "white man",
+            "uzbek_word": "амер. тарбияли одам",
+            "russian_word": "амер. воспитанный человек"
+        },
+        {
+            "english_word": "white meat",
+            "uzbek_word": "товуқ ва бузоқ гўшти",
+            "russian_word": "белое мясо (свинина, телятина, курятина)"
+        },
+        {
+            "english_word": "white night",
+            "uzbek_word": "уйқусиз тун",
+            "russian_word": "бессонная ночь"
+        },
+        {
+            "english_word": "white nose",
+            "uzbek_word": "кичкина тўлқин",
+            "russian_word": "небольшая волна с белым гребным"
+        },
+        {
+            "english_word": "white paper",
+            "uzbek_word": "оқ китоб",
+            "russian_word": "белая книга"
+        },
+        {
+            "english_word": "white satin",
+            "uzbek_word": "сл. джин",
+            "russian_word": "сл. джин"
+        },
+        {
+            "english_word": "white scourge",
+            "uzbek_word": "туберкулёз, сил касали",
+            "russian_word": "туберкулёз"
+        },
+        {
+            "english_word": "white slaver",
+            "uzbek_word": "одам савдоси билан шуғулланадиган киши",
+            "russian_word": "поставщик живого товара"
+        },
+        {
+            "english_word": "white slavery",
+            "uzbek_word": "фоҳишалик",
+            "russian_word": "проституция"
+        },
+        {
+            "english_word": "white squall",
+            "uzbek_word": "оқ бўрон, бирданига кўтарилган бўрон",
+            "russian_word": "внезапный шквал"
+        },
+        {
+            "english_word": "white trash",
+            "uzbek_word": "амер. лаш-луш",
+            "russian_word": "амер. белая шваль"
+        },
+        {
+            "english_word": "white wings",
+            "uzbek_word": "амер. қоровул ва фаррошлар",
+            "russian_word": "амер. уборщики, дворники"
+        },
+        {
+            "english_word": "whited (painted) sepulchre",
+            "uzbek_word": "[библ.ол.] иккиюзламачи, мувофиқ",
+            "russian_word": "[этим.библ.] «гроб повапленный» лицемер"
+        },
+        {
+            "english_word": "whose mare is dead?",
+            "uzbek_word": "нима бўлди?",
+            "russian_word": "в чем дело? что случилось"
+        },
+        {
+            "english_word": "wish smb ill",
+            "uzbek_word": "кимгадир ёмонлик тиламоқ, душманларча муносабатда бўлмоқ",
+            "russian_word": "желать кому-л. неудачи; недоброжелательно, недружелюбно относиться к    кому-л."
+        },
+        {
+            "english_word": "wish smb well",
+            "uzbek_word": "кимгадир ҳамдардлик билдирмоқ, омад тиламоқ",
+            "russian_word": "сочувствовать, желать успеха, удачи; доброжелательно относиться"
+        },
+        {
+            "english_word": "without doubt",
+            "uzbek_word": "шубҳасиз",
+            "russian_word": "несомненно"
+        },
+        {
+            "english_word": "without fail",
+            "uzbek_word": "албатта, сўзсиз",
+            "russian_word": "во что бы то ни стало, непременно, обязательно"
+        },
+        {
+            "english_word": "wolf in sheeps clothering",
+            "uzbek_word": "[библ.ол.] фаришта тўнидаги иблис; кўриниши ювош-у, ичи қабиҳ; тилида жоним дейди, дилида ейман дейди",
+            "russian_word": "[этим.библ.] волк в овечьей шкуре"
+        },
+        {
+            "english_word": "wooden horse",
+            "uzbek_word": "кема, дор",
+            "russian_word": "корабль, виселица"
+        },
+        {
+            "english_word": "work/do wonders",
+            "uzbek_word": "мўъжиза яратмоқ",
+            "russian_word": "творить, совершать чудеса"
+        },
+        {
+            "english_word": "yellow boy",
+            "uzbek_word": "сл. тилла танга. гинея",
+            "russian_word": "сл. золотая монета, гинея"
+        },
+        {
+            "english_word": "yellow dog",
+            "uzbek_word": "амер. қўрқоқ одам",
+            "russian_word": "амер. трусливый человек, подлый; желтое обязательство"
+        },
+        {
+            "english_word": "yellow Jack",
+            "uzbek_word": "сариқ безгак",
+            "russian_word": "жёлтая лихорадка"
+        },
+        {
+            "english_word": "yellow journal",
+            "uzbek_word": "амер. бадиий жиҳатдан паст бўлган газета ва журналлар",
+            "russian_word": "амер. бульварно-сенсационный журнал; жёлтая пресса"
+        },
+        {
+            "english_word": "yellow journalist",
+            "uzbek_word": "бульвар матбуоти журналисти; бадиий жиҳатдан паст бўлган газеталар журналисти",
+            "russian_word": "журналист бульварной прессы"
+        },
+        {
+            "english_word": "yellow man",
+            "uzbek_word": "сариқ, ипакли дастрўмолча",
+            "russian_word": "жёлтый, шёлковый носовой платок"
+        },
+        {
+            "english_word": "yellow metal",
+            "uzbek_word": "тилла, олтин",
+            "russian_word": "золото"
+        },
+        {
+            "english_word": "yellow streak",
+            "uzbek_word": "амер. қўрқоқлик, сўзида турмаслик; айёрликка мойиллиги бор",
+            "russian_word": "амер. склонность к вероломству, трусости"
+        },
+        {
+            "english_word": "you can never tell or you never can tell",
+            "uzbek_word": "сўз. ким билади; ҳар нарса бўлиши мумкин; ҳар нарсани кутиш мумкин; ўртада шайтон бор; шайтон нималар демайди, тушга нималар кирмайди",
+            "russian_word": "разг. кто знает, почём знать; чем чёрт не шутит"
+        }
+    ]
+}

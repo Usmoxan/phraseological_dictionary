@@ -1,0 +1,158 @@
+import 'package:flutter/material.dart';
+import 'package:phraseological_dictionary/models/model.dart';
+import 'package:phraseological_dictionary/service/service.dart';
+import 'package:icons_plus/icons_plus.dart';
+
+class PhUnitPage extends StatefulWidget {
+  final String path;
+  const PhUnitPage({super.key, required this.path});
+
+  @override
+  State<PhUnitPage> createState() => _PhUnitPageState();
+}
+
+class _PhUnitPageState extends State<PhUnitPage> {
+  late Future<List<VocabularyItem>> vocabulary;
+  String searchQuery = ''; // Hold the search query entered by the user
+  bool lang = true;
+  @override
+  void initState() {
+    super.initState();
+    vocabulary = VocabularyService().getVocabulary(widget.path);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: FutureBuilder<List<VocabularyItem>>(
+        future: vocabulary,
+        builder: (context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.waiting) {
+            return const Center(child: CircularProgressIndicator());
+          } else if (snapshot.hasError) {
+            return Center(child: Text('Error: ${snapshot.error}'));
+          } else {
+            // Filter the list based on the search query
+            List<VocabularyItem> filteredList = snapshot.data!.where((item) {
+              return item.englishWord
+                      .toLowerCase()
+                      .contains(searchQuery.toLowerCase()) ||
+                  item.uzbekWord
+                      .toLowerCase()
+                      .contains(searchQuery.toLowerCase()) ||
+                  item.russianWord
+                      .toLowerCase()
+                      .contains(searchQuery.toLowerCase());
+            }).toList();
+
+            return Column(
+              children: [
+                Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: TextField(
+                    decoration: const InputDecoration(
+                      labelText: 'Izlash',
+                      border: OutlineInputBorder(),
+                    ),
+                    onChanged: (value) {
+                      setState(() {
+                        // Update the search query
+                        searchQuery = value;
+                      });
+                    },
+                  ),
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: [
+                    Expanded(
+                      child: GestureDetector(
+                        onTap: () {
+                          setState(() {
+                            lang = true;
+                          });
+                        },
+                        child: Container(
+                          margin: const EdgeInsets.all(10),
+                          height: 50,
+                          decoration: BoxDecoration(
+                            border: Border.all(
+                              color: lang
+                                  ? Colors.purple
+                                  : Colors.grey, // Set the border color here
+                              width: 0.5, // Set the border width here
+                            ),
+                            color: lang ? Colors.purple.shade100 : Colors.white,
+                            borderRadius: const BorderRadius.all(
+                              Radius.circular(10),
+                            ),
+                          ),
+                          child: Center(
+                            child: Flag(Flags.uzbekistan),
+                          ),
+                        ),
+                      ),
+                    ),
+                    Expanded(
+                      child: GestureDetector(
+                        onTap: () {
+                          setState(() {
+                            lang = false;
+                          });
+                        },
+                        child: Container(
+                          margin: const EdgeInsets.all(10),
+                          height: 50,
+                          decoration: BoxDecoration(
+                            border: Border.all(
+                              color: lang
+                                  ? Colors.grey
+                                  : Colors.purple, // Set the border color here
+                              width: 0.5, // Set the border width here
+                            ),
+                            color: lang ? Colors.white : Colors.purple.shade100,
+                            borderRadius: const BorderRadius.all(
+                              Radius.circular(10),
+                            ),
+                          ),
+                          child: Center(
+                            child: Flag(Flags.russia),
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+                Expanded(
+                  child: ListView.builder(
+                    itemCount: filteredList.length,
+                    itemBuilder: (context, index) {
+                      VocabularyItem item = filteredList[index];
+                      return GestureDetector(
+                        onTap: () {},
+                        child: Card(
+                          child: ListTile(
+                            title: Text(
+                              item.englishWord,
+                              style: const TextStyle(fontSize: 20),
+                            ),
+                            subtitle: Text(
+                              lang ? item.uzbekWord : item.russianWord,
+                              style: const TextStyle(
+                                  fontSize: 18,
+                                  color: Color.fromARGB(255, 109, 109, 109)),
+                            ),
+                          ),
+                        ),
+                      );
+                    },
+                  ),
+                ),
+              ],
+            );
+          }
+        },
+      ),
+    );
+  }
+}

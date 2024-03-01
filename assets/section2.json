@@ -1,0 +1,2147 @@
+[
+    {
+        "english_word": "a bad workman quarrels with his tools",
+        "uzbek_word": "ёмон косиб бигиз танлар",
+        "russian_word": "у плохого мастера и пила плохая; мастер глуп – нож туп"
+    },
+    {
+        "english_word": "a bed of roses",
+        "uzbek_word": "егани(м) олди(м)да, емагани(м) кети(м)да; пичоғи(м) мой устида; турмушимиз фаровон",
+        "russian_word": "не житьё, а масленица"
+    },
+    {
+        "english_word": "a bird in the hand is worth two in the bush",
+        "uzbek_word": "эртанги товуқдан бугунги тухум яхши; узоқдаги қариндошдан, яқиндаги қўшни яхши; узоқдаги қуйруқдан, яқиндаги ўпка яхши",
+        "russian_word": "лучше синица в руке, чем журавль в небе"
+    },
+    {
+        "english_word": "a black hen lays a white egg",
+        "uzbek_word": "қора сигир оқ сут берар; қора товуқ оқ тухум берар",
+        "russian_word": "чёрная курица несёт белые яйца (корова черна, да молоко у нее бело)"
+    },
+    {
+        "english_word": "a black plum is as sweet as white",
+        "uzbek_word": "ўхшатмасдан учратмас; иккаласини тупроғи бир ердан олинган; бирини олиб бирига урадиган; иккаласи бир гўр",
+        "russian_word": "одного поля ягоды; два сапога пара"
+    },
+    {
+        "english_word": "a blind leader of the blind",
+        "uzbek_word": "кўр кўрни етаклар, дўст-дўстни",
+        "russian_word": "слепой слепого далеко не уведет; косой кривого не учит"
+    },
+    {
+        "english_word": "a burnt child dreads the fire",
+        "uzbek_word": "сутдан оғзи куйган қатиқни ҳам пуфлаб ичар",
+        "russian_word": "обжегшись на молоке, будешь дуть и на воду"
+    },
+    {
+        "english_word": "a busy bee has no time for sorrow",
+        "uzbek_word": "иш бор ерда, зерикишга вақт йўқ",
+        "russian_word": "не бывает скуки, коли заняты руки"
+    },
+    {
+        "english_word": "a curst cow has short horns",
+        "uzbek_word": "сузадиган сигирга тангри мугуз (шох) бермас",
+        "russian_word": "бодливой корове бог рог не дает"
+    },
+    {
+        "english_word": "a drowning man will catch at a straw",
+        "uzbek_word": "чўкканга чўп мадад",
+        "russian_word": "утопающий и за соломинку хватается; кто тонет – нож подай, и за нож ухватится"
+    },
+    {
+        "english_word": "a fly in the ointment",
+        "uzbek_word": "бир қозон асалу, бир қошиқ заҳар",
+        "russian_word": "ложка дёгтя в бочке мёда"
+    },
+    {
+        "english_word": "a fool always rushes to the fore",
+        "uzbek_word": "аҳмоқ ҳориганини билмас",
+        "russian_word": "глупый ищет большого места, а умного и в углу видать"
+    },
+    {
+        "english_word": "a fool and his money are soon parted",
+        "uzbek_word": "пул топгунча ақл топ; ҳисобини билмаган ҳамёнидан айрилар",
+        "russian_word": "у дурака в горсти дыра"
+    },
+    {
+        "english_word": "a fool at forty is a fool indeed",
+        "uzbek_word": "аҳмоқнинг катта кичиги бўлмас",
+        "russian_word": "старого дурака не перемолаживать"
+    },
+    {
+        "english_word": "a friend in need is a friend indeed",
+        "uzbek_word": "дўст кулфатда синалар",
+        "russian_word": "друзья познаются в беде; коня в рати узнаешь, друга в беде; друг познается в несчастье"
+    },
+    {
+        "english_word": "a friends frown is better than a foe’s smile",
+        "uzbek_word": "дўст ачитиб гапирар, душман-кулдириб",
+        "russian_word": "недруг поддакивает, а друг спорит"
+    },
+    {
+        "english_word": "a good dog deserves a good bone",
+        "uzbek_word": "хизматларига яраша, обрўси",
+        "russian_word": "по заслугам и честь"
+    },
+    {
+        "english_word": "a good face is a letter of recommendation",
+        "uzbek_word": "яхши одам юзидан маълум",
+        "russian_word": "глаза (лицо) – зеркало души; аленький цветок бросается в глазок; на алый цветок летит мотылек"
+    },
+    {
+        "english_word": "a good horse should be seldom spurred",
+        "uzbek_word": "яхши ишчини турткилашни кераги йўқ",
+        "russian_word": "хорошего работника не приходиться подгонять"
+    },
+    {
+        "english_word": "a good marksman may miss",
+        "uzbek_word": "бир билмаслик билган кишидан ҳам ўтади",
+        "russian_word": "и на большие умы живет промашка"
+    },
+    {
+        "english_word": "a good wife makes a good husband",
+        "uzbek_word": "эрни эр қиладиган ҳам хотин, қаро ер қиладиган ҳам хотин",
+        "russian_word": "доброю женою и муж честен; у хорошей жены и плохой муж будет молодцом"
+    },
+    {
+        "english_word": "a grain of wheat in a bushel of chaff",
+        "uzbek_word": "кўп меҳнат сарфлаб, озгина натижа(га) олмоқ (эришмоқ)",
+        "russian_word": "гора родила мышь; незначительный результат после больших усилий"
+    },
+    {
+        "english_word": "a great ship asks deep waters",
+        "uzbek_word": "катта карвонга–катта йўл",
+        "russian_word": "большому кораблю – большое плавание"
+    },
+    {
+        "english_word": "a hard nut to crack",
+        "uzbek_word": "тиши ўтмайди; қўлидан келмайди",
+        "russian_word": "орешек не по зубам"
+    },
+    {
+        "english_word": "a honey tongue, a heart of gall",
+        "uzbek_word": "шакарли тилга ишонма /жоним–жоним деб жонингни олади",
+        "russian_word": "на языке мед, а под языком лед; глядит овцой, а пахнет волком"
+    },
+    {
+        "english_word": "a hungry belly has no ears",
+        "uzbek_word": "оч қоринга гап ёқмас",
+        "russian_word": "голодное брюхо ко всему глухо; у голодного брюха нет уха"
+    },
+    {
+        "english_word": "a lazy sheep thinks its wool heavy",
+        "uzbek_word": "дангасага булут сояси ҳам юк",
+        "russian_word": "ленивой овце и шерсть тяжелой кажется; ленивой лошади и  хвост в тягость"
+    },
+    {
+        "english_word": "a light purse makes a heavy heart",
+        "uzbek_word": "бу дунёнинг хўрлиги –киссангда пулнинг йўқлиги",
+        "russian_word": "хлеба ни куска, так и в горле тоска"
+    },
+    {
+        "english_word": "a living dog is better than a dead lion",
+        "uzbek_word": "шернинг ўлигидан итнинг тириги яхши",
+        "russian_word": "живой пёс лучше мёртвого льва"
+    },
+    {
+        "english_word": "a man can die but once",
+        "uzbek_word": "бир бош–бир ўлим",
+        "russian_word": "двум смертям не бывать, а одной не миновать"
+    },
+    {
+        "english_word": "a quiet conscience sleeps in thunder",
+        "uzbek_word": "ошинг ҳалол бўлса, кўчада ич",
+        "russian_word": "у кого совесть чиста, у того подушка под головой не вертится"
+    },
+    {
+        "english_word": "a short horse is soon curried",
+        "uzbek_word": "енгил ишни бажариш осон, кичкина отни тозалаш осон",
+        "russian_word": "маленькую лошадь легко чистит, не трудное дело, легко делать"
+    },
+    {
+        "english_word": "a soft answer turns away wrath",
+        "uzbek_word": "эгилган бошни қилич кесмас",
+        "russian_word": "покорное слово гнев укрощает; ласковое слово и ласковый вид и свирепого к рукам приманит"
+    },
+    {
+        "english_word": "a tree is known by its fruit",
+        "uzbek_word": "дарахтига кўра меваси; ота-онасига кўра-боласи",
+        "russian_word": "дерево познаётся по плоду"
+    },
+    {
+        "english_word": "a tree must be bent while young",
+        "uzbek_word": "ёшликда билгани-тошга ёзилар",
+        "russian_word": "гни дерево, пока молодо; учи ребенка, пока мал"
+    },
+    {
+        "english_word": "a watched pot never boils",
+        "uzbek_word": "тикилган қозон қайнамас",
+        "russian_word": "котелок, за которым наблюдают, никогда не закипает (т.е. когда ждешь, время тянется бесконечно долго)"
+    },
+    {
+        "english_word": "a word is enough to the wise",
+        "uzbek_word": "донога – ишорат, нодонга – калтак",
+        "russian_word": "умный понимает с полуслова; умному свистни, а он уже смыслит; умному –намек, глупому – толчок"
+    },
+    {
+        "english_word": "a word spoken is past recalling",
+        "uzbek_word": "айтилган сўз – отилган сўз",
+        "russian_word": "слово – не воробей, вылетит – не поймаешь"
+    },
+    {
+        "english_word": "actions speak louder than words",
+        "uzbek_word": "мингта сиз-биздан битта жиз-биз яхши",
+        "russian_word": "не по словам судят, а по делам; о человеке судят по его делам"
+    },
+    {
+        "english_word": "after dinner comes the reckoning",
+        "uzbek_word": "нон емоқчи бўлсанг, ўтин ташишдан эринма; тоққа чиқмасанг дўлона қайда, жондан кечмасанг жонона қайда; машаққатсиз бахт келмас –меҳнатсиз тахт келмас; ариқ қазимасанг экинга сув чиқмас; ит юрса, сўнгак топар",
+        "russian_word": "любишь кататься, люби и саночки возить"
+    },
+    {
+        "english_word": "all asses wag their ears",
+        "uzbek_word": "ўзини донишмандларча қилиб кўрсатиш; аҳмоқларга хос хислат",
+        "russian_word": "дуракам свойственно принимать глубокомысленный вид"
+    },
+    {
+        "english_word": "all cats are gray in the dark night",
+        "uzbek_word": "кўр товуққа ҳамма (нарса) буғдой",
+        "russian_word": "ночью все кошки серы"
+    },
+    {
+        "english_word": "all doors open to courtesy",
+        "uzbek_word": "яхши гапга илон инидан чиқади",
+        "russian_word": "ласковое слово не трудно, а спорно; медом больше мух наловишь, чем уксусом"
+    },
+    {
+        "english_word": "all lay loads on a willing horse",
+        "uzbek_word": "ёғочнинг мўртини қурт ер; дарахтнинг мўртини қурт ер",
+        "russian_word": "охочая лошадка всю поклажу везет; кто везет, того и погоняют"
+    },
+    {
+        "english_word": "all roads lead to Rome",
+        "uzbek_word": "ҳамма йўллар Римга олиб боради",
+        "russian_word": "все дороги идут в Рим"
+    },
+    {
+        "english_word": "an empty sack cannot stand upright",
+        "uzbek_word": "бўш қоп тик турмас",
+        "russian_word": "пустой мешок стоять не будет"
+    },
+    {
+        "english_word": "an oak is not felled with one stroke",
+        "uzbek_word": "мусулмончилик–астачилик",
+        "russian_word": "Москва не сразу строилась; скоро сказка сказывается, да не скоро дело делается"
+    },
+    {
+        "english_word": "an old dog will learn no new tricks",
+        "uzbek_word": "қариликда ўқиш кеч бўлди; қари итни бойлоқ туришга ўргатиб бўлмайди",
+        "russian_word": "старого пса к цепи не переучишь, в старости поздно переучиваться"
+    },
+    {
+        "english_word": "an old dogs barks not in vain",
+        "uzbek_word": "қари ит бекорга вовилламайди",
+        "russian_word": "старый пес не будет напрасно лаять"
+    },
+    {
+        "english_word": "an old ox will find a shelter for himself",
+        "uzbek_word": "қари билганни пари билмас; қариликни донолик безар",
+        "russian_word": "старый вол сам себе укрытие найдет (т.е. старые люди в советах не нуждаются)"
+    },
+    {
+        "english_word": "an open door may tempt a saint",
+        "uzbek_word": "ўзингга эҳтиёт бўл, қўшнингни ўғри тутма",
+        "russian_word": "плохо не клади, вора в грех не вводи; у вора брюхо болит, где плохо лежит; не там вор крадет, где много, а там, где лежит плохо"
+    },
+    {
+        "english_word": "an ox is taken by the horns, and a man by the tongue",
+        "uzbek_word": "буқа – шохидан, одам тилидан илинар",
+        "russian_word": "всякая сорока от своего языка погибает; болтуна язык до добра не доведет; язык мой –враг мой; говори, да не проговаривайся"
+    },
+    {
+        "english_word": "an unfortunate man would be drowned in a teacup",
+        "uzbek_word": "камбағални туянинг устида ҳам ит қопади",
+        "russian_word": "когда не везет, утонешь и в ложке воды"
+    },
+    {
+        "english_word": "anger and haste hinder good counsel",
+        "uzbek_word": "жаҳл келса, ақл кетар",
+        "russian_word": "во гневу не наказывай; гневайся, да не согрешай"
+    },
+    {
+        "english_word": "as a tree falls, so shall if lie",
+        "uzbek_word": "қаёққа дарахт шохи эгилса, ўша ёққа йиқилади; шамол қаёққа эсса, дарахт ўша ёққа эгилади; катта арава қаёққа юрса, кичик арава шу ёққа юради",
+        "russian_word": "куда дерево клонилось, туда и повалилось"
+    },
+    {
+        "english_word": "as black as a crow; black as jet, as soot; black as the ace of spades",
+        "uzbek_word": "смоладай қора, қоп-қора, тимқора; қоракуядек қоп-қора, қарғанинг қанотидек қоп-қора, кўмирдай қора",
+        "russian_word": "чёрный, как сажа, как воронова крыло, как смоль"
+    },
+    {
+        "english_word": "as black as hell (as night, as hat, pitch)",
+        "uzbek_word": "зимзиё, тим қоронғи; умуман қоронғи",
+        "russian_word": "хоть глаз выкали, совершенно темно"
+    },
+    {
+        "english_word": "as black as sin",
+        "uzbek_word": "ичига чироқ ёқса ёришмайди; юрагига, кўнглига чироқ ёқса ёримайди, хафа, ўта даражада ғамгин",
+        "russian_word": "мрачнее тучи, туча –тучей"
+    },
+    {
+        "english_word": "as cross as a bear",
+        "uzbek_word": "ҳазилакамига жаҳли чиқмаган",
+        "russian_word": "не на шутку рассерженный, зол как черт"
+    },
+    {
+        "english_word": "as like as an apple to an oyster",
+        "uzbek_word": "умуман бир бирига ўхшамайдиган; бошқа-бошқа; ер билан осмонча; осмон билан ерча; от билан туяча; осмон-у ерча",
+        "russian_word": "похоже, как гвоздь на панихиду; совершенно разные"
+    },
+    {
+        "english_word": "as the old cock crows, so doth the young",
+        "uzbek_word": "асли наслига тортади; қазисан, қартасан, асл зотингга тортасан; отнинг ичи қартадир асл зотига тортадир",
+        "russian_word": "яблоко от яблони недалеко падает"
+    },
+    {
+        "english_word": "as the tree, so the fruit",
+        "uzbek_word": "қазисан қартасан асл зотингга тортасан; отнинг ичи қартадир асл зотига тортадир; асли наслига тортади",
+        "russian_word": "яблоко от яблони недалеко падает"
+    },
+    {
+        "english_word": "as well be hanged for a sheep as for as a lamb",
+        "uzbek_word": "бир бошга бир ўлим",
+        "russian_word": "семь бед – один ответ, двум смертям не бывать, а одной не миновать"
+    },
+    {
+        "english_word": "as white as a chalk (as driven snow, as milk, as snow, as wool)",
+        "uzbek_word": "сутдек оппоқ",
+        "russian_word": "белый как снег; белоснежный"
+    },
+    {
+        "english_word": "as white as a sheet (as ashes, as death)",
+        "uzbek_word": "докадек оқариб кетмоқ; супрадек оппоқ; ўликдек оппоқ, ранги ўчган",
+        "russian_word": "бледный как полотно, смертельно бледный"
+    },
+    {
+        "english_word": "as yellow as a crows foot (as gold, as a guinea)",
+        "uzbek_word": "лимондек сапсариқ, олтин ранг, тилладек сариқ",
+        "russian_word": "жёлтый, как лимон; золотивший"
+    },
+    {
+        "english_word": "as you brew, so must you drink",
+        "uzbek_word": "ўзинг пиширган ош, айланиб ҳам ич, ўргилиб ҳам",
+        "russian_word": "сам заварил кашу, сам и расхлебывай"
+    },
+    {
+        "english_word": "as you sow, so shall you reap",
+        "uzbek_word": "нима сочсанг, шуни ўрасан",
+        "russian_word": "что посеешь, то и пожнешь"
+    },
+    {
+        "english_word": "at a snail’s gallop",
+        "uzbek_word": "тошбақа қадам",
+        "russian_word": "черепашьим шагом"
+    },
+    {
+        "english_word": "at the ends of the earth",
+        "uzbek_word": "бир тупканинг тагида",
+        "russian_word": "у чёрта на куличках"
+    },
+    {
+        "english_word": "bad news has wings",
+        "uzbek_word": "ёмоннинг  касофати бир чақирим илгари юрар",
+        "russian_word": "худая молва на крыльях летит; худые вести не лежат на месте"
+    },
+    {
+        "english_word": "bare words buy no barley; fine words butter no parsnips; praise is not pudding; the belly is not filled with fair words",
+        "uzbek_word": "аввал иқтисод, кейин сиёсат",
+        "russian_word": "соловья баснями не кормят"
+    },
+    {
+        "english_word": "barking dog seldom bite",
+        "uzbek_word": "итнинг индамаси ёмон",
+        "russian_word": "не бойся собаки которая лает"
+    },
+    {
+        "english_word": "be an ass for one’s pain",
+        "uzbek_word": "аҳмоқ бўлиб қолавермоқ; лаққа тушмоқ; алданмоқ; қилган меҳнатига нисбатан кам пул олмоқ",
+        "russian_word": "ничего не получить или получить очень мало за свои труды, напрасно стараться; остаться в дураках"
+    },
+    {
+        "english_word": "be swift to hear, slow to speak",
+        "uzbek_word": "кўп гап эшакка юк",
+        "russian_word": "побольше слушай, поменьше говори"
+    },
+    {
+        "english_word": "bear and forbear",
+        "uzbek_word": "сабр тоқатли бўлмоқ; сабр таги сариқ олтин; сабр  қилсанг, ғўрадан ҳолва битар, бесабрлар ўз оёғидан йитар",
+        "russian_word": "быть терпеливым и терпимым"
+    },
+    {
+        "english_word": "beauty is but skin-deep",
+        "uzbek_word": "чиройга нон ботириб еб бўлмас",
+        "russian_word": "не с лица воду пить; красота приглядится, а ум вперед пригодится"
+    },
+    {
+        "english_word": "beauty lies in lover's eyes",
+        "uzbek_word": "гўзал гўзал эмас, севилган гўзал",
+        "russian_word": "не красивая красива, а любимая"
+    },
+    {
+        "english_word": "better a glorious death than a shameful life",
+        "uzbek_word": "уятли ҳаётдан шарафли ўлим яхши;",
+        "russian_word": "лучше смерть славная, чем жизнь позорная;"
+    },
+    {
+        "english_word": "better an egg today than a hen tomorrow",
+        "uzbek_word": "эртанги товуқдан бугунги тухум яхши; узоқдаги қариндошдан, яқиндаги қўшни яхши; узоқдаги қуйруқдан, яқиндаги ўпка яхши",
+        "russian_word": "лучше синица в руке, чем журавль в небе"
+    },
+    {
+        "english_word": "better die standing than live kneeling",
+        "uzbek_word": "тиз чўкиб яшагунча тик туриб ўлган яхши",
+        "russian_word": "лучше умереть стоя, чем жить на коленях; лучше смерть славная, чем жизнь позорная"
+    },
+    {
+        "english_word": "better go to bed supperless than rise in debt",
+        "uzbek_word": "қарздор–қаҳри худо",
+        "russian_word": "ешь хоть репу вместо ржи, а чужого не держи"
+    },
+    {
+        "english_word": "better late than never",
+        "uzbek_word": "ҳечдан кўра кеч",
+        "russian_word": "лучше поздно, чем никогда"
+    },
+    {
+        "english_word": "better lose a jest than a friend",
+        "uzbek_word": "ҳазил, ҳазилнинг таги зил",
+        "russian_word": "не шути с таким ты шуток, кто на всяко слово чуток; не шути над тем, что дорого другому"
+    },
+    {
+        "english_word": "better the foot slip than the tongue",
+        "uzbek_word": "тилдан қоқилгандан кўра оёқдан қоқилган афзал",
+        "russian_word": "лучше оступиться, чем оговориться; лучше ногою запнуться, чем языком"
+    },
+    {
+        "english_word": "beware of a silent dog and still water",
+        "uzbek_word": "индамасдан иш чиқар индамасдан уйда бало чиқади",
+        "russian_word": "в тихом омуте черти водятся; где река глубже, там она шумит меньше"
+    },
+    {
+        "english_word": "black hen lays a white egg",
+        "uzbek_word": "қора сигир оқ сут берар",
+        "russian_word": "корова черна, да молоко у него бело"
+    },
+    {
+        "english_word": "borrowed garments never fit well",
+        "uzbek_word": "бировнинг ҳақи ош бўлмайди",
+        "russian_word": "чужая корка рот дерет"
+    },
+    {
+        "english_word": "brazen bull",
+        "uzbek_word": "тарихда қатл вақтида ишлатиладиган қурол номи, мисдан қилинган буқа",
+        "russian_word": "медный бык (старинное орудие казни)"
+    },
+    {
+        "english_word": "bread lad Bear",
+        "uzbek_word": "тарбиячиси билан саёҳат қиладиган бой йигит",
+        "russian_word": "богатый юнец путешествующий с гувернером"
+    },
+    {
+        "english_word": "break a butterfly upon with wheel..",
+        "uzbek_word": "замбарак  билан чумчуқ отмоқ, игна билан қудуқ қазимоқ, ғалвирда сув ташимоқ",
+        "russian_word": "стрелять из пушек по воробьям"
+    },
+    {
+        "english_word": "brevity is the soul of wit",
+        "uzbek_word": "арқоннинг узуни, гапнинг қисқаси яхши",
+        "russian_word": "коротко и ясно, оттого и прекрасно; не то мудрено, что переговорено, а то, что недоговорено; краткость – сестра таланта"
+    },
+    {
+        "english_word": "burn not your house to fright the mouse away",
+        "uzbek_word": "бургага аччиқ қилиб, кўрпага ўт қўйма; чумчуқни замбарак билан отмоқ (арзимаган ишни катта, зўр воситалар билан бажармоқ)",
+        "russian_word": "не стреляй из пушки по воробьям"
+    },
+    {
+        "english_word": "burn not your house to rid it of the mouse",
+        "uzbek_word": "бургага аччиқ қилиб кўрпага ўт қўйма",
+        "russian_word": "сердясь на блох, да и шубу в печь"
+    },
+    {
+        "english_word": "buy pig in a poke",
+        "uzbek_word": "бирор нарсани қарамасдан сотиб олмоқ, кўриб билмай туриб сотиб олмоқ",
+        "russian_word": "купить кота в мешке, покупать что-л. не глядя"
+    },
+    {
+        "english_word": "by doing nothing we learn to do ill",
+        "uzbek_word": "бекордан худо безор",
+        "russian_word": "праздность (безделье) –мать всех пороков; на безделье всякая дурь в голову лезет"
+    },
+    {
+        "english_word": "by the street of ‘By-and-bye’ one arrives at the house of never",
+        "uzbek_word": "ишни чўзганингиз билан ҳеч нарсага эришмайсиз",
+        "russian_word": "мешканьем ничего не добьешься"
+    },
+    {
+        "english_word": "can the leopard change his spots?",
+        "uzbek_word": "букурни гўр тузатади",
+        "russian_word": "горбатого могила исправит"
+    },
+    {
+        "english_word": "can’t say «boo» to a goose",
+        "uzbek_word": "пашшага ҳам озор бермайди; жуда уятчан",
+        "russian_word": "и мухи не обидеть; очень робкий"
+    },
+    {
+        "english_word": "care killed the cat",
+        "uzbek_word": "иш қаритмайда, балки ғам қаритади",
+        "russian_word": "не работа старить, а забота"
+    },
+    {
+        "english_word": "carry owls to Athens",
+        "uzbek_word": "дарё  бўйида қудуқ қазимоқ; қовун полизга қовун кўтариб бормоқ",
+        "russian_word": "возить сов в Афины; дрова в лес возить; ездить Тулу со своим самоваром"
+    },
+    {
+        "english_word": "cat in gloves catches no mice",
+        "uzbek_word": "меҳнатсиз роҳат бўлмас; меҳнатсиз иш битмас; меҳнат қилмай роҳат кўрмас, уруғ сепмай экин ўрмас; машаққатсиз бахт келмас, меҳнатсиз тахт келмас",
+        "russian_word": "без труда не вытащишь и рыбку из пруда"
+    },
+    {
+        "english_word": "catch the bear before you sell his skin",
+        "uzbek_word": "жўжани кузда санайдилар; лайлакнинг кетишига боқма, келишига боқ; олинмаган бузоққа қозиқ қоқма",
+        "russian_word": "не убив медведя, шкуру не продавай, цыплят по осени считают; делить шкуру неубитого медведя"
+    },
+    {
+        "english_word": "cock is valiant on his own dunghill",
+        "uzbek_word": "ҳар ким ўз юртида султон; ит ҳам ўз кўчасида ўзини шер билар",
+        "russian_word": "всяк кулик на своем болоте велик; петух на своем пепелище хозяин"
+    },
+    {
+        "english_word": "come Yorkshire over smb",
+        "uzbek_word": "алдамоқ, нонни туя қилмоқ, фириб бермоқ",
+        "russian_word": "обмануть, надуть кого-л. (хитрость Йоркширств вошло в пословицу)"
+    },
+    {
+        "english_word": "cook a hare before catching him",
+        "uzbek_word": "лайлакнинг кетишига боқма, келишига боқ; олинмаган бузоққа қозиқ қоқма; кўкнори хаёл қилмоқ, йўқ нарса устида жанжал қилмоқ",
+        "russian_word": "делить шкуру не убитого медведя"
+    },
+    {
+        "english_word": "cook somebody’s goose",
+        "uzbek_word": "ўзи қазиган чоғга ўзи тушмоқ; ўзининг найрангига ўзи тушмоқ; бировга чоғ қазима ўзинг унга тушарсан",
+        "russian_word": "вырать себе самому яму; пострадать от собственных козней"
+    },
+    {
+        "english_word": "count one’s chicken before they are hatched",
+        "uzbek_word": "йўқ нарса устида жанжал қилмоқ; кўкнори хаёл қилмоқ; туғилмаган бузоққа қозиқ қоқмоқ",
+        "russian_word": "делить шкуру не убитого медведя"
+    },
+    {
+        "english_word": "crows didn’t pick crows eyes",
+        "uzbek_word": "қарға қарғанинг кўзини чўқимайди; ит итни тишламас",
+        "russian_word": "ворон ворону глаз не выклюет"
+    },
+    {
+        "english_word": "crumpled rose-leaf",
+        "uzbek_word": "бир қозон асалу бир қошиқ заҳар",
+        "russian_word": "ложка дёгта, в бочке мёда"
+    },
+    {
+        "english_word": "crush a fly upon the wheel",
+        "uzbek_word": "чумчуқни замбарак билан отмоқ; арзимаган ишни, зўр воситалар билан бажармоқ",
+        "russian_word": "стрелять из пушек по воробьям"
+    },
+    {
+        "english_word": "curiosity killed a cat",
+        "uzbek_word": "кўп билсанг тез қарийсан; синчковлик яхшиликка олиб келмайди",
+        "russian_word": "много будешь знать –скоро состаришься; любопытства до добра не доведет"
+    },
+    {
+        "english_word": "curses like chickens come home to roast",
+        "uzbek_word": "бировга чоғ қазима, ўзинг унга тушарсан",
+        "russian_word": "не рой яму другу сам попадешься"
+    },
+    {
+        "english_word": "curst cows have curt horn",
+        "uzbek_word": "эшакка худо шох берса, ҳаммани сузади; туяга худо қанот берса, томингни бузади; сузадиган сигирга тангри мугуз бермас",
+        "russian_word": "бодливой корове, бог рог не дает"
+    },
+    {
+        "english_word": "custom is a second nature",
+        "uzbek_word": "иллат кетади, одат кетмайди",
+        "russian_word": "привычка – вторая натура; трясет козел бороду, так привык смолоду"
+    },
+    {
+        "english_word": "cut your coat according to your cloth",
+        "uzbek_word": "бўйингга қараб тўн бич",
+        "russian_word": "по одежке протягивай ножки"
+    },
+    {
+        "english_word": "diamond cut diamond",
+        "uzbek_word": "аччиқни аччиқ кесар",
+        "russian_word": "клин клином вышибают"
+    },
+    {
+        "english_word": "do as you would be done by",
+        "uzbek_word": "ўзингга раво кўрмаганни ўзгага ҳам раво кўрма",
+        "russian_word": "чего себе не хочешь, того другому не делай; когда хочешь себе добра, то никому не делай зла; чего себе не желаешь, того и другому не твори"
+    },
+    {
+        "english_word": "do in Rome as the Romans do",
+        "uzbek_word": "қозонга яқин юрсанг қораси юқади",
+        "russian_word": "с волками жить – по волчи выть; если ты в Риме то живи как Римляни"
+    },
+    {
+        "english_word": "dog does not eat dog",
+        "uzbek_word": "ит итни тишламас; қарға қарғанинг кўзини чўқимас",
+        "russian_word": "ворон ворону глаз не выклюет"
+    },
+    {
+        "english_word": "dog eat dog",
+        "uzbek_word": "ит итни ейди; ҳар бир одам бир бирига душман",
+        "russian_word": "человек человеку –волк; ока за ока"
+    },
+    {
+        "english_word": "dog in the manger",
+        "uzbek_word": "сомонни қизғанган итдек, ўзига ҳам қилмайди, ўзгага ҳам; бировга берсам – эссиз ошим, уйда турса – сасир ошим; ўзи ҳеч қўл тегизмас, чумчуққа ҳам егизмас; на ўзига қилади, на бировга (қизғанчиқ, бахил одамлар ҳақида)",
+        "russian_word": "собака на сене"
+    },
+    {
+        "english_word": "dogs that put up many hares kill none",
+        "uzbek_word": "икки кемага оёқ қўйган ғарқ бўлур",
+        "russian_word": "за двумя зайцами погонишься, ни одного не поймаешь; за все браться – ничего не сделать"
+    },
+    {
+        "english_word": "doing is better than saying",
+        "uzbek_word": "гап билгунча иш бил",
+        "russian_word": "не спеши языком, торопись делом"
+    },
+    {
+        "english_word": "don’t count your chicken before they are hatched",
+        "uzbek_word": "жўжани кузда санайдилар; ғалвирни сувдан кўтарганда маълум бўлади; чучварани хом санама; лайлакнинг кетишига боқма, келишига боқ; келинни келганда кўр, сепини ёйганда кўр",
+        "russian_word": "цыплят по осени считают"
+    },
+    {
+        "english_word": "don’t make a mountain of a molehill",
+        "uzbek_word": "пашшадан фил ясама",
+        "russian_word": "не делай из мухи слона"
+    },
+    {
+        "english_word": "don’t make a rod for your own back",
+        "uzbek_word": "бировга чоғ қазисанг, ўзинг унга тушарсан",
+        "russian_word": "не рой яму другу сам попадешься"
+    },
+    {
+        "english_word": "don’t ride a high horse",
+        "uzbek_word": "бурнингни осмонга кўтарма",
+        "russian_word": "не взлетай высоко–не будешь падать низко; не задирай  носа"
+    },
+    {
+        "english_word": "don’t swap horses when crossing a stream",
+        "uzbek_word": "ноқулай вазиятда ўзгартиришлар киргазмоқ",
+        "russian_word": "производить перемены в не подходящий момент"
+    },
+    {
+        "english_word": "don’t tell tales out of school",
+        "uzbek_word": "уйдаги гапни кўчага олиб чиқма; гап ташима; ошкор қилма; бош  ёрилса – дўппи остида, қўл синса – енг ичида",
+        "russian_word": "не выноси сор из избы"
+    },
+    {
+        "english_word": "don't have thy cloak to make when it begins to rain",
+        "uzbek_word": "ўт кетгандан сўнг қудуқ ковлама",
+        "russian_word": "когда на охоту ехать, тогда и собак кормить"
+    },
+    {
+        "english_word": "don't trouble trouble until trouble troubles you",
+        "uzbek_word": "бало сенга тегмаса, балода не ишинг бор",
+        "russian_word": "не буди лихо, пока оно тихо; не ищи беды: беда сама тебя сыщет; не дразни собаку, она и не укусит"
+    },
+    {
+        "english_word": "don't wash your dirty linen in public",
+        "uzbek_word": "уйдаги гапни кўчага ташима",
+        "russian_word": "не выноси сор из избы"
+    },
+    {
+        "english_word": "drunkenness reveals what soberness conceals",
+        "uzbek_word": "мастлик – ростлик",
+        "russian_word": "что у трезвого на уме, то у пьяного на языке; трезвого дума, да пьяного речь; пьяный – что малый: что на уме, то и на языке"
+    },
+    {
+        "english_word": "dumb dogs are dangerous",
+        "uzbek_word": "индамасдан уйда бало чиқади, итнинг индамаси ёмон",
+        "russian_word": "в тихом омуте черти водятся; не бойся собаки которая лает"
+    },
+    {
+        "english_word": "each bird loves to hear himself sing",
+        "uzbek_word": "ҳар кимники ўзига, ой кўринар кўзига",
+        "russian_word": "всякая птица своим пером красуется; всякая лисица свой хвост хвалит"
+    },
+    {
+        "english_word": "east or west – home is best",
+        "uzbek_word": "ўзга юртда шоҳ бўлгунча, ўз юртингда гадо бўл",
+        "russian_word": "в гостях хорошо, а дома лучше; свой уголок хоть боком пролезть – всё лучше"
+    },
+    {
+        "english_word": "even reckoning makes long friends",
+        "uzbek_word": "ҳисобли дўст айрилмас",
+        "russian_word": "счет дружбе не помеха; счет дружбы не портит; чаще счет – крепче  дружба; счет чаще –дружба слаще"
+    },
+    {
+        "english_word": "every beans has its black",
+        "uzbek_word": "камчиликсиз одамлар йўқ, ойда ҳам доғлар бор",
+        "russian_word": "нет людей без недостатков, и на солнце есть пятна"
+    },
+    {
+        "english_word": "every bird like its own nest best",
+        "uzbek_word": "бақа ботқоғин қўмсар, балиқ – кўлини",
+        "russian_word": "всяк кулик свое болото хвалит; глупа та птица, которой гнезда свое не мило"
+    },
+    {
+        "english_word": "every dog has his day",
+        "uzbek_word": "ҳамма нарсани ўз вақти бор; вақти-соати келганда; вақти келганда, ўз фурсати билан",
+        "russian_word": "всему свое время; будет и на нашей улице праздник"
+    },
+    {
+        "english_word": "every dog is a lion at home",
+        "uzbek_word": "ит ҳам ўз кўчасида ўзини шер билар, ҳар ким ўз юртида султон",
+        "russian_word": "всяк кулик в своем болоте велик"
+    },
+    {
+        "english_word": "every dog is valiant at his own door",
+        "uzbek_word": "ҳар ким ўз юртида султон; ит ҳам ўз кўчасида ўзини шер билар",
+        "russian_word": "всяк кулик в своем болоте велик"
+    },
+    {
+        "english_word": "every man has a fool in his sleeve",
+        "uzbek_word": "ҳар тўкисда бир айб",
+        "russian_word": "на всякого мудреца довольно простоты; безумье и на мудрого бывает"
+    },
+    {
+        "english_word": "every man has his faults",
+        "uzbek_word": "беайб – парвардигор",
+        "russian_word": "нет людей без недостатков; от запада до востока нет человека без прока"
+    },
+    {
+        "english_word": "every mother thinks her own gosling a swan",
+        "uzbek_word": "ҳар кимники ўзига, ой кўринар кўзига; қўнғиз ҳам ўз боласини оппоғим дер, кирпи ҳам ўз боласини юмшоғим дер",
+        "russian_word": "свое дитя горбато, да мило"
+    },
+    {
+        "english_word": "every one's faults are not written in their foreheads",
+        "uzbek_word": "мол оласи сиртида, одамнинг оласи ичида",
+        "russian_word": "у него на лбу не написано"
+    },
+    {
+        "english_word": "every white has its black, and every sweet its sour",
+        "uzbek_word": "аччиқни тотмасдан, ширинни билмас; ари заҳрини чекмаган, бол қадрини билмас",
+        "russian_word": "нет сладкого без горького"
+    },
+    {
+        "english_word": "everything is good in its season",
+        "uzbek_word": "ҳар нарса ўз вақтида ярашар",
+        "russian_word": "всякому овощу свое время; всему свое время; всему свой черед"
+    },
+    {
+        "english_word": "experience keeps a dear school but fools learn in no other",
+        "uzbek_word": "йигит кўпни кўрса, одам бўлар",
+        "russian_word": "опыт достается дорогой ценой, но дураков ничто иное не научит; натерпишься горя –научишься жить"
+    },
+    {
+        "english_word": "fair without, foul (false) within",
+        "uzbek_word": "сирти ялтироқ, ичи қалтироқ",
+        "russian_word": "рубашка бела, да душа черна; лицом хорош, да душой не пригож; собой красива, да душой трухлява"
+    },
+    {
+        "english_word": "fall in love (with smb/smth)",
+        "uzbek_word": "яхши кўрмоқ, ошиқ бўлмоқ",
+        "russian_word": "влюбиться"
+    },
+    {
+        "english_word": "familiarity breeds contempt",
+        "uzbek_word": "одамни қанчалик яхши билсанг, шунчалик унинг камчиликларини яхши кўра оласан",
+        "russian_word": "чрезмерная близость порождает презрение"
+    },
+    {
+        "english_word": "family tree",
+        "uzbek_word": "шажара дарахти",
+        "russian_word": "родословное дерево"
+    },
+    {
+        "english_word": "fat chance",
+        "uzbek_word": "ҳеч қандай имконият йўқ",
+        "russian_word": "никаких возможностей, шансов"
+    },
+    {
+        "english_word": "faults are thick where love is thin",
+        "uzbek_word": "эр севмаса, эл севмас",
+        "russian_word": "кого не любят, того и не слушают"
+    },
+    {
+        "english_word": "feather by feather the goose is plucked",
+        "uzbek_word": "сабр қилсанг ғўрадан ҳолва битар; сабр таги сариқ олтин",
+        "russian_word": "терпение и труд все перетрут"
+    },
+    {
+        "english_word": "first catch your hare, then cook him",
+        "uzbek_word": "туғилмаган бузоққа қозиқ қоқма; жўжани кузда санайдилар; лайлакнинг кетишига боқма, келишига боқ; кўкнори хаёл қилмоқ",
+        "russian_word": "не убив медведя, шкуры не продавай; цыплят по осени считают"
+    },
+    {
+        "english_word": "first come, first served",
+        "uzbek_word": "аввал келган ҳўкиз сувнинг тозасини ичар",
+        "russian_word": "кто поздно пришел, тому обглоданный мосол; поздний гость гложет и кость; поздно пришел, кости нашел"
+    },
+    {
+        "english_word": "first think, then speak",
+        "uzbek_word": "аввал ўйла, кейин сўйла",
+        "russian_word": "молвишь – не воротишь; сначала подумай, а потом и нам скажи"
+    },
+    {
+        "english_word": "fly short of",
+        "uzbek_word": "керакли даражага етиша олмаслик",
+        "russian_word": "не быть на должной высоте, не достичь должного уровня"
+    },
+    {
+        "english_word": "fools rush in where angels fear to tread",
+        "uzbek_word": "аҳмоққа қонун битилмаган",
+        "russian_word": "дуракам закон не писан"
+    },
+    {
+        "english_word": "gather your rosebuds while you may",
+        "uzbek_word": "темирни қизиғида бос",
+        "russian_word": "куй железо, пока горячо; коси коса, пока роса"
+    },
+    {
+        "english_word": "give a dog a bad name and hang him",
+        "uzbek_word": "бирор одамни йўқ қилиш учун тухмат қилмоқ",
+        "russian_word": "оклеветать кого-л. с тем чтобы погубить его"
+    },
+    {
+        "english_word": "give never the wolf the whether to keep",
+        "uzbek_word": "қўйни бўрига топширмоқ",
+        "russian_word": "не пускай козла в огород"
+    },
+    {
+        "english_word": "go to bed with the lamb and rise with the lark",
+        "uzbek_word": "ким эрта турса, унга худо ризқ беради; барвақт қилинган ҳаракат, ҳосил берар баракат; эрта турган иш битирар, кеч турган кўп туринар",
+        "russian_word": "ложись с курами, вставай с петухом; ранняя птичка носок прочищает,  а поздняя глазки продирает"
+    },
+    {
+        "english_word": "good health is above wealth",
+        "uzbek_word": "тани соғлик – туман бойлик",
+        "russian_word": "здоровье дороже денег; здоровье всего дороже; здоровье дороже всякого богатства"
+    },
+    {
+        "english_word": "good horse can’t be of a bad colour",
+        "uzbek_word": "яхши от ёмон зотдан бўлиши мумкин эмас",
+        "russian_word": "хорошая лошадь не может быть плохой масти"
+    },
+    {
+        "english_word": "goose that lays the golden eggs",
+        "uzbek_word": "даромад манбаи",
+        "russian_word": "курица несущая золотые яйца; источник обогащения"
+    },
+    {
+        "english_word": "gossiping and lying go hand in hand",
+        "uzbek_word": "ғийбат ва ёлғон ёнма-ён юради; ғийбат билан ёлғон эгачи–сингил",
+        "russian_word": "сплетни и ложь идут рука об руку"
+    },
+    {
+        "english_word": "grasp the nettle and it won’t sting you",
+        "uzbek_word": "ботирлик шаҳар олар",
+        "russian_word": "смелость города берет; кто смел, тот и съел"
+    },
+    {
+        "english_word": "handsome is that handsome does",
+        "uzbek_word": "одамнинг юзига қарама, ишига қара",
+        "russian_word": "где сусло хорошо, там пиво дурно не бывает"
+    },
+    {
+        "english_word": "happy is he that is happy in his children",
+        "uzbek_word": "давлатнинг боши-фарзанд",
+        "russian_word": "на что и клад, коли дети идут в лад"
+    },
+    {
+        "english_word": "hares may pull dead lions by the beard. As brave as lion with a lamb",
+        "uzbek_word": "бўри қариса, итга кулги бўлар; зўр зўрни кўрганда бўйнини қисади",
+        "russian_word": "молодец среди овец, а на молодца и сам овца; мертвый пес зайца не погонит"
+    },
+    {
+        "english_word": "haste makes waste",
+        "uzbek_word": "шошган қиз эрга ёлчимас; шошганнинг иши унмас",
+        "russian_word": "делали наспех, а сделали насмех; поспешишь – людей насмешишь"
+    },
+    {
+        "english_word": "have rats in the attic",
+        "uzbek_word": "томи кетган; мияси жойида эмас; ақлини емоқ",
+        "russian_word": "чердак не в порядке; винтика не хватает; не все дома"
+    },
+    {
+        "english_word": "have roses in one’s cheeks",
+        "uzbek_word": "қип-қизил мағиздек; ширмой кулчадек; оқи-оқ, қизили-қизил (қизил юзли соғлом одам ҳақида) қип-қизил олмадек",
+        "russian_word": "румяный, с румянцев во всю щеку; кровь с молоком"
+    },
+    {
+        "english_word": "have snakes in ones boots",
+        "uzbek_word": "бўкиб ичмоқ",
+        "russian_word": "напиться до чертиков"
+    },
+    {
+        "english_word": "hawks will not pick hawks eyes out",
+        "uzbek_word": "қарға қарғанинг кўзини чўқимас, ит итни тишламас",
+        "russian_word": "ворон ворону глаз не выклюет"
+    },
+    {
+        "english_word": "he jests at scars that never felt a wound",
+        "uzbek_word": "танаси бошқа дард билмас",
+        "russian_word": "за чужой щекой зуб не болит; чужое горе не болит"
+    },
+    {
+        "english_word": "he killed two birds with one stone",
+        "uzbek_word": "бир ўқ билан икки қуённи ўлдирмоқ",
+        "russian_word": "одним выстрелом убил двух зайцев"
+    },
+    {
+        "english_word": "he knows how many beans make five",
+        "uzbek_word": "у тегирмондан бутун чиқади",
+        "russian_word": "он себе на руки топора не уронит; он себе на уме"
+    },
+    {
+        "english_word": "he knows much who knows how to hold his tongue",
+        "uzbek_word": "тилини тийган бошини қутқарар",
+        "russian_word": "умный слов на ветер не бросает"
+    },
+    {
+        "english_word": "he laughs best who laughs last",
+        "uzbek_word": "бировнинг ҳолига кулмагин зинҳор, сенинг ҳолингга ҳам кулгувчилар бор",
+        "russian_word": "хорошо смеется тот, кто смеется последним"
+    },
+    {
+        "english_word": "he that climbed never fell",
+        "uzbek_word": "иш бор ерда хато бор",
+        "russian_word": "не ошибается тот, кто ничего не делает"
+    },
+    {
+        "english_word": "he that fears every bush must never go a-birding",
+        "uzbek_word": "чумчуқдан қўрқққан тариқ экмас",
+        "russian_word": "не ходи в лес, коли зайца боишься; треску бояться – в лес не ходить; волков бояться – в лес не ходить"
+    },
+    {
+        "english_word": "he that lies down with dogs must rise up with fleas",
+        "uzbek_word": "қозонга яқин юрсанг –қораси юқар; ёмонга яқин юрсанг – балоси юқар",
+        "russian_word": "с собаками ляжешь, с блохами встанешь; с кем поведешься, от того и наберешься"
+    },
+    {
+        "english_word": "he that lives with cripples learns to limp",
+        "uzbek_word": "қўшнинг кўр бўлса, кўзингни қисиб юр",
+        "russian_word": "с кем хлеб – соль водишь, на того и походишь"
+    },
+    {
+        "english_word": "he that loves the tree, loves the branch",
+        "uzbek_word": "эгасини сийлаган, итига суяк ташлар",
+        "russian_word": "любишь тепло, терпи и дым; любишь смородину, терпи и оскомину"
+    },
+    {
+        "english_word": "he that will eat the kernel must crack the nut",
+        "uzbek_word": "нон емоқчи бўлсанг, ўтин ташишдан эринма; тоққа чиқмасанг дўлона қайда, жондан кечмасанг жонона қайда; машаққатсиз бахт келмас –меҳнатсиз тахт келмас; ариқ қазимасанг экинга сув чиқмас; ит юрса, сўнгак топар",
+        "russian_word": "любишь кататься, люби и саночки возить"
+    },
+    {
+        "english_word": "he that will steal an egg will steal an ox",
+        "uzbek_word": "игна ўғирлашга журъат қилган, сигир ўғирлашга ҳам ўтар",
+        "russian_word": "кто украдет яйцо, украдет и быка"
+    },
+    {
+        "english_word": "he that would eat the fruit must climb the tree",
+        "uzbek_word": "нон емоқчи бўлсанг, ўтин ташишдан эринма; тоққа чиқмасанг дўлона қайда, жондан кечмасанг жонона қайда; машаққатсиз бахт келмас –меҳнатсиз тахт келмас; ариқ қазимасанг экинга сув чиқмас; ит юрса, сўнгак топар",
+        "russian_word": "любишь кататься, люби и саночки возить"
+    },
+    {
+        "english_word": "he who scrubs every pig he sees will not long be clean himself",
+        "uzbek_word": "қозонга яқин юрсанг –қораси юқар, ёмонга яқин юрсанг – балоси юқар",
+        "russian_word": "с кем поведещся, от того и наберещся"
+    },
+    {
+        "english_word": "he who would eat the nut must first crack the shell",
+        "uzbek_word": "ариқ қазимасанг экинга сув чиқмас; ит юрса, сўнгак топар; машаққатсиз бахт келмас, меҳнатсиз тахт келмас, тоққа чиқмасанг дўлона қайда",
+        "russian_word": "не разгрызешь ореха –не съешь и ядро"
+    },
+    {
+        "english_word": "help a lame dog over a stile",
+        "uzbek_word": "ёрдам қўлини чўзмоқ, фалокатдан, балодан қутқармоқ",
+        "russian_word": "помочь кому-л в беде, выручить кого-л. из беды"
+    },
+    {
+        "english_word": "honey catches more flies than vinegar",
+        "uzbek_word": "чивин ҳам ширага қўнар",
+        "russian_word": "медом больше мух наловишь, чем уксусом"
+    },
+    {
+        "english_word": "honey is sweet, but the bee stings",
+        "uzbek_word": "ари заҳрини чекмаган бол қадрини билмас",
+        "russian_word": "не отведавший яда пчелы, не знает и цену мёда"
+    },
+    {
+        "english_word": "I am a Dutchman",
+        "uzbek_word": "тил тортмай ўлмоқ, агар бу ёлғон бўлса",
+        "russian_word": "будь я проклят, провалиться мне на этом самом месте"
+    },
+    {
+        "english_word": "I fear the Greeks, even when bringing gifts",
+        "uzbek_word": "греклар совға олиб келсалар ҳам қўрқинчли",
+        "russian_word": "боюсь Данайцев и дары приносящих"
+    },
+    {
+        "english_word": "if a donkeys bray at you, don’t bray at him",
+        "uzbek_word": "аҳмоқ билан тенглашма (дўстлашма)",
+        "russian_word": "не связывайся с дураком"
+    },
+    {
+        "english_word": "if the mountain will not come to Mahomet, Mahomet must go to the mountain",
+        "uzbek_word": "замон сенга боқмаса сен замонга боқ",
+        "russian_word": "если гора не идет к Магомету, то Магомет идет к горе"
+    },
+    {
+        "english_word": "if the sky falls, we shall catch larks",
+        "uzbek_word": "қани энди; кошки эди; осонгина иш битиб қўяқолганда эди; агар-магар",
+        "russian_word": "если бы да кабы"
+    },
+    {
+        "english_word": "if wishes were horses, beggars might ride",
+        "uzbek_word": "кошки эди; осонгина иш битиб қўяқолганда эди; агар-магар",
+        "russian_word": "если бы да кабы"
+    },
+    {
+        "english_word": "if you agree to carry the calf they’ll make you to carry the cow",
+        "uzbek_word": "ёғочнинг бўшини (мўртини) қурт ер; Дарахтнинг мўртини қурт ер",
+        "russian_word": "охочая лошадка всю поклажу везет; дураков работа любит"
+    },
+    {
+        "english_word": "if you lie down with dogs, will get up with fleas",
+        "uzbek_word": "йўлдошинг ола қарға бўлса, емишинг гўнг бўлар",
+        "russian_word": "с кем поведешься, от того и наберешься"
+    },
+    {
+        "english_word": "if you run after two hares, you will catch neither",
+        "uzbek_word": "икки  кемага оёқ қўйган ғарқ бўлур",
+        "russian_word": "двумя  зайцами погонишься, ни одного не поймаешь"
+    },
+    {
+        "english_word": "if you sell the cow, you sell her milk too",
+        "uzbek_word": "сигири бор, оч қолмас; сигирни сотдингми – демак, унинг сутини ҳам сотган бўласан",
+        "russian_word": "продаешь корову –значить, продаешь и её молоко"
+    },
+    {
+        "english_word": "if you want pretence to whip a dog, say that he ate the frying-pan",
+        "uzbek_word": "қилдан қиё ахтармоқ (қидирмоқ); ёмон ният билан камчилик топишга ҳаракат қилмоқ; тирноқ ичидан кир изламоқ",
+        "russian_word": "если вам нужен предлог, чтобы избить собаку, скажите, что она съела сковородку"
+    },
+    {
+        "english_word": "in the country of the blind one-eyed man is a king",
+        "uzbek_word": "овлоқ кўлда бақа хон",
+        "russian_word": "промеж слепых кривой – первый царь; на безрыбьи и рак рыба; на бесптичьи и ворона соловей"
+    },
+    {
+        "english_word": "it is a good horse that never stumbles",
+        "uzbek_word": "отнинг тўрт оёғи бўлатуриб қоқилади; отнинг оёғи тўртта бўлса ҳам қоқилади",
+        "russian_word": "конь на четырех ногах, и тот спотыкается; на всякого мудреца довольно простоты"
+    },
+    {
+        "english_word": "it is a poor mouse that has only one hole",
+        "uzbek_word": "таваккал қилмаслик, ҳаммасини бир нарсага қўймаслик керак; таваккал деб хавфли ишга қўл урмаслик керак",
+        "russian_word": "не следует ставить все на одну карту; плохо мышь у которого одна нора"
+    },
+    {
+        "english_word": "it is a small flock that has not a black sheep",
+        "uzbek_word": "беш қўл баробар эмас; ҳар тўкисда бир айб",
+        "russian_word": "в семье не без урода"
+    },
+    {
+        "english_word": "it is an ill bird that fouls its own nest",
+        "uzbek_word": "уйдаги гапни кўчага ташима",
+        "russian_word": "не выноси сор из избы"
+    },
+    {
+        "english_word": "it is dogged that does it",
+        "uzbek_word": "сабр таги сариқ олтин; сабр қилсанг, ғўрадан ҳолва битар; бесабрлар ўз оёғидан йитар",
+        "russian_word": "терпение и труд всё перетрут"
+    },
+    {
+        "english_word": "it is enough to make a horse laugh",
+        "uzbek_word": "жуда беъмани; аҳмоқона, одам куладиган, келишмаган қилиқ, иш қилмоқ",
+        "russian_word": "ужасно смешно животики надорвешь от смеха; курам на смех"
+    },
+    {
+        "english_word": "it is ill to waken sleeping dogs, let sleeping dogs lie",
+        "uzbek_word": "ухлаётган итни уйғотма; ухлаётган шерни уйғотма",
+        "russian_word": "спящего пса не буди"
+    },
+    {
+        "english_word": "it is never too late to learn",
+        "uzbek_word": "ўқишни эрта кечи йўқ",
+        "russian_word": "учиться никогда не поздно; для ученья нет старости; век живи, век учись"
+    },
+    {
+        "english_word": "it is the last straw that breaks the camel’s back",
+        "uzbek_word": "қириқига чидаган қирқ бирига чидамас; тоқати тоқ бўлди; сабр косаси тўлди",
+        "russian_word": "последняя капля переполняет чашу"
+    },
+    {
+        "english_word": "it is too late to lock the stable when the horse has been stolen",
+        "uzbek_word": "оққан сув ортга қайтмас; поезд ўтди кетди",
+        "russian_word": "дорога ложка к обеду"
+    },
+    {
+        "english_word": "it rains cats and dogs",
+        "uzbek_word": "ёмғир шаррос ёғмоқда; ёмғир худди челаклаб қуйгандек ёғмоқда",
+        "russian_word": "льёт как из ведра"
+    },
+    {
+        "english_word": "it’s a bold mouse that nestles in the cat’s ear",
+        "uzbek_word": "қўйни бўрига топширма; ўзини  билмай кетма",
+        "russian_word": "не клади волку пальца в рот"
+    },
+    {
+        "english_word": "it’s not the gay coat the makes the gentleman",
+        "uzbek_word": "одамнинг ҳуснига боқма, ақлига боқ",
+        "russian_word": "нарядная одежда ещё не делает джентльменом; не одежда красить человека; судят по одежке провожают по уму"
+    },
+    {
+        "english_word": "its Greek to me",
+        "uzbek_word": "бу ақлга сиғмайди",
+        "russian_word": "бессмыслица, тарабарская грамота"
+    },
+    {
+        "english_word": "jack of all trades is master of none",
+        "uzbek_word": "керилма ғоз, ҳунаринг оз",
+        "russian_word": "за все браться – ничего не уметь"
+    },
+    {
+        "english_word": "jest with an ass and he will flap you in the face with his tail",
+        "uzbek_word": "аҳмоқ одам билан ҳазиллашиш хавфли",
+        "russian_word": "с дураками шутить опасно"
+    },
+    {
+        "english_word": "kill the goose that laid the golden eggs",
+        "uzbek_word": "ўзинг ўтирган шохга болта урма; олтин тухум бераётган ғозни ўлдирма; товуқни есанг, бир ейсан, тухумини есанг, минг ейсан",
+        "russian_word": "рубить сук на котором сидишь; убить курицу несущего золотые яйца"
+    },
+    {
+        "english_word": "know a hawk from a handsow",
+        "uzbek_word": "каккуни бургутдан ажратмоқ; каккуни карқуноқдан ажратмоқ",
+        "russian_word": "отличить кукушку от ястреба"
+    },
+    {
+        "english_word": "least said, soonest mended",
+        "uzbek_word": "гапни оз сўзла, ишни кўп кўзла",
+        "russian_word": "в добрый час молвить, а в худой промолчать; меньше говорить, меньше согрешить"
+    },
+    {
+        "english_word": "leaves without figs",
+        "uzbek_word": "қуруқ гап қулоққа ёқмас; қуруқ қошиқ оғиз йиртар",
+        "russian_word": "пустые слова, слова на которые нельзя полагаться; пустые обещания"
+    },
+    {
+        "english_word": "let bygones be bygones",
+        "uzbek_word": "ўтган ишга саловат",
+        "russian_word": "что было, то прошло; кто старое помянет, тому глаз вон"
+    },
+    {
+        "english_word": "let each tailor mend his own coat",
+        "uzbek_word": "ҳар ким ўз аравасини ўзи тортар",
+        "russian_word": "пуст все занимаются своим делом"
+    },
+    {
+        "english_word": "let the cock crow or not, the day will come",
+        "uzbek_word": "хўроз қичқирса ҳам қичқирмаса ҳам кун келаверади; бизга боғлиқ эмас",
+        "russian_word": "от нас ничего не зависит"
+    },
+    {
+        "english_word": "lies have short legs",
+        "uzbek_word": "ёлғоннинг умри қисқа",
+        "russian_word": "на лжи далеко не уедешь; вранье не споро: попутает скоро; ложь на тараканьих ножках ходит; ложь на гнилых ногах ходит"
+    },
+    {
+        "english_word": "like a cat in a strange garret",
+        "uzbek_word": "пашшага ҳам озор бермайдиган, ўзини ноқулай сезмоқ",
+        "russian_word": "не в своей стихии (о робком человеке)"
+    },
+    {
+        "english_word": "like a cat on hot bricks",
+        "uzbek_word": "оёғи куйган товуқдай питирлайди; ҳижолатланиш, беҳузур бўлиш",
+        "russian_word": "как на иголках; не по себе, не в своей тарелке"
+    },
+    {
+        "english_word": "like a drowned rat",
+        "uzbek_word": "ич-ичигача ивиб кетмоқ",
+        "russian_word": "промокнут до костей, промок до нитки"
+    },
+    {
+        "english_word": "like a lamb",
+        "uzbek_word": "қўйдек ювош, бош эгмоқ, итоаткор бўлмоқ, бўйин эгмоқ, бошини эгмоқ",
+        "russian_word": "покорна как овечка"
+    },
+    {
+        "english_word": "like mother, like daughter",
+        "uzbek_word": "онасини кўриб, қизини ол",
+        "russian_word": "какова матка, таковы и детки; яблоко от яблони далеко не падает"
+    },
+    {
+        "english_word": "like Rabbits in a warren",
+        "uzbek_word": "тиқилиб кетган, тиқилинч, тирбанд, ғуж-ғуж (тор жойда сиқилиб жойлашган одамлар)",
+        "russian_word": "как сельди в бочке"
+    },
+    {
+        "english_word": "lion is not so fierce as he is painted",
+        "uzbek_word": "шер одамлар айтганидек дахшатли эмас; ваҳиманинг кўзи катта (қўрққанга қўш кўринар)",
+        "russian_word": "не так страшен чёрт, как его малюют"
+    },
+    {
+        "english_word": "little pigeons can carry great messages",
+        "uzbek_word": "кичкина деманг бизни, кўтариб урамиз сизни; кичкина тош бош ёрар",
+        "russian_word": "мал да удал"
+    },
+    {
+        "english_word": "little strokes fell great oaks",
+        "uzbek_word": "кичкина деманг бизни, кўтариб урамиз сизни; кичкина тош бош ёрар",
+        "russian_word": "мал да удал"
+    },
+    {
+        "english_word": "live and learn",
+        "uzbek_word": "бешикдан қабргача илм изла",
+        "russian_word": "век живи – век учись"
+    },
+    {
+        "english_word": "live not to eat, but eat to live",
+        "uzbek_word": "оз-оз емак – соз емак",
+        "russian_word": "много есть – не велика честь"
+    },
+    {
+        "english_word": "lock the Baren after the horse is stolen",
+        "uzbek_word": "ақли кирарли-чиқарли; унинг ақли тушдан кейин киради; унинг мияси фурсат ўтгандан кейинроқ ишлайди; калтабин, бефаросат, пўстак",
+        "russian_word": "принимать слишком поздно меры предосторожности; задним умом крепок"
+    },
+    {
+        "english_word": "look like a cat who swallowed the canary",
+        "uzbek_word": "мушук кимнинг гўштини еб қўйганини билади; ўзини айбини бўйнига олган ҳолда бўйнини эгиб турмоқ; кўзларини жимирлатиб турмоқ",
+        "russian_word": "знает кошка, чье мясо съела; иметь виноватый вид"
+    },
+    {
+        "english_word": "lose the sheep for a hapoth of tar",
+        "uzbek_word": "арзимаган нарса учун қадрли нарсани йўқотмоқ; бургага аччиқ қилиб, кўрпани куйдирмоқ",
+        "russian_word": "потерять что-л ценное из-за мелочной экономии"
+    },
+    {
+        "english_word": "lost time is never found again",
+        "uzbek_word": "вақтинг кетди –нақдинг кетди",
+        "russian_word": "времени не поворотишь"
+    },
+    {
+        "english_word": "love cannot be forced",
+        "uzbek_word": "зўрма-зўраки севдириш-музга бино қурдириш",
+        "russian_word": "насильно мил не будешь; сердцу не прикажешь"
+    },
+    {
+        "english_word": "love is blind",
+        "uzbek_word": "ошиқнинг кўзи кўр",
+        "russian_word": "любовь зла – полюбишь и козла"
+    },
+    {
+        "english_word": "love me, love my dog",
+        "uzbek_word": "меҳмонни сийлаган итига суяк ташлар",
+        "russian_word": "любишь меня, люби и собаку мою; кто гостю рад, тот и собачку его накормит"
+    },
+    {
+        "english_word": "make the air blue; turn the air blue",
+        "uzbek_word": "оғзидан боди кириб шоди чиқди; оғзига келганини қайтармай сўкмоқ",
+        "russian_word": "ругаться на чём свет стоит"
+    },
+    {
+        "english_word": "many a good cow hatch a bad calf",
+        "uzbek_word": "ҳар тўкисда бир айб; беш қўл баробар эмас",
+        "russian_word": "в семье не без урода"
+    },
+    {
+        "english_word": "many a little makes a mickle",
+        "uzbek_word": "тома-тома кўл бўлур",
+        "russian_word": "с миру по нитке –голому рубаха; пушинка к пушинке и выйдет перинка"
+    },
+    {
+        "english_word": "many hands make light work",
+        "uzbek_word": "кўпдан қуён қочиб қутилмас",
+        "russian_word": "берись дружно, не будет грузно; дружно – не грузно, а врозь – хоть брось"
+    },
+    {
+        "english_word": "many men, many minds",
+        "uzbek_word": "ҳар каллада ҳар хаёл",
+        "russian_word": "сколько голов, столько умов"
+    },
+    {
+        "english_word": "many words hurt more than swords",
+        "uzbek_word": "қилич яраси битар, аммо сўз яраси битмас",
+        "russian_word": "слово пуще стрелы разит; не ножа бойся, а языка; бритва скребет, а слово режет; слово не нож, а до ножа доводит"
+    },
+    {
+        "english_word": "may bees don’t fly this month",
+        "uzbek_word": "«балки» деб айтиш керак эмас",
+        "russian_word": "не следует говорить «может быть»"
+    },
+    {
+        "english_word": "men may meet but mountains never",
+        "uzbek_word": "тоғ тоғ билан қовушмас, одам одам билан қовушади",
+        "russian_word": "гора с горой не сдвинется, а человек с человеком свидится"
+    },
+    {
+        "english_word": "misfortunes never come alone (singly)",
+        "uzbek_word": "ғам келдими, эшигингни оч",
+        "russian_word": "пришла беда, отворяй ворота; беда одна не ходит; беда за бедой тянется; одно горе идет по пятам другого; беда на беде, бедою погоняет"
+    },
+    {
+        "english_word": "money begets money",
+        "uzbek_word": "деньги к деньгам идут; пул пулни топар",
+        "russian_word": "деньга деньгу наживает; деньга на деньгу набегает"
+    },
+    {
+        "english_word": "more haste, less speed",
+        "uzbek_word": "ошиқмаган олисга етар",
+        "russian_word": "скоро, да не споро; тише едешь – дальше будешь"
+    },
+    {
+        "english_word": "much will have more",
+        "uzbek_word": "пулдан пул туғилади",
+        "russian_word": "деньга деньгу наживает; где много воды, там больше будет; где много денег–еще прибудет"
+    },
+    {
+        "english_word": "neck or nothing",
+        "uzbek_word": "ё чангинг чиқсин, ё донғинг чиқсин",
+        "russian_word": "либо пан, либо пропал; эх, была не была!"
+    },
+    {
+        "english_word": "need makes the old wife trot",
+        "uzbek_word": "тирикчилик шерни ҳам тулки қилар",
+        "russian_word": "нужда научит кузнеца сапоги тачать; нужда скачет, нужда пляшет, нужда песенки поет"
+    },
+    {
+        "english_word": "neither fish nor flesh",
+        "uzbek_word": "на у ёқли эмас, на бу ёқли эмас; икки жаҳон овораси; яхши ҳам эмас, ёмон ҳам; дарди бедаво",
+        "russian_word": "ни рыба, ни мясо; ни то, ни се; от ворон отстала, а к павам не пристала; ни богу свечка, ни чёрту кочерга"
+    },
+    {
+        "english_word": "neither man nor mouse",
+        "uzbek_word": "ҳеч зоғ йўқ, арвоҳ ҳам йўқ",
+        "russian_word": "ни души"
+    },
+    {
+        "english_word": "never bray at an ass",
+        "uzbek_word": "аҳмоқ билан алоқа қилма",
+        "russian_word": "не связывайся с дураком"
+    },
+    {
+        "english_word": "never fry a fish till it's caught",
+        "uzbek_word": "жўжани кузда санайдилар; лайлакнинг кетишига боқма, келишига боқ; олинмаган бузоққа қозиқ қоқма",
+        "russian_word": "медведя не убив, шкуры не продавай; не дели шкуру неубитого медведя"
+    },
+    {
+        "english_word": "never put off till tomorrow what you can do (can be done) today",
+        "uzbek_word": "бугунги ишни эртага қўйма",
+        "russian_word": "сегодняшней работы на завтра не откладывай; не оставляй на завтра дела, а оставляй хлеба; “завтра, завтра, не сегодня”,- так лентяи говорят"
+    },
+    {
+        "english_word": "nightingales will not sing in a cage",
+        "uzbek_word": "булбулга тилла қафасда тутқун бўлгандан кўра, тикандан қурилган уяси минг мартта афзал",
+        "russian_word": "не нужно соловью золотая клетка, а нужно зеленая ветка"
+    },
+    {
+        "english_word": "no bees, no honey;     no work, no money",
+        "uzbek_word": "машаққатсиз бахт келмас, меҳнатсиз тахт келмас",
+        "russian_word": "без пчел не получишь меда; без работы не получишь денег; хочешь есть калачи–не лежи на печи"
+    },
+    {
+        "english_word": "no gain without pain",
+        "uzbek_word": "жон койитмай иш битмас",
+        "russian_word": "не было бы счастья, да несчастье помогло"
+    },
+    {
+        "english_word": "no longer pipe, no longer dance",
+        "uzbek_word": "ишим битди, эшагим лойдан ўтди",
+        "russian_word": "изжил нужду, забыл и дружбу; скатерть со стола, друзья со двора"
+    },
+    {
+        "english_word": "no man is wise at all times",
+        "uzbek_word": "ақлли киши ҳам адашади",
+        "russian_word": "на всякого мудреца довольно простоты; безумье и на мудрого бывает; и на большие умы живет промашка; человека без ошибок не бывает"
+    },
+    {
+        "english_word": "no roses without a thorns",
+        "uzbek_word": "гул тикансиз бўлмас, дур садафсиз; гул тикансиз бўлмайди, гўшт суяксиз",
+        "russian_word": "нет розы без шипов"
+    },
+    {
+        "english_word": "no sweet without (some) sweat",
+        "uzbek_word": "терлаб ишласанг, тўйиб ейсан",
+        "russian_word": "без труда меду не едят; без труда не вытащишь и рыбку из пруда"
+    },
+    {
+        "english_word": "not to see the wood for the trees",
+        "uzbek_word": "дарахтлар орқасида ўрмон кўринмайди",
+        "russian_word": "за деревьями леса не видеть"
+    },
+    {
+        "english_word": "nothing comes out of the sack but what was in it",
+        "uzbek_word": "қозонда бўлса, чўмичга чиқади",
+        "russian_word": "выше меры и конь не скачет"
+    },
+    {
+        "english_word": "nothing must be done hastily but killing of fleas",
+        "uzbek_word": "шошган қиз эрга ёлчимас",
+        "russian_word": "поспешность нужна только при ловле блох"
+    },
+    {
+        "english_word": "nothing seek, nothing find",
+        "uzbek_word": "интилганга толе ёр; юрган–дарё, ўтирган-бўйра",
+        "russian_word": "под лежачий камень вода не течет"
+    },
+    {
+        "english_word": "oaks may fall when reeds stand the storm",
+        "uzbek_word": "бўрон эман дарахтини йиқитади, лекин қамиш туриб беради; куч бирликда",
+        "russian_word": "буря валить дубы, а тростник может устоят"
+    },
+    {
+        "english_word": "oil and water will never mix",
+        "uzbek_word": "ёғ билан сув ҳеч қачон қўшилмайди",
+        "russian_word": "масло с водой никогда не сливается; лёд и пламя"
+    },
+    {
+        "english_word": "once bitten, twice shy",
+        "uzbek_word": "илон чаққан арғамчидан қўрқар",
+        "russian_word": "пуганая ворона куста боится; обжегшись на молоке, будешь дуть и на воду"
+    },
+    {
+        "english_word": "one barking dog sets all the street a–barking",
+        "uzbek_word": "кўчада бир кучук вовилашни бошласа, қолганлари ҳам вовилашни бошлашади",
+        "russian_word": "стоит одной собаке залаять, как начинают лаять все собаки на улице"
+    },
+    {
+        "english_word": "one beats the bush, and another catches the bird",
+        "uzbek_word": "айшни нодон суриб, кулфатни доно тортадур",
+        "russian_word": "золото моем, а сами голосом воем"
+    },
+    {
+        "english_word": "one cannot run with the hare and hunt with the hounds",
+        "uzbek_word": "икки кемани бошини турма; икки кемага оёқ қўйган ғарқ бўлар",
+        "russian_word": "между двумя стульями не усидишь; двум господам не служат"
+    },
+    {
+        "english_word": "one man may steal a horse while another may not look over a hedge",
+        "uzbek_word": "битта одамга қилиши мумкин бўлган нарса, бошқа одамга мумкин эмас",
+        "russian_word": "что можно одному, то нельзя другому"
+    },
+    {
+        "english_word": "one man, no man",
+        "uzbek_word": "ёлғиз отнинг чанги чиқмас, чанги чиқса ҳам донғи чиқмас",
+        "russian_word": "один в поле не воин"
+    },
+    {
+        "english_word": "one must how with the wolves",
+        "uzbek_word": "қўшнинг кўр бўлса, кўзингни қис",
+        "russian_word": "волками жить, по волчьи выть"
+    },
+    {
+        "english_word": "one scabbed sheep in fects the whole flock",
+        "uzbek_word": "тиррақи бузоқ, бутун подани булғатади; тиррақи бузоқ подани булғар",
+        "russian_word": "поршивая овца все стадо портить"
+    },
+    {
+        "english_word": "one swallow does not make a summer",
+        "uzbek_word": "бир қарға билан қиш келмас; бир қалдирғоч билан баҳор келмас",
+        "russian_word": "одна ласточка весны не делает"
+    },
+    {
+        "english_word": "one woodcock does not make a winter",
+        "uzbek_word": "бир қарға билан қиш келмас; бир қалдирғоч билан баҳор келмас",
+        "russian_word": "одна ласточка весны не делает"
+    },
+    {
+        "english_word": "out of sight, out of mind",
+        "uzbek_word": "кўздан узоқ – дилдан йироқ",
+        "russian_word": "с глаз долой – из  сердца вон"
+    },
+    {
+        "english_word": "plenty is no plague",
+        "uzbek_word": "ортиқча давлат бош ёрмас",
+        "russian_word": "каши маслом не испортишь"
+    },
+    {
+        "english_word": "poverty is no sin",
+        "uzbek_word": "камбағаллик айб эмас",
+        "russian_word": "бедность не порок"
+    },
+    {
+        "english_word": "pride goes before a fall",
+        "uzbek_word": "ғурурлик ғурбатга солар",
+        "russian_word": "дьявол гордился, да с неба свалился; кто слишком высоко летает, тот низко падает"
+    },
+    {
+        "english_word": "put not your hand between the bark and tree; come between the bark and tree",
+        "uzbek_word": "эр хотин уришар нодон ўртага тушар; эр хотин ўртасига эси кетган тушади",
+        "russian_word": "становиться между мужем и женой; вмешиваться в чужие семейные дела"
+    },
+    {
+        "english_word": "right off the bat",
+        "uzbek_word": "қўшдан чиқиб молага; кечиктирмай, ўша заҳоти; бирданига, ўйламай-нетмай, тайёргарликсиз",
+        "russian_word": "с места, а карьер сразу, немедленно"
+    },
+    {
+        "english_word": "Rome was not built in a day",
+        "uzbek_word": "мусулмончилик астачилик",
+        "russian_word": "Рим строился не в один день"
+    },
+    {
+        "english_word": "run before one’s horse to market",
+        "uzbek_word": "кўкнори ҳаёл қилмоқ; туғилмаган бузоққа қозиқ қоқмоқ; йўқ нарса устида жанжал қилмоқ",
+        "russian_word": "делить шкуру не убитого медведя"
+    },
+    {
+        "english_word": "run with the hare and hunt with the hounds",
+        "uzbek_word": "икки томонлама иш (ўйин) олиб бормоқ; бизларникига ҳам уларникига ҳам хизмат қилмоқ",
+        "russian_word": "служит и нашим и вашим; вести двойную игру"
+    },
+    {
+        "english_word": "salt the cow to catch the calf",
+        "uzbek_word": "айланма йўл билан мақсадига эришмоқ",
+        "russian_word": "достичь своего окольным путём"
+    },
+    {
+        "english_word": "score twice before you cut once",
+        "uzbek_word": "етти ўлчаб, бир кес",
+        "russian_word": "семь раз отмерь, один раз отрежь"
+    },
+    {
+        "english_word": "scornful dogs will eat dirty puddings",
+        "uzbek_word": "ўзинг сув ичадиган қудуққа тупурма",
+        "russian_word": "много разбирать и того не видать; не плюй колодец, пригодится воды напиться"
+    },
+    {
+        "english_word": "scratch my back and I'll scratch yours",
+        "uzbek_word": "сиздан–угина, биздан–бугина",
+        "russian_word": "услуга за услугу; рука руку моет"
+    },
+    {
+        "english_word": "see how the cats jump; wait for the cat to jump",
+        "uzbek_word": "шамол қаёққа эсса ўша ёққа оғмоқ; вазиятга қараб ўзгармоқ",
+        "russian_word": "держать нос по ветру; выжидать, куда ветер подует"
+    },
+    {
+        "english_word": "seek a hare in hen’s nest",
+        "uzbek_word": "бўлиши мумкин бўлмаган ишни бажаришга ҳаракат қилмоқ; ҳовончада сув янчмоқ, беҳуда (бефойда) иш билан овора бўлмоқ; бефойда ишга вақт сарф қилмоқ",
+        "russian_word": "пытаться сделать не возможное; толочь воду ступе решетом"
+    },
+    {
+        "english_word": "sell one’s hens on a rainy day",
+        "uzbek_word": "ёмғир куни от танлама, ҳайит куни қиз танлама",
+        "russian_word": "продавать свой товар в неподходящее время"
+    },
+    {
+        "english_word": "sell the bear skin before the one has caught the bear",
+        "uzbek_word": "олинмаган бузоққа қозиқ қоқма; кўкнори хаёл қилмоқ; йўқ нарса устида жанжал қилмоқ",
+        "russian_word": "делить шкуру не убитого медведя"
+    },
+    {
+        "english_word": "send not a cat for lard",
+        "uzbek_word": "қўйни бўрига топширмоқ",
+        "russian_word": "не верь козлу в огороде, а волку в овчарне; пустили козла в огород, а волк в пастухи нанялся"
+    },
+    {
+        "english_word": "set a fox to keep one’s geese",
+        "uzbek_word": "эчкини экинга қўйиб юбормоқ, қўйни бўрига топширмоқ",
+        "russian_word": "пустить козла в огород"
+    },
+    {
+        "english_word": "set a thief to catch a thief",
+        "uzbek_word": "эгри калтакка эгри тўқмоқ",
+        "russian_word": "вор вором губится"
+    },
+    {
+        "english_word": "set the tortoise to catch the hare",
+        "uzbek_word": "бўлмайдиган ишга ҳаракат қилмоқ; қўлдан келмаган ишни бажариш",
+        "russian_word": "заставить черепаху догнать зайца (т.е. пытаться сделать невозможное)"
+    },
+    {
+        "english_word": "set the wolf to keep the sheep",
+        "uzbek_word": "қўйни бўрига топширмоқ",
+        "russian_word": "пустить козла в огород; заставить волка овец стеречь"
+    },
+    {
+        "english_word": "silence gives consent",
+        "uzbek_word": "сукут – аломати ризо",
+        "russian_word": "молчание – знак согласия"
+    },
+    {
+        "english_word": "speech is silver but silence is gold",
+        "uzbek_word": "гапирганинг–кумуш, гапирмаганинг–олтин",
+        "russian_word": "слово–серебро, молчание–золото"
+    },
+    {
+        "english_word": "spring chicken",
+        "uzbek_word": "она сути (ҳали) оғзидан кетмаган; ҳали гўдак, ғўр; мўйчинак тишламаган",
+        "russian_word": "молоко на губах не обсохло"
+    },
+    {
+        "english_word": "staff is quickly found to beat a dog with",
+        "uzbek_word": "агар керак бўлса, ҳар қандай баҳона яхши",
+        "russian_word": "если надо, всякий предлог хорош"
+    },
+    {
+        "english_word": "steal a goose and give the sublets in alms",
+        "uzbek_word": "харом йўл билан топилган пулни озгина қисмини садақа қилмоқ",
+        "russian_word": "пожертвовать на благотворительные цели ничтожную долью нечестно нажитого состояния"
+    },
+    {
+        "english_word": "still waters run deep",
+        "uzbek_word": "тинч оққан сув ғарқ қилар",
+        "russian_word": "в тихом омуте черти водятся"
+    },
+    {
+        "english_word": "stretch your legs according to the coverlet",
+        "uzbek_word": "кўрпангга қараб оёқ узат",
+        "russian_word": "по одежке протягивай ножки; не так живи, как хочется, а так, как можется"
+    },
+    {
+        "english_word": "strike while the iron is hot",
+        "uzbek_word": "темирни қизиғида бос",
+        "russian_word": "куй железо, пока горячо"
+    },
+    {
+        "english_word": "such carpenters, such chips",
+        "uzbek_word": "мол эгасига ўхшамаса, ҳаром ўлади",
+        "russian_word": "видно мастера по работе; каков мастер, такова и работа"
+    },
+    {
+        "english_word": "take not a musket to kill a butterfly",
+        "uzbek_word": "игна билан қудуқ қазима; ғалвирда сув ташима",
+        "russian_word": "не стреляй из пушек по воробьям"
+    },
+    {
+        "english_word": "take the bull by the horns",
+        "uzbek_word": "фурсатни қўлдан бермай, дадиллик билан ишга киришмоқ; асосий масалани ҳал қилишга ўтмоқ; шижоат билан катта, оғир ишни бошлаб юбормоқ",
+        "russian_word": "взять быка за рога; действовать решительно, напрямик"
+    },
+    {
+        "english_word": "takes leaf out of smb’s book",
+        "uzbek_word": "кимдандир ўрнак олмоқ; тақлид қилмоқ",
+        "russian_word": "брать пример с кого-л.; подражать"
+    },
+    {
+        "english_word": "talk of the devil and he is sure to appear",
+        "uzbek_word": "бўрини эсласанг қулоғи кўринар",
+        "russian_word": "легок на помине"
+    },
+    {
+        "english_word": "teach the cat the way to the kern",
+        "uzbek_word": "эчкини экинга қўйиб юбормоқ; қўйни бўрига топширмоқ",
+        "russian_word": "пустить козла в огород"
+    },
+    {
+        "english_word": "teach the dog to back",
+        "uzbek_word": "итни вовиллашга ўргатмоқ; олимни ўқитиш уни фақат бузади",
+        "russian_word": "учёного учить – только портить"
+    },
+    {
+        "english_word": "tell that to the marines",
+        "uzbek_word": "тушингизни сувга айтинг",
+        "russian_word": "расскажите это своей бабушке"
+    },
+    {
+        "english_word": "that cat won’t jump",
+        "uzbek_word": "бу ҳаракатингиз ёқмайди",
+        "russian_word": "этот номер не пройдет"
+    },
+    {
+        "english_word": "that cock won’t fight",
+        "uzbek_word": "бу қилиғингиз ўтмайди; бу ҳаракатингиз ўтмайди",
+        "russian_word": "этот номер не пройдет"
+    },
+    {
+        "english_word": "that’s a horse of another colour",
+        "uzbek_word": "бу бошқа нарса, гап эди; бу бошқа гап",
+        "russian_word": "это совсем другое дело"
+    },
+    {
+        "english_word": "that’s a horse of the same colors",
+        "uzbek_word": "бу ўшани ўзи, эди",
+        "russian_word": "это тоже самое, это одно и тоже"
+    },
+    {
+        "english_word": "that’s like putting the cat near the gold fish bowl",
+        "uzbek_word": "эчкини  экинга қўйиб юбормоқ; қўйни бўрига топширмоқ",
+        "russian_word": "это называется пустить козла в огород"
+    },
+    {
+        "english_word": "the best fish smell when they are three days old",
+        "uzbek_word": "биринчи кун меҳмон–олтин, иккинчи кун–кумуш, учиничи кун–мис, учдан ўтса–пес; меҳмоннинг отини асл дерлар, учкундан сўнг сасир дерлар",
+        "russian_word": "мил гость, что  недолго гостит"
+    },
+    {
+        "english_word": "the black crow thinks her own birds white",
+        "uzbek_word": "қўнгиз ҳам ўз боласини оппоғим дер, кирпи ҳам ўз боласини юмшоғим дер",
+        "russian_word": "всякой матери свое дитя мило"
+    },
+    {
+        "english_word": "the bull must be taken by the horns",
+        "uzbek_word": "фурсатни қўлдан бермай, дадиллик билан ишга киришмоқ; асосий масалани ҳал қилишга ўтмоқ; шижоат билан катта, оғир ишни бошлаб юбормоқ",
+        "russian_word": "бери быка за рога"
+    },
+    {
+        "english_word": "the camel going to seek horns lost his ears",
+        "uzbek_word": "кўп деб оздан қуруқ қолма",
+        "russian_word": "за чужим погонишься –свое потеряешь; искав чужое, свое потерял"
+    },
+    {
+        "english_word": "the cap fits",
+        "uzbek_word": "ўринлатиб гапирмоқ; гапни бопламоқ, қойилмақом қилмоқ",
+        "russian_word": "на воре шапка горит; не в бровь, а в глаз"
+    },
+    {
+        "english_word": "the cat shuts its eyes when stealing cream",
+        "uzbek_word": "одамларга хос фазилат бу ўзи қилган ишган (ўзининг айбига) кўзини беркитмоқ; кўзи кўр қулоғи кар қилмоқ; кўз юммоқ",
+        "russian_word": "людям свойственно закрывать глаза на свои грешки"
+    },
+    {
+        "english_word": "the cat would eat fish and would not wet her feet",
+        "uzbek_word": "меҳнат қилмай роҳат кўрмас; уруғ сепмай экин ўрмас; жон куйдирмасанг, жонона қайда, тоққа чиқмасанг, дўлона қайда",
+        "russian_word": "и хочется и колется; кошке хочется съесть рыбу, но не хочется замочить лапы"
+    },
+    {
+        "english_word": "the cow knows not what her tail is worth until she lost it",
+        "uzbek_word": "бор нарсанинг қадрига етмаймиз; олдингдан оққан сувнинг қадри йўқ",
+        "russian_word": "что имеем не храним потерявши плачем"
+    },
+    {
+        "english_word": "the darkest place is under the candlestick",
+        "uzbek_word": "жинчироқ остига ёғду бермас",
+        "russian_word": "умен, умен, а у себя под носом не видит; за семь верст комара искали, а комар на носу"
+    },
+    {
+        "english_word": "the devil knows many things because he is old",
+        "uzbek_word": "қари билганни пари билмас",
+        "russian_word": "старый волк знает толк"
+    },
+    {
+        "english_word": "the devil lurks behind the cross",
+        "uzbek_word": "домланинг қилганини қилма, айтганини қил",
+        "russian_word": "около святых черти водятся; поп людей учит, а сам грешит"
+    },
+    {
+        "english_word": "the dog that fetches will carry",
+        "uzbek_word": "сиз билан ғийбатлашган одам, сиз ҳақингизда ҳам ғийбатлашади",
+        "russian_word": "тот кто сплетничает с вами, будет сплетничать и о вас"
+    },
+    {
+        "english_word": "the dog that trots about finds a bone",
+        "uzbek_word": "ит юрса, сўнгак топар; излаган топар",
+        "russian_word": "кто ищет, тот всегда найдет; грибов ищут – по лесу рыщут"
+    },
+    {
+        "english_word": "the dogs bark, but caravan goes on",
+        "uzbek_word": "ит ҳурар, карвон ўтар",
+        "russian_word": "собака лает – ветер носит"
+    },
+    {
+        "english_word": "the early bird catches the worm",
+        "uzbek_word": "ким эрта турса, унга худо ризқ беради; барвақт қилинган ҳаракат, ҳосил берар баракат; эрта турган иш битирар, кеч турган кўп туринар",
+        "russian_word": "кто рано встает, тому бог дает"
+    },
+    {
+        "english_word": "the evils we bring on ourselves are hardest to bear",
+        "uzbek_word": "ўзимдан чиққан балога – қайга борай давога",
+        "russian_word": "несчастья, которые мы сами на себя навлекаем, тяжелее всех"
+    },
+    {
+        "english_word": "the falling out of lovers is the renewing of love",
+        "uzbek_word": "эр-хотин уриши – дока рўмол қуриши",
+        "russian_word": "милые бранятся, только тешатся"
+    },
+    {
+        "english_word": "the fox is not taken twice in the same snare",
+        "uzbek_word": "қари тулки тузоққа илинмайди; тулкини яна ўша қопқонга тушириб бўлмайди",
+        "russian_word": "старую лису дважды не проведешь; стреляного воробьяна мякине не проведешь"
+    },
+    {
+        "english_word": "the fox may grow grey but never good",
+        "uzbek_word": "букрини гўр тузатар; иллат кетар, одат кетмас; ўрганган кўнгил ўртанса қўймас",
+        "russian_word": "горбатого могила исправит"
+    },
+    {
+        "english_word": "the game is not worth the candle",
+        "uzbek_word": "эшагидан тушови қиммат",
+        "russian_word": "игра не стоит свеч; овчинка выделки не стоит"
+    },
+    {
+        "english_word": "the gods send nuts to those who have no teeth",
+        "uzbek_word": "худо тиши йўқларга ёнғоқ юборади; хоҳиш борку, иложи йўқ",
+        "russian_word": "когда зубов не стало, тогда и орехи принесли; хочется да не можется"
+    },
+    {
+        "english_word": "the goose hangs high",
+        "uzbek_word": "ишлар ўнгидан келмоқ; ҳаммаси жойида; кўнгилдагидек",
+        "russian_word": "все идет как по маслу; всё в порядке"
+    },
+    {
+        "english_word": "the highest tree has the greatest fall",
+        "uzbek_word": "баланд дорга осилма",
+        "russian_word": "не взлетай высоко – не  будешь падать низко"
+    },
+    {
+        "english_word": "the last straw breaks the camel's back",
+        "uzbek_word": "сабр косаси тўлмоқ; тоқати тоқ бўлди; қирқига чидаган қирқ бирига чидамас",
+        "russian_word": "последняя капля переполнила чашу"
+    },
+    {
+        "english_word": "the mountain has brought forth a mouse",
+        "uzbek_word": "кўп меҳнат сарфлаб, озгина натижа(га) олмоқ (эришмоқ)",
+        "russian_word": "гора родила мышь;  много шуму из ничего"
+    },
+    {
+        "english_word": "the mouse lordships where a cat is not",
+        "uzbek_word": "сулаймон ўлиб, девлар қутилди",
+        "russian_word": "без кота мышам раздолье; кошки со двора, а мыши–по столам"
+    },
+    {
+        "english_word": "the older the goose the harden to pluck",
+        "uzbek_word": "одам қанча катта бўлса, уни пулдан айириш шунча қийин бўлади",
+        "russian_word": "чем старше человек, тем труднее заставить его расстаться деньгами"
+    },
+    {
+        "english_word": "the pigs ran through it",
+        "uzbek_word": "ўйлаб қўйилган иш барбод бўлди; кули кўкка соврилмоқ",
+        "russian_word": "дело сорвалось; все пошло прахом"
+    },
+    {
+        "english_word": "the pitcher goes often to the well but is broken at last",
+        "uzbek_word": "кўза кунда синмайди, кунида синади",
+        "russian_word": "повадился кувшин по воду ходить, тут ему и голову сломить"
+    },
+    {
+        "english_word": "the pot calls the kettle black",
+        "uzbek_word": "аввал ўзингга боқ, кейин ноғора қоқ",
+        "russian_word": "горшок над котлом смеется, а оба черны; не смейся горох, не лучше бобов; не смейся квас, не лучше нас; чья бы корова мычала, а твоя бы молчала"
+    },
+    {
+        "english_word": "the rotten apple injures its neighbours",
+        "uzbek_word": "тиррақи бузоқ бутун подани бузади",
+        "russian_word": "паршивая овца всё стадо портить"
+    },
+    {
+        "english_word": "the scalded cat (dog) fears cold water",
+        "uzbek_word": "илон чаққан ола арқондан қўрқар; сутдан оғзи куйган қатиқни пуфлаб ичади",
+        "russian_word": "пуганая ворона куста боится; обжегшись на молоке будешь дуть и на воду"
+    },
+    {
+        "english_word": "the shoemaker's wife is the worst shod; the tailor's wife is the worst clad; the shoemaker’s son always goes barefoot",
+        "uzbek_word": "бўзчи белбоққа ёлчимас",
+        "russian_word": "сапожник без сапог"
+    },
+    {
+        "english_word": "the truth will out; /murder will out; what is done by night appears by day; you cannot hide an eel in a sack/",
+        "uzbek_word": "касални яширсанг, иситмаси ошкор қилади",
+        "russian_word": "шила в мешке не утаишь"
+    },
+    {
+        "english_word": "the sleeping fox catches no poultry",
+        "uzbek_word": "ким эрта турса, унга худо ризқ беради; барвақт қилинган ҳаракат, ҳосил берар баракат",
+        "russian_word": "кто рано встает, того удача ждет"
+    },
+    {
+        "english_word": "the smallest axe may fell the hugest oak",
+        "uzbek_word": "кичкина деманг бизни, кўтариб урамиз сизни; кичкина тош бош ёрар",
+        "russian_word": "мал да удал"
+    },
+    {
+        "english_word": "the whole tree or not a cherry on it",
+        "uzbek_word": "таваккалига иш қилмоқ; бўлганча бўлар; ҳаммаси ёки ҳеч нарса",
+        "russian_word": "или всё, или ничего"
+    },
+    {
+        "english_word": "the wolf may change his coat, but not his disposition",
+        "uzbek_word": "бировнинг боласи кишмиш берсанг ҳам турмайди; ўрганган кўнгил ўртанса қўймас",
+        "russian_word": "как волка не корми, он все в лес смотрит (характер человека трудно изменить или исправить)"
+    },
+    {
+        "english_word": "there are as good fish in the sea as ever came out of it",
+        "uzbek_word": "ачиб (бижиб) ётибди; мўр-малаҳдай",
+        "russian_word": "свет клином не сошелся; на наш век хватит; хоть пруд пруди"
+    },
+    {
+        "english_word": "there are more ways of killing a dog than by hanging",
+        "uzbek_word": "айтгани-айтган, дегани-деган; дунёда ҳар нарсага ҳам чора топилади",
+        "russian_word": "есть много способов добиться своего"
+    },
+    {
+        "english_word": "there are more ways than one to kill a cat",
+        "uzbek_word": "дунёнинг кети кенг; дунё тор; ҳар нарсага ҳам чора топилади; дунёда фақатгина у эмас-ку",
+        "russian_word": "есть много способов добиться своего; свет не клином сошёлся"
+    },
+    {
+        "english_word": "there is a black sheep in every flock",
+        "uzbek_word": "беш қўл баробар эмас; ҳар тўкисда бир айб; гуруч курмаксиз бўлмас",
+        "russian_word": "позор в семье; паршивая овца; в семье не без урода"
+    },
+    {
+        "english_word": "there is no smoke without fire",
+        "uzbek_word": "шамол бўлмаса, дарахтнинг учи қимирламайди",
+        "russian_word": "нет дыма без огня; без ветра камыш не качается; без тучи нет дождя"
+    },
+    {
+        "english_word": "there is small choice in rotten apples",
+        "uzbek_word": "алихўжа–хўжаали; икки ўн беш – бир ўттиз",
+        "russian_word": "хрен редьки не слаще"
+    },
+    {
+        "english_word": "they are hand and glove",
+        "uzbek_word": "ораларидан қил ҳам ўтмайди",
+        "russian_word": "их водой не разольешь"
+    },
+    {
+        "english_word": "till the cows come home",
+        "uzbek_word": "тепса – тебранмас; жуда узоқ",
+        "russian_word": "бесконечно долго; целую вечность"
+    },
+    {
+        "english_word": "time is money",
+        "uzbek_word": "вақт–ақчадир, ғофил бўлма, қочадир",
+        "russian_word": "время–деньги; время деньги дает, а на деньги время не купишь; век долог, да час дорог; пора да время дороже золота"
+    },
+    {
+        "english_word": "to add fuel (oil) to the fire (flames)",
+        "uzbek_word": "ярага туз сепади",
+        "russian_word": "подлить масла в огонь; огонь маслом заливать–лишь огня прибавлять"
+    },
+    {
+        "english_word": "to beard the lion in his den",
+        "uzbek_word": "шерга унинг ўзини уйида ҳужум қилмоқ",
+        "russian_word": "напасть на льва в его собственном логовище (т.е. храбро выступить против опытного и опасного противника)"
+    },
+    {
+        "english_word": "to beat about the bush",
+        "uzbek_word": "шаф–шаф дегунча, шафтоли деган яхшироқ",
+        "russian_word": "ходить вокруг да около; говорить обиняками"
+    },
+    {
+        "english_word": "to bring grist to the mill",
+        "uzbek_word": "бировнинг тегирмонига сув қуймоқ; бировга ён босмоқ",
+        "russian_word": "лить воду на чью-либо мельницу"
+    },
+    {
+        "english_word": "to carry (send) owls to Athens; to carry coals to Newcastle",
+        "uzbek_word": "дарё бўйида қудуқ қазимоқ; қовун полизга қовун кўтариб бормоқ",
+        "russian_word": "возить сов в Афины (возить что-л туда, где этого и так дотаточно), ездить Тулу со своим самаваром; воды море прибавлять, драва в лес водить"
+    },
+    {
+        "english_word": "to count one's chickens before they are hatched",
+        "uzbek_word": "ғалвирни сувдан кўтарганда маълум бўлади; жўжани кузда санамоқ",
+        "russian_word": "цыплят по осени считают"
+    },
+    {
+        "english_word": "to eat the calf in the cow's belly",
+        "uzbek_word": "жўжани кузда санайдилар; лайлакнинг кетишига боқма, келишига боқ; олинмаган бузоққа қозиқ қоқма",
+        "russian_word": "делить шкуру неубитого медведя"
+    },
+    {
+        "english_word": "to find a mare's nest",
+        "uzbek_word": "тегирмончи деб кўсани уйғотмоқ",
+        "russian_word": "найти гнездо кобылы; попасть пальцем в небо"
+    },
+    {
+        "english_word": "to go for wool and come home shorn",
+        "uzbek_word": "кўп деб оздан қуруқ қолма",
+        "russian_word": "пойти за шерстью, а вернуться стриженым (т.е. ничего не приобрести, а свое потерять)"
+    },
+    {
+        "english_word": "to kill the goose that lays the golden eggs",
+        "uzbek_word": "товуқни есанг, бир ейсан, тухумини есанг, минг ейсан",
+        "russian_word": "убить курицу несущие золотые яйца"
+    },
+    {
+        "english_word": "too many cooks spoil the broth",
+        "uzbek_word": "қўйчивон кўпайса, қўй ҳаром ўлади",
+        "russian_word": "у семи нянек дитя без глазу"
+    },
+    {
+        "english_word": "too much pudding will choke the dog",
+        "uzbek_word": "ҳар нарсани меъёри бўлгани яхши",
+        "russian_word": "всякое дело мера красит"
+    },
+    {
+        "english_word": "too much water drowned the miller",
+        "uzbek_word": "беш панжа оғиз йиртар",
+        "russian_word": "хорошего понемножку; все хорошо в меру"
+    },
+    {
+        "english_word": "truth lies at the bottom of a well",
+        "uzbek_word": "ҳақиқат – осмонда, калити – червонда",
+        "russian_word": "ищи ветра в поле, а правду на дне морском"
+    },
+    {
+        "english_word": "two blacks do not make a white",
+        "uzbek_word": "бировнинг айби, гуноҳи сеникини ювмайди",
+        "russian_word": "чужой грех своего не искупает"
+    },
+    {
+        "english_word": "two dogs fight for a bone, and a third runs away with it",
+        "uzbek_word": "бир суяк устида икки ит уришади, учинчиси суякни олиб қочади",
+        "russian_word": "две собаки дерутся из-за косточки, а третья с ней убегает (т.е. когда двое не могут договориться между собой, кто-то третий может воспользоваться моментом в своих интересах)"
+    },
+    {
+        "english_word": "two dogs over one bone seldom agree",
+        "uzbek_word": "икки ит билан бир суякни бўлиб бўлмайди",
+        "russian_word": "двумя собаками одной кости не поделить"
+    },
+    {
+        "english_word": "two heads are better than one",
+        "uzbek_word": "бир калла – калла, икки калла – тилла",
+        "russian_word": "одна голова хорошо, а две лучше; ум хорошо, а два лучше"
+    },
+    {
+        "english_word": "walls have ears",
+        "uzbek_word": "девор тагида гапирма, деворнинг ҳам қулоғи бор",
+        "russian_word": "и у стен есть уши; лес видит, а поле слышит"
+    },
+    {
+        "english_word": "we don’t kill a pig every day",
+        "uzbek_word": "ҳар куни ҳам байрам бўлавермайди; ойнинг бир куни қоронғу, бир куни ёруғ",
+        "russian_word": "праздник бывает не каждый день"
+    },
+    {
+        "english_word": "we know not what is good until we have lost it",
+        "uzbek_word": "йўқолган пичоқнинг сопи олтин",
+        "russian_word": "цену вещи узнаешь, когда потеряешь; что имеем, не храним, потерявши, плачем"
+    },
+    {
+        "english_word": "we never know the value of water till the well is dry / we know not what is good until we have lost it/",
+        "uzbek_word": "сув қадрини даштда юргандан сўра",
+        "russian_word": "что имеем, не храним, потерявши, плачем"
+    },
+    {
+        "english_word": "weep over (with) an onion",
+        "uzbek_word": "ёлғон йиғи, шайтон йиғиси",
+        "russian_word": "проливать крокодиловы слёзы; лицемерно плакат"
+    },
+    {
+        "english_word": "well begun is half done",
+        "uzbek_word": "ишнинг боши –бошлангунча",
+        "russian_word": "хорошее начало полдела откачало"
+    },
+    {
+        "english_word": "what can you expect from a hog but a grunt?",
+        "uzbek_word": "тарбиясиз, қўпол одамдан ҳеч нарса кутиб бўлмайди",
+        "russian_word": "из хама не сделаешь пана"
+    },
+    {
+        "english_word": "what must be, must be",
+        "uzbek_word": "бошга тушганни кўз кўрар",
+        "russian_word": "чему быть, того не миновать"
+    },
+    {
+        "english_word": "when angry, count a hundred",
+        "uzbek_word": "жаҳл дориси – сукут",
+        "russian_word": "когда рассердишься, сосчитай до ста"
+    },
+    {
+        "english_word": "when Greek meets Greek then comes the tag of war",
+        "uzbek_word": "икки (турли) томоннинг (турлича фикр, назария, қарашларнинг) тўқнаш келиб қолиши; бир-бирига ён (йўл) бермаслик, бўш келмаслик; қолишмаслик; ундан ўтиб тушмоқ",
+        "russian_word": "нашла коса на камень"
+    },
+    {
+        "english_word": "when pigs fly",
+        "uzbek_word": "туянинг думи ерга текканда; қизил қор ёққанда; ҳеч қачон, ҳеч вақт; келаси қовун пишиғида",
+        "russian_word": "никогда; после дождика в четверг; когда рак свистнет"
+    },
+    {
+        "english_word": "when the cats away the mice will play",
+        "uzbek_word": "сулаймон ўлиб, девлар қутилди",
+        "russian_word": "без кота мышам раздолье"
+    },
+    {
+        "english_word": "when the Ethiopian changes his skin",
+        "uzbek_word": "ҳеч қачон; туянинг думи ерга текканда",
+        "russian_word": "никогда; после дождика в четверг; когда рак свистнет"
+    },
+    {
+        "english_word": "when the fox preaches, take care of your geese",
+        "uzbek_word": "тулкининг тавбасидан қўрқ, муғомбирнинг навхасидан; ёмон одам яхшилик қилса, эҳтиёт бўл",
+        "russian_word": "льстивые слова говорит, а сам в карман норовит"
+    },
+    {
+        "english_word": "when two ride on one horse, one must sit behind",
+        "uzbek_word": "икки киши бир отда юришса, бири орқасида ўтиришга тўғри келади",
+        "russian_word": "когда двое едут на одной лошади, то одному приходиться сидеть сзади"
+    },
+    {
+        "english_word": "who has never tasted bitter, knows not what is sweet",
+        "uzbek_word": "ари заҳрини чекмаган, бол қадрини билмас",
+        "russian_word": "не отведав горького не узнаешь и сладкого"
+    },
+    {
+        "english_word": "who keeps company with the wolf, will learn to how",
+        "uzbek_word": "ёмон билан юрдим–қолдим уятга, яхши билан юрдим–етдим ниятга; қозонга яқин юрсанг, қораси юқади",
+        "russian_word": "с кем поведещся, от того и наберещся"
+    },
+    {
+        "english_word": "wild horse shall not drag it from me",
+        "uzbek_word": "буни мендан суғириб ололмайсан; жонимни олсанг ҳам айтмайман",
+        "russian_word": "этого клещами из меня не вытащишь"
+    },
+    {
+        "english_word": "will a duck swim?",
+        "uzbek_word": "жоним билан; наҳотки сиз менинг розилигимдан шубҳаланаётган бўлсангиз",
+        "russian_word": "с большим удовольствием; неужели вы сомневаетесь в моем согласии?"
+    },
+    {
+        "english_word": "with foxes we must play the fox",
+        "uzbek_word": "қозонга яқин юрсанг қораси юқади",
+        "russian_word": "с волками жить – по-волчьи выть"
+    },
+    {
+        "english_word": "with time and patience the leaf of the mulberry becomes satin",
+        "uzbek_word": "сабр қилсанг, ғўрадан ҳолва битар; сабр таги сариқ олтин",
+        "russian_word": "терпенье и труд все перетрут"
+    },
+    {
+        "english_word": "you can have no more of a cat but her skin",
+        "uzbek_word": "бир ҳўкиздан еттита тери шилиб бўлмайди",
+        "russian_word": "с одного вола семь шкур не сдерешь"
+    },
+    {
+        "english_word": "you can take a horse to the water but you can’t make him drink",
+        "uzbek_word": "зўрма зўраки иш қилсанг, панд ейсан;  ҳамма нарсага ҳам куч билан эришиб бўлмайди",
+        "russian_word": "не всего можно добиться силой"
+    },
+    {
+        "english_word": "you cannot catch old birds with chaff",
+        "uzbek_word": "қари тулки тузоққа илинмайди; тулкини яна ўша қопқонга тушириб бўлмайди",
+        "russian_word": "старого воробья на мякине не проведёшь"
+    },
+    {
+        "english_word": "you cannot judge a tree by its bark",
+        "uzbek_word": "ташига қарама, ичига қара",
+        "russian_word": "наружность обманчива"
+    },
+    {
+        "english_word": "you cannot make a crab to walk straight",
+        "uzbek_word": "букрини гўр тузатар; иллат кетар, одат кетмас; ўрганган кўнгил ўртанса қўймас",
+        "russian_word": "горбатого могила исправит"
+    },
+    {
+        "english_word": "you cannot touch pitch and not be defiled",
+        "uzbek_word": "қозонга яқин юрсанг, қораси юқар",
+        "russian_word": "с кем поведешься, от того и наберешься"
+    },
+    {
+        "english_word": "you never know what you can do till you try",
+        "uzbek_word": "кўз – қўрқоқ, қўл –ботир",
+        "russian_word": "попытка не пытка"
+    }
+]
