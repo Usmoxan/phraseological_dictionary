@@ -220,7 +220,7 @@ void _showBottomSheet(
               children: [
                 Flag(Flags.uzbekistan),
                 Text(
-                  text1,
+                  text2,
                   textAlign: TextAlign.center,
                   style: const TextStyle(fontSize: 24.0),
                 ),
@@ -231,7 +231,7 @@ void _showBottomSheet(
               children: [
                 Flag(Flags.russia),
                 Text(
-                  text1,
+                  text3,
                   textAlign: TextAlign.center,
                   style: const TextStyle(fontSize: 24.0),
                 ),
