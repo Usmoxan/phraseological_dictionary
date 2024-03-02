@@ -91,7 +91,7 @@ class _HomePageState extends State<HomePage> {
                         Center(
                             child: Icon(
                           Icons.space_dashboard,
-                          color: onSelectedItem == 0
+                          color: onSelectedItem == 1
                               ? const Color(0xFF3988FF)
                               : Colors.black,
                         )), // Center the icon
@@ -100,7 +100,7 @@ class _HomePageState extends State<HomePage> {
                           textAlign: TextAlign.center,
                           style: TextStyle(
                             fontSize: 12,
-                            color: onSelectedItem == 0
+                            color: onSelectedItem == 1
                                 ? const Color(0xFF3988FF)
                                 : Colors.black,
                           ),
@@ -122,7 +122,7 @@ class _HomePageState extends State<HomePage> {
                         Center(
                             child: Icon(
                           Icons.help,
-                          color: onSelectedItem == 0
+                          color: onSelectedItem == 2
                               ? const Color(0xFF3988FF)
                               : Colors.black,
                         )), // Center the icon
@@ -131,7 +131,7 @@ class _HomePageState extends State<HomePage> {
                           textAlign: TextAlign.center,
                           style: TextStyle(
                             fontSize: 12,
-                            color: onSelectedItem == 0
+                            color: onSelectedItem == 2
                                 ? const Color(0xFF3988FF)
                                 : Colors.black,
                           ),
