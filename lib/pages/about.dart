@@ -10,17 +10,17 @@ class AboutPage extends StatefulWidget {
 class _AboutPageState extends State<AboutPage> {
   @override
   Widget build(BuildContext context) {
-    return const Center(
+    return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Spacer(),
-          // SizedBox(
-          //     width: 150,
-          //     height: 150,
-          //     child: Image.asset("assets/icons/ic_launcher.png")),
-          Padding(
+          const Spacer(),
+          SizedBox(
+              width: 150,
+              height: 150,
+              child: Image.asset("assets/ic_launcher.png")),
+          const Padding(
             padding: EdgeInsets.all(15.0),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.start,
@@ -40,19 +40,19 @@ class _AboutPageState extends State<AboutPage> {
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
                 Text(
-                  "Islom Karimov nomida Toshkent davlat texnika universiteti",
+                  "O‘zbekiston davlat jahon tillari universiteti",
                   style: TextStyle(fontSize: 20),
                   textAlign: TextAlign.center,
                 ),
               ],
             ),
           ),
-          Spacer(),
-          Text(
+          const Spacer(),
+          const Text(
             "Ilova talqini: 1.0.0",
             style: TextStyle(fontSize: 15),
           ),
-          SizedBox(height: 50),
+          const SizedBox(height: 50),
         ],
       ),
     );

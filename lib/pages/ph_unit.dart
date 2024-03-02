@@ -80,12 +80,12 @@ class _PhUnitPageState extends State<PhUnitPage> {
                           decoration: BoxDecoration(
                             border: Border.all(
                               color: lang == 0
-                                  ? Colors.purple
+                                  ? const Color(0xFF3988FF)
                                   : Colors.grey, // Set the border color here
                               width: 0.5, // Set the border width here
                             ),
                             color: lang == 0
-                                ? Colors.purple.shade100
+                                ? const Color(0xFF3988FF).withOpacity(0.4)
                                 : Colors.white,
                             borderRadius: const BorderRadius.all(
                               Radius.circular(10),
@@ -110,12 +110,12 @@ class _PhUnitPageState extends State<PhUnitPage> {
                           decoration: BoxDecoration(
                             border: Border.all(
                               color: lang == 1
-                                  ? Colors.purple
+                                  ? const Color(0xFF3988FF)
                                   : Colors.grey, // Set the border color here
                               width: 0.5, // Set the border width here
                             ),
                             color: lang == 1
-                                ? Colors.purple.shade100
+                                ? const Color(0xFF3988FF).withOpacity(0.4)
                                 : Colors.white,
                             borderRadius: const BorderRadius.all(
                               Radius.circular(10),
@@ -140,12 +140,12 @@ class _PhUnitPageState extends State<PhUnitPage> {
                           decoration: BoxDecoration(
                             border: Border.all(
                               color: lang == 2
-                                  ? Colors.purple
+                                  ? const Color(0xFF3988FF)
                                   : Colors.grey, // Set the border color here
                               width: 0.5, // Set the border width here
                             ),
                             color: lang == 2
-                                ? Colors.purple.shade100
+                                ? const Color(0xFF3988FF).withOpacity(0.4)
                                 : Colors.white,
                             borderRadius: const BorderRadius.all(
                               Radius.circular(10),
