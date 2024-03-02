@@ -55,26 +55,28 @@ class _HomePageState extends State<HomePage> {
                         selectedPageIndex = 0;
                       });
                     },
-                    child: Column(
-                      children: [
-                        Center(
-                            child: Icon(
-                          Icons.dashboard_rounded,
-                          color: onSelectedItem == 0
-                              ? const Color(0xFF3988FF)
-                              : Colors.black,
-                        )), // Center the icon
-                        Text(
-                          'PHRASEOLOGICAL UNITS',
-                          style: TextStyle(
-                            fontSize: 12,
+                    child: Expanded(
+                      child: Column(
+                        children: [
+                          Center(
+                              child: Icon(
+                            Icons.dashboard_rounded,
                             color: onSelectedItem == 0
                                 ? const Color(0xFF3988FF)
                                 : Colors.black,
-                          ),
-                          textAlign: TextAlign.center,
-                        )
-                      ],
+                          )), // Center the icon
+                          Text(
+                            'PHRASEOLOGICAL UNITS',
+                            style: TextStyle(
+                              fontSize: 12,
+                              color: onSelectedItem == 0
+                                  ? const Color(0xFF3988FF)
+                                  : Colors.black,
+                            ),
+                            textAlign: TextAlign.center,
+                          )
+                        ],
+                      ),
                     ),
                   ),
                 ),
@@ -86,26 +88,28 @@ class _HomePageState extends State<HomePage> {
                         selectedPageIndex = 1;
                       });
                     },
-                    child: Column(
-                      children: [
-                        Center(
-                            child: Icon(
-                          Icons.space_dashboard,
-                          color: onSelectedItem == 1
-                              ? const Color(0xFF3988FF)
-                              : Colors.black,
-                        )), // Center the icon
-                        Text(
-                          'PROVERBS AND SAYINGS',
-                          textAlign: TextAlign.center,
-                          style: TextStyle(
-                            fontSize: 12,
+                    child: Expanded(
+                      child: Column(
+                        children: [
+                          Center(
+                              child: Icon(
+                            Icons.space_dashboard,
                             color: onSelectedItem == 1
                                 ? const Color(0xFF3988FF)
                                 : Colors.black,
-                          ),
-                        )
-                      ],
+                          )), // Center the icon
+                          Text(
+                            'PROVERBS AND SAYINGS',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              fontSize: 12,
+                              color: onSelectedItem == 1
+                                  ? const Color(0xFF3988FF)
+                                  : Colors.black,
+                            ),
+                          )
+                        ],
+                      ),
                     ),
                   ),
                 ),
@@ -117,26 +121,28 @@ class _HomePageState extends State<HomePage> {
                         selectedPageIndex = 2;
                       });
                     },
-                    child: Column(
-                      children: [
-                        Center(
-                            child: Icon(
-                          Icons.help,
-                          color: onSelectedItem == 2
-                              ? const Color(0xFF3988FF)
-                              : Colors.black,
-                        )), // Center the icon
-                        Text(
-                          'Haqida',
-                          textAlign: TextAlign.center,
-                          style: TextStyle(
-                            fontSize: 12,
+                    child: Expanded(
+                      child: Column(
+                        children: [
+                          Center(
+                              child: Icon(
+                            Icons.help,
                             color: onSelectedItem == 2
                                 ? const Color(0xFF3988FF)
                                 : Colors.black,
-                          ),
-                        )
-                      ],
+                          )), // Center the icon
+                          Text(
+                            'Haqida',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              fontSize: 12,
+                              color: onSelectedItem == 2
+                                  ? const Color(0xFF3988FF)
+                                  : Colors.black,
+                            ),
+                          )
+                        ],
+                      ),
                     ),
                   ),
                 ),

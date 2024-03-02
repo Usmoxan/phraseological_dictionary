@@ -92,7 +92,10 @@ class _PhUnitPageState extends State<PhUnitPage> {
                             ),
                           ),
                           child: Center(
-                            child: SvgFlag(FlagData.parse(code: "US"),height: 25,),
+                            child: SvgFlag(
+                              FlagData.parse(code: "US"),
+                              height: 25,
+                            ),
                           ),
                         ),
                       ),
@@ -122,7 +125,10 @@ class _PhUnitPageState extends State<PhUnitPage> {
                             ),
                           ),
                           child: Center(
-                            child: SvgFlag(FlagData.parse(code: "UZ"),height: 25,),
+                            child: SvgFlag(
+                              FlagData.parse(code: "UZ"),
+                              height: 25,
+                            ),
                           ),
                         ),
                       ),
@@ -211,7 +217,10 @@ void _showBottomSheet(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Flag(Flags.united_states_of_america),
+                SvgFlag(
+                  FlagData.parse(code: "US"),
+                  height: 25,
+                ),
                 const SizedBox(width: 10.0),
                 Flexible(
                   child: Text(
@@ -226,7 +235,10 @@ void _showBottomSheet(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Flag(Flags.uzbekistan),
+                SvgFlag(
+                  FlagData.parse(code: "UZ"),
+                  height: 25,
+                ),
                 const SizedBox(width: 10.0),
                 Flexible(
                   child: Text(
