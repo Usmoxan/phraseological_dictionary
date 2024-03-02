@@ -40,7 +40,7 @@ class _AboutPageState extends State<AboutPage> {
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
                 Text(
-                  "O‘zbekiston davlat jahon tillari universiteti",
+                  "O‘zbekiston davlat jahon tillari universiteti\nIngliz tilini o‘qitish metodikasi kafedrasi mudiri",
                   style: TextStyle(fontSize: 20),
                   textAlign: TextAlign.center,
                 ),
