@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
+import 'package:svg_flag/svg_flag.dart';
 import 'package:phraseological_dictionary/models/model.dart';
 import 'package:phraseological_dictionary/service/service.dart';
 import 'package:icons_plus/icons_plus.dart';
@@ -92,7 +92,7 @@ class _PhUnitPageState extends State<PhUnitPage> {
                             ),
                           ),
                           child: Center(
-                            child: Flag(Flags.united_states_of_america),
+                            child: SvgFlag(FlagData.parse(code: "US"),height: 25,),
                           ),
                         ),
                       ),
@@ -122,7 +122,7 @@ class _PhUnitPageState extends State<PhUnitPage> {
                             ),
                           ),
                           child: Center(
-                            child: Flag(Flags.uzbekistan),
+                            child: SvgFlag(FlagData.parse(code: "UZ"),height: 25,),
                           ),
                         ),
                       ),

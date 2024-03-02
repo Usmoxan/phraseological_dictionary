@@ -4,6 +4,7 @@ import 'package:flutter/widgets.dart';
 import 'package:phraseological_dictionary/models/model.dart';
 import 'package:phraseological_dictionary/service/service.dart';
 import 'package:icons_plus/icons_plus.dart';
+import 'package:svg_flag/svg_flag.dart';
 
 class PnsayingPage extends StatefulWidget {
   final String path;
@@ -92,7 +93,7 @@ class _PnsayingPageState extends State<PnsayingPage> {
                             ),
                           ),
                           child: Center(
-                            child: Flag(Flags.united_states_of_america),
+                            child: SvgFlag(FlagData.parse(code: "US"),height: 25,),
                           ),
                         ),
                       ),
@@ -122,7 +123,7 @@ class _PnsayingPageState extends State<PnsayingPage> {
                             ),
                           ),
                           child: Center(
-                            child: Flag(Flags.uzbekistan),
+                            child: SvgFlag(FlagData.parse(code: "UZ"),height: 25,),
                           ),
                         ),
                       ),

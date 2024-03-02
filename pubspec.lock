@@ -232,6 +232,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  svg_flag:
+    dependency: "direct main"
+    description:
+      name: svg_flag
+      sha256: "1984450ad12ebd096f52da456c0da8310ad039dd6d403b83aeec18df0dfd9f7b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.5.1"
   term_glyph:
     dependency: transitive
     description:
