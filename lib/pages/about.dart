@@ -20,6 +20,11 @@ class _AboutPageState extends State<AboutPage> {
               width: 150,
               height: 150,
               child: Image.asset("assets/ic_launcher.png")),
+          const Text(
+            "Inglizchа – O‘zbekchа – Ruschа frаzeologizmlаrning qisqаchа lug‘аti",
+            style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            textAlign: TextAlign.center,
+          ),
           const Padding(
             padding: EdgeInsets.all(15.0),
             child: Column(
@@ -31,12 +36,12 @@ class _AboutPageState extends State<AboutPage> {
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
                 Text(
-                  "Soxibova O‘g‘iloy Nuraliyevna\nXudoyberdiyeva Gulasal Shuxratovna",
+                  "Fotimaxon Azizova Saidbaxramovna",
                   style: TextStyle(fontSize: 20),
                   textAlign: TextAlign.center,
                 ),
                 Text(
-                  "Oliy ta'lim muassasasi:",
+                  "Ish joyi:",
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
                 Text(

@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Phraseological dictionary',
+        title: 'Inglizchа – O‘zbekchа – Ruschа frаzeologizmlаrning qisqаchа lug‘аti',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF3988FF)),
