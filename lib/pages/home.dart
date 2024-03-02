@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:phraseological_dictionary/pages/about.dart';
 import 'package:phraseological_dictionary/pages/ph_unit.dart';
 import 'package:phraseological_dictionary/pages/proverbsnsaying.dart';
@@ -12,6 +13,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  int onSelectedItem = 0;
   final List<Widget> _pages = [
     const PhUnitPage(
       path: 'assets/section1.json',
@@ -40,41 +42,104 @@ class _HomePageState extends State<HomePage> {
           Container(
             color: Colors.white,
             padding: const EdgeInsets.all(5),
-            child: const Row(
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment
+                  .spaceAround, // Center the columns in the row
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Expanded(
-                    child: Column(
-                  children: [
-                    Icon(Icons.dashboard_rounded),
-                    Text(
-                      'PHRASEOLOGICAL UNITS',
-                      style: TextStyle(fontSize: 12),
-                      textAlign: TextAlign.center,
-                    )
-                  ],
-                )),
-                Expanded(
+                  child: GestureDetector(
+                    onTap: () {
+                      setState(() {
+                        onSelectedItem = 0;
+                        selectedPageIndex = 0;
+                      });
+                    },
                     child: Column(
                       children: [
-                        Icon(Icons.space_dashboard),
+                        Center(
+                            child: Icon(
+                          Icons.dashboard_rounded,
+                          color: onSelectedItem == 0
+                              ? const Color(0xFF3988FF)
+                              : Colors.black,
+                        )), // Center the icon
+                        Text(
+                          'PHRASEOLOGICAL UNITS',
+                          style: TextStyle(
+                            fontSize: 12,
+                            color: onSelectedItem == 0
+                                ? const Color(0xFF3988FF)
+                                : Colors.black,
+                          ),
+                          textAlign: TextAlign.center,
+                        )
+                      ],
+                    ),
+                  ),
+                ),
+                Expanded(
+                  child: GestureDetector(
+                    onTap: () {
+                      setState(() {
+                        onSelectedItem = 1;
+                        selectedPageIndex = 1;
+                      });
+                    },
+                    child: Column(
+                      children: [
+                        Center(
+                            child: Icon(
+                          Icons.space_dashboard,
+                          color: onSelectedItem == 0
+                              ? const Color(0xFF3988FF)
+                              : Colors.black,
+                        )), // Center the icon
                         Text(
                           'PROVERBS AND SAYINGS',
                           textAlign: TextAlign.center,
-                          style: TextStyle(fontSize: 12),
+                          style: TextStyle(
+                            fontSize: 12,
+                            color: onSelectedItem == 0
+                                ? const Color(0xFF3988FF)
+                                : Colors.black,
+                          ),
                         )
                       ],
-                    )),
+                    ),
+                  ),
+                ),
                 Expanded(
+                  child: GestureDetector(
+                    onTap: () {
+                      setState(() {
+                        onSelectedItem = 2;
+                        selectedPageIndex = 2;
+                      });
+                    },
                     child: Column(
-                  children: [
-                    Icon(Icons.help),
-                    Text(
-                      'Haqida',
-                      textAlign: TextAlign.center,
-                      style: TextStyle(fontSize: 12),
-                    )
-                  ],
-                )),
+                      children: [
+                        Center(
+                            child: Icon(
+                          Icons.help,
+                          color: onSelectedItem == 0
+                              ? const Color(0xFF3988FF)
+                              : Colors.black,
+                        )), // Center the icon
+                        Text(
+                          'Haqida',
+                          textAlign: TextAlign.center,
+                          style: TextStyle(
+                            fontSize: 12,
+                            color: onSelectedItem == 0
+                                ? const Color(0xFF3988FF)
+                                : Colors.black,
+                          ),
+                        )
+                      ],
+                    ),
+                  ),
+                ),
               ],
             ),
           ),
