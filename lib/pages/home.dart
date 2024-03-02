@@ -13,7 +13,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  int onSelectedItem = 0;
+  int selectedPageIndex = 0;
   final List<Widget> _pages = [
     const PhUnitPage(
       path: 'assets/section1.json',
@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
     ),
     const AboutPage()
   ];
-  var selectedPageIndex = 0;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
                   child: GestureDetector(
                     onTap: () {
                       setState(() {
-                        onSelectedItem = 0;
+                        selectedPageIndex = 0;
                         selectedPageIndex = 0;
                       });
                     },
@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
                           Center(
                               child: Icon(
                             Icons.dashboard_rounded,
-                            color: onSelectedItem == 0
+                            color: selectedPageIndex == 0
                                 ? const Color(0xFF3988FF)
                                 : Colors.black,
                           )), // Center the icon
@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
                             'PHRASEOLOGICAL UNITS',
                             style: TextStyle(
                               fontSize: 12,
-                              color: onSelectedItem == 0
+                              color: selectedPageIndex == 0
                                   ? const Color(0xFF3988FF)
                                   : Colors.black,
                             ),
@@ -84,7 +84,6 @@ class _HomePageState extends State<HomePage> {
                   child: GestureDetector(
                     onTap: () {
                       setState(() {
-                        onSelectedItem = 1;
                         selectedPageIndex = 1;
                       });
                     },
@@ -94,7 +93,7 @@ class _HomePageState extends State<HomePage> {
                           Center(
                               child: Icon(
                             Icons.space_dashboard,
-                            color: onSelectedItem == 1
+                            color: selectedPageIndex == 1
                                 ? const Color(0xFF3988FF)
                                 : Colors.black,
                           )), // Center the icon
@@ -103,7 +102,7 @@ class _HomePageState extends State<HomePage> {
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               fontSize: 12,
-                              color: onSelectedItem == 1
+                              color: selectedPageIndex == 1
                                   ? const Color(0xFF3988FF)
                                   : Colors.black,
                             ),
@@ -117,7 +116,6 @@ class _HomePageState extends State<HomePage> {
                   child: GestureDetector(
                     onTap: () {
                       setState(() {
-                        onSelectedItem = 2;
                         selectedPageIndex = 2;
                       });
                     },
@@ -127,7 +125,7 @@ class _HomePageState extends State<HomePage> {
                           Center(
                               child: Icon(
                             Icons.help,
-                            color: onSelectedItem == 2
+                            color: selectedPageIndex == 2
                                 ? const Color(0xFF3988FF)
                                 : Colors.black,
                           )), // Center the icon
@@ -136,7 +134,7 @@ class _HomePageState extends State<HomePage> {
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               fontSize: 12,
-                              color: onSelectedItem == 2
+                              color: selectedPageIndex == 2
                                   ? const Color(0xFF3988FF)
                                   : Colors.black,
                             ),
