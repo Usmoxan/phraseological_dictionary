@@ -26,6 +26,7 @@ class _AboutPageState extends State<AboutPage> {
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
+                SizedBox(height: 10),
                 Text(
                   "Muallif:",
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
@@ -35,6 +36,7 @@ class _AboutPageState extends State<AboutPage> {
                   style: TextStyle(fontSize: 20),
                   textAlign: TextAlign.center,
                 ),
+                SizedBox(height: 10),
                 Text(
                   "Ish joyi:",
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
@@ -44,6 +46,7 @@ class _AboutPageState extends State<AboutPage> {
                   style: TextStyle(fontSize: 20),
                   textAlign: TextAlign.center,
                 ),
+                SizedBox(height: 10),
                 Text(
                   "Dastur nomi:",
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),

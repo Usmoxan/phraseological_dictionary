@@ -93,7 +93,10 @@ class _PnsayingPageState extends State<PnsayingPage> {
                             ),
                           ),
                           child: Center(
-                            child: SvgFlag(FlagData.parse(code: "US"),height: 25,),
+                            child: SvgFlag(
+                              FlagData.parse(code: "US"),
+                              height: 25,
+                            ),
                           ),
                         ),
                       ),
@@ -123,7 +126,10 @@ class _PnsayingPageState extends State<PnsayingPage> {
                             ),
                           ),
                           child: Center(
-                            child: SvgFlag(FlagData.parse(code: "UZ"),height: 25,),
+                            child: SvgFlag(
+                              FlagData.parse(code: "UZ"),
+                              height: 25,
+                            ),
                           ),
                         ),
                       ),
@@ -204,78 +210,68 @@ void _showBottomSheet(
       return Container(
         width: double.infinity,
         padding: const EdgeInsets.all(16.0),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: <Widget>[
-            const SizedBox(height: 20.0),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.start,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Flag(Flags.united_states_of_america),
-                const SizedBox(width: 10.0),
-                Flexible(
-                  child: Text(
-                    text1,
-                    style: const TextStyle(fontSize: 24.0),
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 16.0),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.start,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Flag(Flags.uzbekistan),
-                const SizedBox(width: 10.0),
-                Flexible(
-                  child: Text(
-                    text2,
-                    style: const TextStyle(fontSize: 24.0),
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 20.0),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.start,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Flag(Flags.russia),
-                const SizedBox(width: 10.0),
-                Flexible(
-                  child: Text(
-                    text3,
-                    style: const TextStyle(fontSize: 24.0),
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 20.0),
-            GestureDetector(
-              onTap: () {
-                Navigator.pop(context);
-              },
-              child: Container(
-                margin: const EdgeInsets.all(10),
-                height: 50,
-                decoration: BoxDecoration(
-                  border: Border.all(
-                    color: Colors.grey, // Set the border color here
-                    width: 0.5, // Set the border width here
-                  ),
-                  color: Colors.white,
-                  borderRadius: const BorderRadius.all(
-                    Radius.circular(10),
-                  ),
-                ),
-                child: const Center(
-                  child: Text("YOPISH"),
-                ),
+        child: SingleChildScrollView(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: <Widget>[
+              Row(
+                mainAxisAlignment: MainAxisAlignment.end,
+                children: [
+                  IconButton(
+                      onPressed: () {
+                        Navigator.pop(context);
+                      },
+                      icon: const Icon(Icons.close))
+                ],
               ),
-            ),
-          ],
+              const Divider(),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.start,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Flag(Flags.united_states_of_america),
+                  const SizedBox(width: 10.0),
+                  Flexible(
+                    child: Text(
+                      text1,
+                      style: const TextStyle(fontSize: 24.0),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 16.0),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.start,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Flag(Flags.uzbekistan),
+                  const SizedBox(width: 10.0),
+                  Flexible(
+                    child: Text(
+                      text2,
+                      style: const TextStyle(fontSize: 24.0),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 20.0),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.start,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Flag(Flags.russia),
+                  const SizedBox(width: 10.0),
+                  Flexible(
+                    child: Text(
+                      text3,
+                      style: const TextStyle(fontSize: 24.0),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 20.0),
+            ],
+          ),
         ),
       );
     },

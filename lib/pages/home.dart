@@ -15,7 +15,9 @@ class _HomePageState extends State<HomePage> {
     const PhUnitPage(
       path: 'assets/section1.json',
     ),
-    const PnsayingPage(path: 'assets/section2.json',),
+    const PnsayingPage(
+      path: 'assets/section2.json',
+    ),
     const AboutPage()
   ];
   var selectedPageIndex = 0;
@@ -31,7 +33,9 @@ class _HomePageState extends State<HomePage> {
         children: _pages,
       ),
       bottomNavigationBar: BottomNavigationBar(
-        selectedLabelStyle: const TextStyle(fontSize: 12),
+        selectedLabelStyle: const TextStyle(
+          fontSize: 12,
+        ),
         backgroundColor: Theme.of(context).brightness == Brightness.light
             ? Colors.white
             : Colors.black,
