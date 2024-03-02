@@ -1,4 +1,6 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:phraseological_dictionary/models/model.dart';
 import 'package:phraseological_dictionary/service/service.dart';
 import 'package:icons_plus/icons_plus.dart';
@@ -163,7 +165,10 @@ class _PhUnitPageState extends State<PhUnitPage> {
                     itemBuilder: (context, index) {
                       VocabularyItem item = filteredList[index];
                       return GestureDetector(
-                        onTap: () {},
+                        onTap: () {
+                          _showBottomSheet(context, item.englishWord,
+                              item.uzbekWord, item.russianWord);
+                        },
                         child: Card(
                           child: Padding(
                             padding: const EdgeInsets.all(10),
@@ -188,4 +193,90 @@ class _PhUnitPageState extends State<PhUnitPage> {
       ),
     );
   }
+}
+
+void _showBottomSheet(
+    BuildContext context, String text1, String text2, String text3) {
+  showModalBottomSheet(
+    context: context,
+    builder: (BuildContext context) {
+      return Container(
+        width: double.infinity,
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: <Widget>[
+            const SizedBox(height: 20.0),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Flag(Flags.united_states_of_america),
+                const SizedBox(width: 10.0),
+                Flexible(
+                  child: Text(
+                    text1,
+                    style: const TextStyle(fontSize: 24.0),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16.0),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Flag(Flags.uzbekistan),
+                const SizedBox(width: 10.0),
+                Flexible(
+                  child: Text(
+                    text2,
+                    style: const TextStyle(fontSize: 24.0),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 20.0),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Flag(Flags.russia),
+                const SizedBox(width: 10.0),
+                Flexible(
+                  child: Text(
+                    text3,
+                    style: const TextStyle(fontSize: 24.0),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 20.0),
+            GestureDetector(
+              onTap: () {
+                Navigator.pop(context);
+              },
+              child: Container(
+                margin: const EdgeInsets.all(10),
+                height: 50,
+                decoration: BoxDecoration(
+                  border: Border.all(
+                    color: Colors.grey, // Set the border color here
+                    width: 0.5, // Set the border width here
+                  ),
+                  color: Colors.white,
+                  borderRadius: const BorderRadius.all(
+                    Radius.circular(10),
+                  ),
+                ),
+                child: const Center(
+                  child: Text("YOPISH"),
+                ),
+              ),
+            ),
+          ],
+        ),
+      );
+    },
+  );
 }

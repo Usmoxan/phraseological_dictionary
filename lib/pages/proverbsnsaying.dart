@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:phraseological_dictionary/models/model.dart';
@@ -165,7 +166,8 @@ class _PnsayingPageState extends State<PnsayingPage> {
                       VocabularyItem item = filteredList[index];
                       return GestureDetector(
                         onTap: () {
-                          _showBottomSheet(context, "ass", "ded", "dasd");
+                          _showBottomSheet(context, item.englishWord,
+                              item.uzbekWord, item.russianWord);
                         },
                         child: Card(
                           child: Padding(
@@ -206,34 +208,46 @@ void _showBottomSheet(
           children: <Widget>[
             const SizedBox(height: 20.0),
             Row(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Flag(Flags.united_states_of_america),
-                Text(
-                  text1,
-                  textAlign: TextAlign.center,
-                  style: const TextStyle(fontSize: 24.0),
+                const SizedBox(width: 10.0),
+                Flexible(
+                  child: Text(
+                    text1,
+                    style: const TextStyle(fontSize: 24.0),
+                  ),
                 ),
               ],
             ),
             const SizedBox(height: 16.0),
             Row(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Flag(Flags.uzbekistan),
-                Text(
-                  text2,
-                  textAlign: TextAlign.center,
-                  style: const TextStyle(fontSize: 24.0),
+                const SizedBox(width: 10.0),
+                Flexible(
+                  child: Text(
+                    text2,
+                    style: const TextStyle(fontSize: 24.0),
+                  ),
                 ),
               ],
             ),
             const SizedBox(height: 20.0),
             Row(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Flag(Flags.russia),
-                Text(
-                  text3,
-                  textAlign: TextAlign.center,
-                  style: const TextStyle(fontSize: 24.0),
+                const SizedBox(width: 10.0),
+                Flexible(
+                  child: Text(
+                    text3,
+                    style: const TextStyle(fontSize: 24.0),
+                  ),
                 ),
               ],
             ),
