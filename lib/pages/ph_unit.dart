@@ -14,7 +14,7 @@ class PhUnitPage extends StatefulWidget {
 class _PhUnitPageState extends State<PhUnitPage> {
   late Future<List<VocabularyItem>> vocabulary;
   String searchQuery = ''; // Hold the search query entered by the user
-  bool lang = true;
+  int lang = 0;
   @override
   void initState() {
     super.initState();
@@ -69,7 +69,7 @@ class _PhUnitPageState extends State<PhUnitPage> {
                       child: GestureDetector(
                         onTap: () {
                           setState(() {
-                            lang = true;
+                            lang = 0;
                           });
                         },
                         child: Container(
@@ -77,12 +77,44 @@ class _PhUnitPageState extends State<PhUnitPage> {
                           height: 50,
                           decoration: BoxDecoration(
                             border: Border.all(
-                              color: lang
+                              color: lang == 0
                                   ? Colors.purple
                                   : Colors.grey, // Set the border color here
                               width: 0.5, // Set the border width here
                             ),
-                            color: lang ? Colors.purple.shade100 : Colors.white,
+                            color: lang == 0
+                                ? Colors.purple.shade100
+                                : Colors.white,
+                            borderRadius: const BorderRadius.all(
+                              Radius.circular(10),
+                            ),
+                          ),
+                          child: Center(
+                            child: Flag(Flags.united_states_of_america),
+                          ),
+                        ),
+                      ),
+                    ),
+                    Expanded(
+                      child: GestureDetector(
+                        onTap: () {
+                          setState(() {
+                            lang = 1;
+                          });
+                        },
+                        child: Container(
+                          margin: const EdgeInsets.all(10),
+                          height: 50,
+                          decoration: BoxDecoration(
+                            border: Border.all(
+                              color: lang == 1
+                                  ? Colors.purple
+                                  : Colors.grey, // Set the border color here
+                              width: 0.5, // Set the border width here
+                            ),
+                            color: lang == 1
+                                ? Colors.purple.shade100
+                                : Colors.white,
                             borderRadius: const BorderRadius.all(
                               Radius.circular(10),
                             ),
@@ -97,7 +129,7 @@ class _PhUnitPageState extends State<PhUnitPage> {
                       child: GestureDetector(
                         onTap: () {
                           setState(() {
-                            lang = false;
+                            lang = 2;
                           });
                         },
                         child: Container(
@@ -105,12 +137,14 @@ class _PhUnitPageState extends State<PhUnitPage> {
                           height: 50,
                           decoration: BoxDecoration(
                             border: Border.all(
-                              color: lang
-                                  ? Colors.grey
-                                  : Colors.purple, // Set the border color here
+                              color: lang == 2
+                                  ? Colors.purple
+                                  : Colors.grey, // Set the border color here
                               width: 0.5, // Set the border width here
                             ),
-                            color: lang ? Colors.white : Colors.purple.shade100,
+                            color: lang == 2
+                                ? Colors.purple.shade100
+                                : Colors.white,
                             borderRadius: const BorderRadius.all(
                               Radius.circular(10),
                             ),
@@ -131,16 +165,15 @@ class _PhUnitPageState extends State<PhUnitPage> {
                       return GestureDetector(
                         onTap: () {},
                         child: Card(
-                          child: ListTile(
-                            title: Text(
-                              item.englishWord,
+                          child: Padding(
+                            padding: const EdgeInsets.all(10),
+                            child: Text(
+                              lang == 0
+                                  ? item.englishWord
+                                  : lang == 1
+                                      ? item.uzbekWord
+                                      : item.russianWord,
                               style: const TextStyle(fontSize: 20),
-                            ),
-                            subtitle: Text(
-                              lang ? item.uzbekWord : item.russianWord,
-                              style: const TextStyle(
-                                  fontSize: 18,
-                                  color: Color.fromARGB(255, 109, 109, 109)),
                             ),
                           ),
                         ),
